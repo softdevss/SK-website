@@ -34,6 +34,7 @@
                         <li><a href="index.php"><i class="fa fa-home fa-fw"></i>Home</a></li>
                         <!-- <li><a href="charts.html"><i class="fa fa-fw fa-bar-chart-o"></i>Charts</a></li> -->
                         <li><a href="./contact.php"><i class="fas fa-pencil fa-fw"></i> Contacts</a></li>
+                        <li><a href="./requestletter.php"><i class="fas fa-pencil fa-fw"></i> Request letter</a></li>
                         <li><a href="./donations.php"><i class="fa fa-book fa-fw"></i>Donations</a></li>
                         <li><a href="./volunteerview.php"><i class="fa fa-book fa-fw"></i>Be A Volunteer</a></li>
                         <li><a href="./helpdeskview.php"><i class="fa fa-book fa-fw"></i>Online Help Desk</a></li>
@@ -44,7 +45,7 @@
                                 <li><a href="users.php?source=add_users"><i class="fa fa-user fa-fw"></i> Add user</a></li>
                             </ul>
                         </li>
-                        <li><a href="index-rtl.html"><i class="fa fa-fw fa-dashboard"></i>RTL Dashboard</a></li>
+                        <li><a href="request.php"><i class="fa fa-fw fa-dashboard"></i> Make Request</a></li>
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->
