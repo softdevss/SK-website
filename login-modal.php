@@ -42,7 +42,7 @@ if(isset($_POST['submit'])){
           header("Location: /SK-WEBSITE/admin/");
               
       }else{
-          
+
           header("Location: index.php"); 
           
       }
@@ -88,10 +88,10 @@ if(isset($_POST['submit'])){
 
         <form action="login-modal.php" method="POST">
             <div class="form-group">
-              <input type="text" name="username" class="form-control" placeholder="Your email username...">
+              <input type="text" name="username" class="form-control" placeholder="Your email username..." required>
             </div>
             <div class="form-group">
-              <input type="password" name="password" class="form-control"  placeholder="Your password...">
+              <input type="password" name="password" class="form-control"  placeholder="Your password..." required>
             </div>
 
             <input  class="btn btn-info btn-block btn-round" type="submit" name="submit" value="submit">
@@ -105,9 +105,7 @@ if(isset($_POST['submit'])){
         </div>
       </div>
     </div>
-      <div class="modal-footer d-flex justify-content-center">
-        <div class="signup-section">Not a member yet? <a href="#a" class="text-info"> Sign Up</a>.</div>
-      </div>
+      
   </div>
 </div>
 <!-- partial -->
