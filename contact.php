@@ -8,7 +8,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="hero-cap hero-cap2 text-center">
-                            
+
                         </div>
                     </div>
                 </div>
@@ -438,21 +438,21 @@
                             lng: 131.044
                         };
                         var grayStyles = [{
-                            featureType: "all",
-                            stylers: [{
-                                saturation: -90
+                                featureType: "all",
+                                stylers: [{
+                                        saturation: -90
+                                    },
+                                    {
+                                        lightness: 50
+                                    }
+                                ]
                             },
                             {
-                                lightness: 50
+                                elementType: 'labels.text.fill',
+                                stylers: [{
+                                    color: '#ccdee9'
+                                }]
                             }
-                            ]
-                        },
-                        {
-                            elementType: 'labels.text.fill',
-                            stylers: [{
-                                color: '#ccdee9'
-                            }]
-                        }
                         ];
                         var map = new google.maps.Map(document.getElementById('map'), {
                             center: {
@@ -474,7 +474,7 @@
                 <div class="col-12">
                     <h2 class="contact-title">Contact us</h2>
                 </div>
-                        <?php 
+                <?php 
 
                         if(isset($_POST['submit'])){
 
@@ -511,42 +511,48 @@
                         ?>
 
                 <div class="col-lg-8">
-                    <form class="form-contact contact_form" action="contact.php" method="POST" >
-                    
+                    <form class="form-contact contact_form" action="contact.php" method="POST">
+
                         <div class="row">
                             <div class="col-12">
                                 <div class="form-group">
-                                
-                                   <input class="form-control" type="text" name="fullname" placeholder="Enter your full name" required>
+
+                                    <input class="form-control" type="text" name="fullname"
+                                        placeholder="Enter your full name" required>
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form-group">
-                                    <input class="form-control" type="text" name="address" placeholder="Enter your address" required>
+                                    <input class="form-control" type="text" name="address"
+                                        placeholder="Enter your address" required>
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form-group">
-                                   <input class="form-control" type="text" name="contact" placeholder="Enter your contact" required>
+                                    <input class="form-control" type="text" name="contact"
+                                        placeholder="Enter your contact" required>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-group">
-                                   <input class="form-control" type="email" name="email" placeholder="Enter your email" required>
+                                    <input class="form-control" type="email" name="email" placeholder="Enter your email"
+                                        required>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-group">
-                                    <textarea class="form-control" name="message" cols="30" rows="5" placeholder="Enter your message" required></textarea>
+                                    <textarea class="form-control" name="message" cols="30" rows="5"
+                                        placeholder="Enter your message" required></textarea>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group mt-3">
-                            <input type="submit" name="submit" value="Submit" class="button button-contactForm boxed-btn">
+                            <input type="submit" name="submit" value="Submit"
+                                class="button button-contactForm boxed-btn">
                         </div>
                     </form>
                 </div>
-                
+
 
 
 
