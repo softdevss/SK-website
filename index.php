@@ -11,7 +11,7 @@
                         <div class="col-xl-7 col-lg-9 col-md-8 col-sm-9">
                             <div class="hero__caption">
                                 <!--<span>Committed to success</span>-->
-                                <h1 class="cd-headline letters scale">Committed to successYouth 
+                                <h1 class="cd-headline letters scale">Committed to Success Youth 
                                     <strong class="cd-words-wrapper">
                                         <b class="is-visible">Representation</b>
                                         <b>Empowerment</b>
