@@ -86,10 +86,11 @@ include_once 'includes/db.php';
             <div class="form-group">
                 <input type="file" name="file1" />
             </div>
-            <div class="form-group">
-                <input type="submit" name="submit" value="Submit" class="btn btn-info"/>
+            <div class="forms" >
+                <input  type="submit" name="submit" value="Submit" />
+                <button id="cancelss" class="cancel"> cancel</button>
             </div>
-
+            
             <?php if(isset($_GET['st'])) { ?>
                 <div class="alert alert-danger text-center">
                 <?php if ($_GET['st'] == 'success') {

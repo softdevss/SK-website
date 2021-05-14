@@ -68,7 +68,7 @@ include_once 'includes/db.php';
                             </div>
                             <label for="w3review">Message / Diagnosis</label>
 
-                            <textarea id="w3review" name="message" rows="4" cols="50">
+                            <textarea id="w3review" name="message" rows="4" cols="30">
                            
                             </textarea>
 
@@ -77,7 +77,7 @@ include_once 'includes/db.php';
                 <input type="file" name="file2" />
             </div>
             
-            <div class="form-group" align="right">
+            <div class="form-group" align="right" style="margin-right:1rem;">
                 
                 <input type="submit" name="submit" value="Submit" class="btn btn-info"/>
             </div>
@@ -105,9 +105,8 @@ include_once 'includes/db.php';
         </div>
 
 
-
-
-
+                    <div style="height:100px"></div>
+                 
         <!--DONATIONS END  -->
     <br>
     <?php include "includes/footer.php" ?>

@@ -1,3 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  
+}
+
+
 .donations{
     display: flex;
     justify-content: center;
@@ -34,6 +42,7 @@
   transition: 0.2s;
   margin: 2REM;
   width: 400px;
+  max-width: 100%;
 }
 
 .grid-item:hover {
@@ -175,9 +184,11 @@
   width: 320px;
   background: #fff;
   padding: 10px;
+  max-width: 100%;
  
 }
 .wrapper .input-data{
+  max-width: 100%;
   height: 40px;
   width: 100%;
   position: relative;
@@ -245,6 +256,7 @@
   background: rgb(223, 66, 4);
   font-size: 1.4rem;
   text-transform: uppercase;
+  width: 100px;
 }
 .modal .modal-content .button-wrapper :nth-child(1):hover{
   background:rgb(206, 63, 6);
@@ -262,7 +274,19 @@
   background: rgb(11, 108, 253);
   color: #fff;
 }
-
+ .button-wrapper input[type=submit]{
+  height: 40px;
+  width: 100px;
+  margin-top: 1rem;
+  text-align: center;
+  background: rgb(255, 255, 255);
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  border: 2px solid rgb(11, 108, 253);
+  color:rgb(11, 108, 253);
+  transition: .2s ease-in;
+  border-radius: 7px;
+}
 
 .modal .modal-content .wrapper-heading{
   text-align: center;
@@ -287,13 +311,13 @@
   background-repeat: no-repeat;
   background-position: center;
   max-width: 100%;
-  width: 600px;
+  width: 500px;
   height: 600px;
   text-align: center;
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 20px;
+  border-radius: 13px;
 }
 .health-hero .health-hero-text {
   background: rgba(0, 0, 0, 0.4);
@@ -309,7 +333,7 @@
   text-align: center;
  width: 100%;
   height: 100%;
-  border-radius: 20px;
+  border-radius: 13px;
   padding: 1rem;
  
 }
@@ -330,6 +354,7 @@
   
   width: 600px;
   height: 600px;
+  max-width: 100%
 }
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto:wght@400;500&display=swap');
 
@@ -358,6 +383,8 @@ body{
   padding: 0;
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
+  scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 h1{
   margin: 0;
@@ -368,12 +395,14 @@ h1{
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 95vh;
   width: 500px;
+  max-width: 100%;
 }
 .form{
+  max-width: 100%;
   width: 360px;
-  padding: 4rem 2rem;
+  padding: 2rem 2rem;
   border-radius: 1rem;
   box-shadow: 0 10px 25px rgba(92,99,105,.2);
 }
@@ -390,6 +419,7 @@ h1{
   position: absolute;
   top: 0;
   left: 0;
+  max-width: 99%;
   width: 100%;
   height: 100%;
   font-size: 2rem;
@@ -407,7 +437,7 @@ h1{
   padding: 0 .25rem;
   background-color: #fff;
   color: var(--input-color);
-  font-size: var(--normal-font-size);
+  font-size:1.4rem;
   transition: .3s;
 }
 .form__button{
@@ -874,3 +904,39 @@ font-size: 12px;
   background: #0589e0
 }
 
+#cancelss{
+  height: 40px;
+  width: 100px;
+  border: none;
+  outline: none;
+  text-align: center;
+  font-size: 1.4rem;
+  background: rgb(194, 53, 53);
+  text-transform: uppercase;
+  color:rgb(255, 255, 255);
+  transition: .2s ease-in;
+  border-radius: 7px;
+  cursor: pointer;
+}#cancelss:hover{
+  background: rgb(145, 5, 5);
+  color: #fff;
+}
+
+.forms input[type=submit]{
+  height: 40px;
+  width: 100px;
+  cursor: pointer;
+  text-align: center;
+  outline: none;
+  background: rgb(255, 255, 255);
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  border: 2px solid rgb(11, 108, 253);
+  color:rgb(11, 108, 253);
+  transition: .2s ease-in;
+  border-radius: 7px;
+}
+.forms{
+  display: flex;
+  justify-content: space-around;
+}
