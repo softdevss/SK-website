@@ -13,7 +13,7 @@
                                 <!--<span>Committed to success</span>-->
                                 <h1 class="cd-headline letters scale">Committed to success Youth 
                                     <strong class="cd-words-wrapper">
-                                        <b class="is-visible">Representation</b>
+                                        <b class="is-visible">pogi</b>
                                         <b>Empowerment</b>
                                         <b>Participation</b>
                                     </strong>
