@@ -61,7 +61,7 @@
                             <h2>Welcome</h2><br>
                             <h2>What is the SK</h2>
                         </div>
-                        <p>SK and Katipunan ng Kabataans     (KK) were created through the Local Government Code of 1991 Republic Act 7160) that provides opportunity for young people to directly participate in local governance; Composed of all youth aged 15 to 21-year-olds;</p>
+                        <p>SK and Katipunan ng Kabataan     (KK) were created through the Local Government Code of 1991 Republic Act 7160) that provides opportunity for young people to directly participate in local governance; Composed of all youth aged 15 to 21-year-olds;</p>
                             
                         <p>In December 4, 1992, the first SK leaders were elected in nearly 42,000 barangays;</p>
                             
