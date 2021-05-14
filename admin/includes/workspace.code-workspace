@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\SK Website"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\includes"
+		},
+		{
+			"path": "..\\..\\modal-login-form"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SK Website"
+	}
+}
