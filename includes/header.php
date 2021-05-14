@@ -57,11 +57,7 @@
                             <div class="main-menu f-right d-none d-lg-block">
                                 <nav>
                                     <ul id="navigation">
-<<<<<<< HEAD
                                         <li><a href="index.php">Homeless</a></li>
-=======
-                                        <li><a href="index.php">Home</a></li>
->>>>>>> 274cf469540cd962b369a7f580d03daf9736ea43
                                         <li><a href="news.php">News & Update</a></li>
                                         <li><a href="about.php">About</a>
                                         <ul class="submenu">
