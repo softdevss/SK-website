@@ -1,0 +1,22 @@
+- git init (for new project)
+- git status (check changes)
+- git add (Add)
+	*All files (git add.)
+	*Current file (git add index.php)
+- git rm --cached (Remove)
+- git commit -m "comment"
+- git push
+- git clone
+
+gitignore
+- git pull
+-git branch -b
+-git checkout -b
+
+
+
+cloning of files
+1. GitBash
+2. cd desktop
+3. mkdir "folder name"
+4. git clone (Git copy link)

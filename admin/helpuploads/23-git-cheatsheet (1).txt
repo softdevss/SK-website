@@ -1,0 +1,11 @@
+- git init
+- git status (check changes)
+- git add (Add)
+- git rm --cached (Remove)
+- git commit 
+- git push
+- git clone
+gitignore
+- git pull
+-git branch -b
+-git checkout -b
