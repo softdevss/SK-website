@@ -1,4 +1,7 @@
 
+
+
+<body style="background:#ffff;">
                         <table class="table table-striped table-bordered table-hover table-primary">
                             <thead class="thead-dark">
                                 <tr>
@@ -62,5 +65,5 @@
 
         </div>
         <!-- /#page-wrapper -->
-
+  </body>    
         <?php include "includes/admin_footer.php" ?>

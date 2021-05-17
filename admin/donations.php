@@ -2,7 +2,7 @@
 
 <?php include "includes/admin_header.php"; ?>
 
-<body>
+<body style="background:#fff;">
 
     <div id="wrapper">
 
@@ -66,7 +66,7 @@
 
         </div>
         <!-- /#page-wrapper -->
-
+        </body>
         <?php include "includes/admin_footer.php" ?>
 
         <?php 

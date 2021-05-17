@@ -23,7 +23,7 @@ if(isset($_POST['submit'])){
    echo "created";
 }
 ?>
-
+<body style="background:#ffff;">
 <div id="wrapper">
 
 <?php include "includes/admin_navigation.php"; ?>
@@ -123,5 +123,5 @@ if(isset($_POST['submit'])){
     <!-- /.container-fluid -->
 </div>
         <!-- /#page-wrapper -->
-
+        </body>
 <?php include "includes/admin_footer.php"; ?>

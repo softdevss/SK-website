@@ -2,7 +2,7 @@
 
 <?php include "includes/admin_header.php"; ?>
 
-<body>
+<body style="background:#ffff;">
 
     <div id="wrapper">
 

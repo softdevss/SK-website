@@ -3,7 +3,7 @@
 <html lang="en">
 <?php include "includes/admin_header.php"; ?>
 
-<body>
+<body style="background:#ffffff;">
 
     <div id="wrapper">
 

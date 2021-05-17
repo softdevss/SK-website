@@ -22,10 +22,10 @@ $query .= "VALUES('{$username}','{$password}','{$role}' ) ";
 }
 
 ?>
+<body style="background:#ffff;">
 
 
-
-<form action="" method="post" enctype="multipart/form-data">
+<form action="" method="post" enctype="multipart/form-data" style="background:#ffffff;">
      
      <div class="form-group">
          <label for="title">Username</label>
@@ -53,3 +53,4 @@ $query .= "VALUES('{$username}','{$password}','{$role}' ) ";
      </div>
   
  </form>
+ </body>

@@ -1,7 +1,7 @@
 <?php include "includes/admin_header.php"; ?>
 <!DOCTYPE html>
 <html lang="en">
-<body>
+<body style="background:#ffff;">
 
     <div id="wrapper">
 
