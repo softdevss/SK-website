@@ -31,7 +31,7 @@ if(isset($_POST['submit'])) {
         if(in_array($ext, $allowed)) {
            
             // get last record id
-            $query = 'SELECT MAX(id) AS id FROM tbl_helpdesk' ;
+            $query = 'SELECT MAX(id) AS id FROM tbl_helpdesk';
             $result = mysqli_query($connection, $query);
                           
             if(($result) > 0) {
