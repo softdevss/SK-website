@@ -15,7 +15,17 @@
             </div>
         </div>
     </div>
-               
+    <!-- Hero End -->
+    <!--? About Start-->
+  
+    <!-- About  End-->
+    <!--? All startups Start -->
+<?php  
+include_once 'includes/db.php';
+?>     
+
+
+<!------Online Heeath-->                
 
         <div class="health-main">
             <div class="health-wrapper">
@@ -33,7 +43,7 @@
                             <h1 class="form__title">Patient Info</h1>
             
                             <div class="form__div">
-                                <input type="text" class="form__input" name="fullname" placeholder=" ">
+                                <input type="text" class="form__input" name= "fullname" placeholder=" ">
                                 <label for="text" class="form__label">Name</label>
                             </div>
             
@@ -58,18 +68,35 @@
                             </div>
                             <label for="w3review">Message / Diagnosis</label>
 
-                            <textarea id="w3review" name="message" rows="4" cols="30"></textarea>
+                            <textarea id="w3review" name="message" rows="4" cols="30">
+                           
+                            </textarea>
 
                             <legend>Select File to Upload:</legend>
-                            <div class="form-group">
-                                 <input type="file" name="file2" />
-                            </div>
+                    <div class="form-group">
+                <input type="file" name="file2" />
+            </div>
             
             <div class="form-group" align="right" style="margin-right:1rem;">
                 
                 <input type="submit" name="submit" value="Submit" class="btn btn-info"/>
             </div>
 
+
+            
+
+
+            <?php if(isset($_GET['sd'])) { ?>
+                <div class="alert alert-danger text-center">
+                <?php if ($_GET['sd'] == 'success') {
+                        echo "File Uploaded Successfully!";
+                    }
+                    else
+                    {
+                        echo 'Invalid File Extension!';
+                    } ?>
+                </div>
+            <?php } ?>
                         </form>
                     </div>
                 </div>
@@ -77,7 +104,8 @@
             </div>
         </div>
 
-  <div style="height:100px"></div>
+
+                    <div style="height:100px"></div>
                  
         <!--DONATIONS END  -->
     <br>
@@ -129,7 +157,7 @@
     <script> 
 
 
-const realFileBtn = document.getElementById("real-file");
+        const realFileBtn = document.getElementById("real-file");
 const customBtn = document.getElementById("custom-button");
 const customTxt = document.getElementById("custom-text");
 

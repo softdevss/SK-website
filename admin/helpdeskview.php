@@ -2,13 +2,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include "includes/admin_header.php"; ?>
+
 <body>
+
     <div id="wrapper">
 
         <!-- Navigation -->
         <?php include "includes/admin_navigation.php"; ?>
+
         <div id="page-wrapper">
+
             <div class="container-fluid">
+
                 <!-- Page Heading -->
                 <div class="row">
                     <div class="col-lg-12">
@@ -33,12 +38,12 @@
                     
                <?php
 
-            // fetch files
-            $sql = "SELECT filename FROM tbl_helpdesk ";
-            $result = mysqli_query($connection, $sql);
+// fetch files
+$sql = "select filename from tbl_helpdesk ";
+$result = mysqli_query($connection, $sql);
 
-            $sql = "SELECT * FROM tbl_helpdesk ORDER by id DESC";
-                        $result = mysqli_query($connection,$sql);
+            $query = "SELECT * FROM tbl_helpdesk ORDER by id DESC";
+                        $result = mysqli_query($connection,$query);
                         $i =1;
                             while($row = mysqli_fetch_array($result)){ 
                             
@@ -53,7 +58,9 @@
                               
 
                                  ?>
-                                     
+                          
+                          
+                           
                     <?php
 
                         echo "<tr>";  ?> 
@@ -70,7 +77,7 @@
                             <?php ?>
                             
                             <td><button class><a href="helpuploads/<?php echo $row['filename']; ?>" target="_blank">View</td>
-                            
+                            <?php ?>
                             <td><button class><a href="helpuploads/<?php echo $row['filename']; ?>" download>Download
                             </td> <?php
                             echo "<td><a onClick=\"javascript: return confirm('Are you sure you want to delete?');\" href='helpdeskview.php?delete={$id}'>Delete</a></td>";
