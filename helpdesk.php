@@ -29,21 +29,21 @@
 
                 <div class="health-form">
                     <div class="l-form">
-                        <form action="admin/uploads.php" method="post" enctype="multipart/form-data">
+                        <form action="admin/uploads.php" method="POST" enctype="multipart/form-data">
                             <h1 class="form__title">Patient Info</h1>
             
                             <div class="form__div">
-                                <input type="text" class="form__input" name="fullname" placeholder=" ">
+                                <input type="text" class="form__input" name="fullname">
                                 <label for="text" class="form__label">Name</label>
                             </div>
             
                             <div class="form__div">
-                                <input type="text" class="form__input" name="address" placeholder=" ">
+                                <input type="text" class="form__input" name="address">
                                 <label for="text" class="form__label">Address</label>
                             </div>
 
                             <div class="form__div">
-                                <input type="text" class="form__input" name="contact" placeholder=" ">
+                                <input type="text" class="form__input" name="contact">
                                 <label for="text" class="form__label">Contact</label>
                             </div>
 
@@ -53,7 +53,7 @@
                             </div>
 
                             <div class="form__div">
-                                <input type="text" class="form__input" name ="doctor" placeholder=" ">
+                                <input type="text" class="form__input" name ="doctor">
                                 <label for="text" class="form__label">Doctor</label>
                             </div>
                             <label for="w3review">Message / Diagnosis</label>
@@ -67,7 +67,7 @@
             
             <div class="form-group" align="right" style="margin-right:1rem;">
                 
-                <input type="submit" name="submit" value="Submit" class="btn btn-info"/>
+                <input type="submit" name="submit" value="Submit" class="btn btn-info">
             </div>
 
                         </form>
