@@ -1,9 +1,6 @@
 <?php
 include '../includes/db.php';
 
-
-
-
 //check if form is submitted
 if(isset($_POST['submit'])) {   
  
