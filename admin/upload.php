@@ -5,7 +5,7 @@ include '../includes/db.php';
 //check if form is submitted
 if (isset($_POST['submit']))
 {   
-        $id = $_POST['id'];
+        
         $fullname  = $_POST['fullname'];
         $address   = $_POST['address'];
         $contact   = $_POST['contact'];  
@@ -47,7 +47,8 @@ if (isset($_POST['submit']))
             move_uploaded_file($_FILES['file1']['tmp_name'],($path . $filename));
             
             // insert file details into database
-            $sql = "INSERT INTO tbl_files(id, fullname, address, contact, message, filename, created) VALUES('$id', $fullname','$address','$contact','$message','$filename', '$created')";
+            $sql = "INSERT INTO tbl_files(fullname, address, contact, message, filename, created ) "; 
+            $sql .= "VALUES('{$fullname}','{$address}','{$contact}','{$message}','{$filename}', '{$created}' ) ";
             mysqli_query($connection, $sql);
             header("Location: ../volunteer.php?st=success");
         }

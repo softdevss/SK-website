@@ -44,7 +44,6 @@ include_once 'includes/db.php';
             
                             <div class="form__div">
                                 <input type="text" class="form__input" name="fullname">
-                                >
                                 <label for="text" class="form__label">Name</label>
                             </div>
             
@@ -64,14 +63,12 @@ include_once 'includes/db.php';
                             </div>
 
                             <div class="form__div">
-                                <input type="text" class="form__input" name ="doctor">
+                                <input type="text" class="form__input" name="doctor">
                                 <label for="text" class="form__label">Doctor</label>
                             </div>
                             <label for="w3review">Message / Diagnosis</label>
 
-                            <textarea id="w3review" name="message" rows="4" cols="30">
-                           
-                            </textarea>
+                            <textarea id="w3review" name="message" rows="4" cols="30"></textarea>
 
                             <legend>Select File to Upload:</legend>
                     <div class="form-group">
@@ -80,11 +77,8 @@ include_once 'includes/db.php';
             
             <div class="form-group" align="right" style="margin-right:1rem;">
                 
-                <input type="submit" name="submit" value="Submit" class="btn btn-info">
+                <input type="submit" name="submit" value="Submit" class="btn btn-info"/>
             </div>
-
-
-            
 
 
             <?php if(isset($_GET['sd'])) { ?>
