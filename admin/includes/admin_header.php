@@ -19,7 +19,7 @@
     <!-- Bootstrap Core CSS -->
     <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href=../assets/css/admin.css" rel="stylesheet">
+    <link href="/admins.css" rel="stylesheet">
     <!-- Custom CSS -->
     <link href="css/sb-admin.css" rel="stylesheet">
 

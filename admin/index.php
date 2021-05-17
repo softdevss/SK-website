@@ -18,8 +18,8 @@
                     
                     <div class="col-lg-12">
                         <h1 class="page-header">
-                           Welcome admin                   
-                           <small> <?php echo $_SESSION['username']; ?> </small>
+                           WELCOME ADMIN                   
+                           <Strong style="text-transform:uppercase; color:grey;"> <?php echo $_SESSION['username']; ?> </Strong>
                         </h1>
                         <ol class="breadcrumb">
                             <li>

@@ -2,7 +2,7 @@
 
 
 <body style="background:#ffff;">
-                        <table class="table table-striped table-bordered table-hover table-primary">
+                        <table class="table table-striped  table-hover table-primary">
                             <thead class="thead-dark">
                                 <tr>
                                     <th>Id</th>

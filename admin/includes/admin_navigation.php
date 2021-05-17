@@ -1,11 +1,11 @@
-<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background:#ffff;">
+<nav  class="navbar navbar-inverse navbar-fixed-top " role="navigation" style="background:#fff; border:none;">
     <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse"
+        <div class="navbar-header" ><button style="border:none; background-color:#2d6cdf;" type="button" class="navbar-toggle" data-toggle="collapse"
                 data-target=".navbar-ex1-collapse"><span class="sr-only">Toggle navigation</span><span
-                    class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a
-                class="navbar-brand" href="../admin">SK SAN ISIDRO ADMINISTRATOR</a></div>
+                    class="icon-bar" style="background-color:#fff;"></span><span class="icon-bar"style="background-color:#fff;"></span><span class="icon-bar" style="background-color:#fff;"></span></button><a
+                class="navbar-brand" href="../admin" style="color:#364f6b;">SK SAN ISIDRO ADMINISTRATOR</a></div>
         <!-- Top Menu Items -->
-            <ul class="nav navbar-right top-nav" >
+            <ul class="nav navbar-right top-nav"  >
                 <li><a href="../index.php"></i>Home</a></li>
                 <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i
                             class="fa fa-user"></i>
@@ -33,7 +33,7 @@
                     <ul class="nav navbar-nav side-nav" style="background:#ffff;">
                         <li><a href="index.php"><i class="fa fa-home fa-fw"></i>Home</a></li>
                         <!-- <li><a href="charts.html"><i class="fa fa-fw fa-bar-chart-o"></i>Charts</a></li> -->
-                        <li><a href="./contact.php"><i class='bx bxs-user'></i> Contacts</a></li>
+                        <li ><a href="./contact.php"><i class='bx bxs-user'></i> Contacts</a></li>
                         <li><a href="./requestletter.php"><i class='bx bxs-bookmark'></i> Request letter</a></li>
                         <li><a href="./donations.php"><i class='bx bxs-donate-heart' ></i>Donations</a></li>
                         <li><a href="./volunteerview.php"><i class='bx bxs-user-voice'></i>Be A Volunteer</a></li>

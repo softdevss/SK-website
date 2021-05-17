@@ -39,7 +39,7 @@ if(isset($_POST['submit'])){
 
      
       
-          header("Location: /SK-WEBSITE/admin/");
+          header("Location: /Sk-website/admin/");
               
       }else{
 

@@ -18,7 +18,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="page-header"> Online Help Desk</h1>
-                       <table class="table table-striped table-bordered table-hover table-primary">
+                       <table class="table table-striped  table-hover table-primary">
                        <thead class="thead-dark">
                     <tr>
                         <th>#</th>
