@@ -21,73 +21,244 @@
     <!---Be a volunteer-->
 
 
-                <div class="volunteer-container">
-                    <div class="volunteer-row">
-                        <div class="volunteer-col vol-col-1">
-                            <div class="volunteer-card vol-1">
-                               
-                               
-                            </div>
-                            <div class="volunteer-card vol-2">
-                                
-                               
-                            </div>
-                            <div class="volunteer-card vol-3">
-                             
-                                
-                            </div>
-                            <div class="volunteer-card vol-4">
-                         
-                               
-                            </div>
-                        </div>
-                        <div class="volunteer-col">
-                            <h1>Be a Volunteer</h1>
-                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores ab fugit nisi, architecto accusantium aliquam!</p>
+                <div class="youth-hero">
+                    <div class="youth-container">
+                        
+                    <div class="grid">
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img
+          class="card-img"
+          src="./assets/img/1200px-Sangguniang_Kabataan_logo.svg.png"
+          alt="Grand Canyon"
+        />
+        <div class="card-content">
+          <h6 class="card-header" style="font-size: 1.8rem;"> <strong> Guidelines on the  Conduct of SK Pederasyon Elections Guidelines </strong></h6>
+       
+          <button class="card-btn"><a href="https://drive.google.com/file/d/1X-3ib_s_fJZEBKl3NiNR6bn0xPvnsoK_/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="card">
+        <img class="card-img" src="./assets/img/dilg.jpg" alt="Maldives" />
+        <div class="card-content">
+          <h1 class="card-header">DILG Advisory  Guide on SK Pederasyon</h1>
+          
+          <button class="card-btn"><a href="https://drive.google.com/file/d/1-bcpK311oSb78IfwAX5RnTx3LzWxCwhW/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+        <div class="card">
+          <img class="card-img" src="./assets/img/dilg.jpg" alt="Maldives" />
+          <div class="card-content">
+            <h1 class="card-header" style="font-size: 2rem;"><strong> DILG Advisory: FAQ in  Connection with the Conduct of the SK Pederasyon</strong></h1>
+            
+            <button class="card-btn"><a href="https://drive.google.com/file/d/1Dr0FPQMS4NgeRMYvuk-5ZMztK9Nz6ecX/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="grid-item">
+        <div class="card">
+          <img class="card-img" src="./assets/img/ra.jpg" alt="Maldives" />
+          <div class="card-content">
+            <h1 class="card-header">Republic Act No. 10742 and Implementing Rules <br> and Regulation</h1>
+            
+            <button class="card-btn"><a href="https://drive.google.com/file/d/1Dr0FPQMS4NgeRMYvuk-5ZMztK9Nz6ecX/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+          </div>
+        </div>
+      </div>
+  </div>
 
-                            <button id="modal-btn"> Get Started </button>
-                        </div>
+</div>
+                    
                     </div>
                 </div>
 
-             
 
-                <div id="my-modal" class="modal">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                      <h2>Be a Volunteer</h2>
-                    </div>
-                    <div class="modal-body">
-                      
-                       
-                          <label class="custom-field one">
-                            <input type="text" required/>
-                            <span class="placeholder">Enter Text</span>
-                          </label>
-                          <label class="custom-field one">
-                            <input type="text" required/>
-                            <span class="placeholder">Enter Text</span>
-                          </label>
-                          <label class="custom-field one">
-                            <input type="text" required/>
-                            <span class="placeholder">Enter Text</span>
-                          </label>
-                          <label class="custom-field one">
-                            <input type="text" required/>
-                            <span class="placeholder">Enter Text</span>
-                          </label>
-                          <input type="file" id="real-file" hidden="hidden" />
-                          <button type="button" id="custom-button">UPLOAD YOUR ID</button>
-                          <span id="custom-text">No file chosen, yet.</span>
 
-                        <div class="button-wrapper2">
-                            <button class="cancel"> Cancel</button>
-                            <button  type="submit"> Submit</button>
-                        </div>  
-                          
-                          
 
-                    </div>
                     <div class="modal-footer">
                       
                     </div>
