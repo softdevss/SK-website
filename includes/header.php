@@ -61,11 +61,10 @@
                                         <li><a href="news.php">News & Update</a></li>
                                         <li><a href="about.php">About</a>
                                         <ul class="submenu">
-                                            <li><a href="#">SK Reform Act 10742</a></li>
-                                            <li><a href="#">Sangguniang Kabataan Roster</a></li>
+                                        <li><a href="#">Sangguniang Kabataan Roster</a></li>
                                             <li><a href="officials.php">SK Elected Officials</a></li>
-                                            <li><a href="#">Committee Heads</a></li>
-                                            <li><a href="youth.html">Youth Councils</a></li></ul></li>
+                                            <li><a href="youthcouncil.html">Youth Councils</a></li>
+                                            <li><a href="#">Achievements</a></li></ul></li>
                                         <li><a href="services.php">Services</a>
                                             <ul class="submenu">
                                                 <li><a href="downloadable-form.php">Downloadable forms</a></li>
