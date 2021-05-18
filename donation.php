@@ -182,7 +182,7 @@ if(isset($_POST['submit'])){
            
         <div class="button-wrapper">
             <button id="cancel" class="cancel"> Cancel</button>
-            <input class="btn btn-primary" type="submit" name="submit" value="Submit">
+            <input class="btn-primary" type="submit" name="submit" value="Submit">
         </div>
   </div>
 
