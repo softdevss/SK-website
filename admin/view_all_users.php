@@ -7,7 +7,7 @@
                                 <tr>
                                     <th>Id</th>
                                     <th>username</th>
-                                    <th>password</th>
+                                    
                                     <th>role</th>
                                     <th>Remove</th>
                                     <th>Update</th>
@@ -30,7 +30,7 @@
                         echo "<tr>";   
                             echo "<td>{$id}</td>";  
                             echo "<td>{$username}</td>";          
-                            echo "<td>{$password}</td>";  
+                            
                             echo "<td>{$role}</td>";   
                             
                             echo "<td><a onClick=\"javascript: return confirm('Are you sure you want to delete?');\" href='users.php?delete={$id}'>Delete</a></td>";
