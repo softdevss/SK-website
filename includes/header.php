@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html class="no-js" lang="zxx">
 <head>
@@ -77,7 +78,7 @@
                                         </li>
                                         <li><a href="donation.php">Donate</a></li>
                                         <li><a href="contact.php">Contact</a></li>
-                                           <li><a href="login-modal.php">Login</a></li>
+                                           <li><a href="login-modal.php">.</a></li>
                                     </ul>
                                 </nav>
                             </div>

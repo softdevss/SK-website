@@ -39,7 +39,7 @@ if(isset($_POST['update_profile'])){
         $query = "UPDATE users SET ";
         $query .= "username    = '{$username}', ";
         $query .= "password     = '{$password}', ";
-        $query .= "role          = '{$role}', ";
+        $query .= "role          = '{$role}' ";
      
 
         $edit_user_query = mysqli_query($connection, $query);

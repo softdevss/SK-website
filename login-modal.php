@@ -1,6 +1,6 @@
 <?php 
 include "includes/db.php";
-SESSION_START();
+session_start();
 
 if(isset($_POST['submit'])){
         
@@ -28,6 +28,8 @@ if(isset($_POST['submit'])){
    
       }
 
+    
+
       
    
       // if($db_username == $_POST['username'] && $db_user_password == $_POST['password']) {
@@ -50,6 +52,8 @@ if(isset($_POST['submit'])){
       
   }
 ?>
+
+
 
 <!DOCTYPE html>
 <html lang="en">

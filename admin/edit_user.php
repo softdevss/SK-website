@@ -12,21 +12,12 @@ if(isset($_GET['edit_user'])){
         $user_id          = $row['id'];
         $username         = $row['username'];  
         $password         = $row['password'];
-        $role             = $row['role'];
-
-      
+        $role             = $row['role'];    
     
      }   
-
-     
-    
- ?>
-
- 
-    
+  
+ ?>  
 <?php
-    
-
 
 if(isset($_POST['edit_user'])){
   
@@ -55,7 +46,7 @@ if(!empty($password)){
     
       $query = "UPDATE users SET ";
         $query .= "username    = '{$username}', ";
-        $query .= "password     = '{$password}', ";
+        $query .= "password     = '{$hashed_password}', ";
         $query .= "role         = '{$role}' ";
        
         $query .= "WHERE id     = {$the_user_id} ";
