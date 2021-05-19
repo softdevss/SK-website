@@ -25,6 +25,8 @@
 	<link rel="stylesheet" href="assets/css/nice-select.css">
 	<link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/donations.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/css/swiper.css">
 </head>
 
 <body>
@@ -58,12 +60,11 @@
                             <div class="main-menu f-right d-none d-lg-block">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a href="index.php">Homeless</a></li>
+                                        <li><a href="index.php">Home</a></li>
                                         <li><a href="news.php">News & Update</a></li>
                                         <li><a href="about.php">About</a>
                                         <ul class="submenu">
-                                            <li><a href="#">SK Reform Act 10742</a></li>
-                                            <li><a href="#">Sangguniang Kabataan Roster</a></li>
+                                        <li><a href="#">Sangguniang Kabataan Roster</a></li>
                                             <li><a href="officials.php">SK Elected Officials</a></li>
                                             <li><a href="#">Committee Heads</a></li>
                                             <li><a href="youth.php">Youth Councils</a></li></ul></li>

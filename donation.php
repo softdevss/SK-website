@@ -27,7 +27,7 @@
                <h3>For donations</h3>
            </div>
        </div>
-        
+    
        <div class="grid">
         <div class="grid-item">
           <div class="card">
@@ -182,7 +182,7 @@ if(isset($_POST['submit'])){
            
         <div class="button-wrapper">
             <button id="cancel" class="cancel"> Cancel</button>
-            <input class="btn btn-primary" type="submit" name="submit" value="Submit">
+            <input class="btn-primary" type="submit" name="submit" value="Submit">
         </div>
   </div>
 

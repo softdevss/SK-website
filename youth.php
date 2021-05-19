@@ -1,5 +1,5 @@
 <?php include "includes/header.php"?>
-    <main>
+  
         <!--? Hero Start -->
         <div class="slider-area2">
             <div class="slider-height2 d-flex align-items-center">
@@ -15,93 +15,1650 @@
             </div>
         </div>
         <!-- Hero End -->
-        <br>
-        <br>
-
-    <!---Be a volunteer-->
+       
+ 
 
 
-                <div class="volunteer-container">
-                    <div class="volunteer-row">
-                        <div class="volunteer-col vol-col-1">
-                            <div class="volunteer-card vol-1">
-                               
-                               
-                            </div>
-                            <div class="volunteer-card vol-2">
-                                
-                               
-                            </div>
-                            <div class="volunteer-card vol-3">
-                             
-                                
-                            </div>
-                            <div class="volunteer-card vol-4">
-                         
-                               
-                            </div>
-                        </div>
-                        <div class="volunteer-col">
-                            <h1>Be a Volunteer</h1>
-                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores ab fugit nisi, architecto accusantium aliquam!</p>
+            
+<div class="backs">                
 
-                            <button id="modal-btn"> Get Started </button>
-                        </div>
-                    </div>
-                </div>
+    
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="https://www.facebook.com/Pinesville-Youth-Organization-101310158806844" target="_blank"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    <div class="card middle">
+      <div class="front">
+        <div class="front-img">
+        <img src="./assets/img/pensville.jpg" alt="" >
+        </div>
+       
+      <div class="front-content">
+        <h3> PINESVILLE YOUTH COUNCIL</h3>
+      </div>
+      <div class="front-btn">
+        <button class="boton">HOVER</button>
+      </div>
+      </div>
+      <div class="back">
+        <div class="back-content middle">
+          <div class="back-image">
+            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+          </div>
+          <div class="back-header">
+            <h3></h3>
+          </div>
+          <div class="back-content">
+          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 001-2019</span>
+          </div>
+          <br>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE</h2>
+          <span>PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2> LAWRENCE ESTILLER</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPHESTILLER</h2>
+          <span>TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>RALPH LAWRENCE </h2>
+          <span>PRO</span>
+          </div>
+          <div class="back-content">
+          <h2>LAWRENCE ESTILLER</h2>
+          <span>SRGT .ARMS</span>
+          </div>
+          
+          <div class="sm">
+            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          </div>
+        </div>
+      </div>
+      
+    </div>
 
-             
+  
+</div>
+                    
+                   
 
-                <div id="my-modal" class="modal">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                      <h2>Be a Volunteer</h2>
-                    </div>
-                    <div class="modal-body">
-                      
-                       
-                          <label class="custom-field one">
-                            <input type="text" required/>
-                            <span class="placeholder">Enter Text</span>
-                          </label>
-                          <label class="custom-field one">
-                            <input type="text" required/>
-                            <span class="placeholder">Enter Text</span>
-                          </label>
-                          <label class="custom-field one">
-                            <input type="text" required/>
-                            <span class="placeholder">Enter Text</span>
-                          </label>
-                          <label class="custom-field one">
-                            <input type="text" required/>
-                            <span class="placeholder">Enter Text</span>
-                          </label>
-                          <input type="file" id="real-file" hidden="hidden" />
-                          <button type="button" id="custom-button">UPLOAD YOUR ID</button>
-                          <span id="custom-text">No file chosen, yet.</span>
 
-                        <div class="button-wrapper2">
-                            <button class="cancel"> Cancel</button>
-                            <button  type="submit"> Submit</button>
-                        </div>  
-                          
-                          
 
-                    </div>
-                    <div class="modal-footer">
-                      
-                    </div>
-                  </div>
-                </div>
+                
 
 
 
 
 
     <!---Be a volunteer END-->
-    <br>
-    <br>
-
+ 
 
     <footer>
         <!--? Footer Start-->
