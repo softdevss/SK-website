@@ -63,13 +63,8 @@
                                         <ul class="submenu">
                                         <li><a href="#">Sangguniang Kabataan Roster</a></li>
                                             <li><a href="officials.php">SK Elected Officials</a></li>
-<<<<<<< HEAD
                                             <li><a href="#">Committee Heads</a></li>
                                             <li><a href="youth.php">Youth Councils</a></li></ul></li>
-=======
-                                            <li><a href="youthcouncil.html">Youth Councils</a></li>
-                                            <li><a href="#">Achievements</a></li></ul></li>
->>>>>>> 0070382ffb26f183a2bf80740a94e72489eb3287
                                         <li><a href="services.php">Services</a>
                                             <ul class="submenu">
                                                 <li><a href="downloadable-form.php">Downloadable forms</a></li>
