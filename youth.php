@@ -80,11 +80,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/sitio_tagumpay.jpg" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> SITIO TAGUMPAY YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -93,14 +93,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/sitio_tagumpay.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2> SITIO TAGUMPAY YOUTH COUNCIL</h2>
+          <span>RESOLUTION 002-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -138,7 +138,7 @@
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> BULACAN YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -153,7 +153,7 @@
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
+          <h2>BULACAN YOUTH COUNCIL</h2>
           <span>RESOLUTION 001-2019</span>
           </div>
           <br>
@@ -188,7 +188,7 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.jpg" alt="" >
         </div>
        
       <div class="front-content">

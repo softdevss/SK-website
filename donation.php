@@ -30,7 +30,7 @@
     
        <div class="grid">
         <div class="grid-item">
-          <div class="card">
+          <div class="cards">
             <img class="card-img" src="./assets/img/GCASH.png" alt="Rome" />
             <div class="card-content">
               <h1 class="card-header">Cash donations</h1>
@@ -48,7 +48,7 @@
           </div>
         </div>
         <div class="grid-item">
-          <div class="card">
+          <div class="cards">
             <img
               class="card-img"
               src="./assets/img/165899291_1710008445846342_4653169932694819731_n.jpg"
@@ -67,7 +67,7 @@
           </div>
         </div>
         <div class="grid-item " style="width: 700px;">
-          <div class="card">
+          <div class="cards">
             <img class="card-img" src="./assets/img/IMG_20210427_171636.jpg" alt="Maldives" />
             <div class="card-content">
               <h1 class="card-header">Barangay San Isidro Taytay, Rizal</h1>

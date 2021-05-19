@@ -24,7 +24,7 @@
 
 <div class="grid">
     <div class="grid-item">
-      <div class="card">
+      <div class="cards">
         <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
         <div class="card-content">
           <h1 class="card-header">SK Operation Manual</h1>
@@ -34,7 +34,7 @@
       </div>
     </div>
     <div class="grid-item">
-      <div class="card">
+      <div class="cards">
         <img
           class="card-img"
           src="./assets/img/1200px-Sangguniang_Kabataan_logo.svg.png"
@@ -48,7 +48,7 @@
       </div>
     </div>
     <div class="grid-item">
-      <div class="card">
+      <div class="cards">
         <img class="card-img" src="./assets/img/dilg.jpg" alt="Maldives" />
         <div class="card-content">
           <h1 class="card-header">DILG Advisory  Guide on SK Pederasyon</h1>
@@ -58,7 +58,7 @@
       </div>
     </div>
     <div class="grid-item">
-        <div class="card">
+        <div class="cards">
           <img class="card-img" src="./assets/img/dilg.jpg" alt="Maldives" />
           <div class="card-content">
             <h1 class="card-header" style="font-size: 2rem;"><strong> DILG Advisory: FAQ in  Connection with the Conduct of the SK Pederasyon</strong></h1>
@@ -68,7 +68,7 @@
         </div>
       </div>
       <div class="grid-item">
-        <div class="card">
+        <div class="cards">
           <img class="card-img" src="./assets/img/ra.jpg" alt="Maldives" />
           <div class="card-content">
             <h1 class="card-header">Republic Act No. 10742 and Implementing Rules <br> and Regulation</h1>
