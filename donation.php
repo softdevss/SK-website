@@ -27,7 +27,7 @@
                <h3>For donations</h3>
            </div>
        </div>
-        
+    
        <div class="grid">
         <div class="grid-item">
           <div class="card">

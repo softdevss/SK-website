@@ -49,7 +49,7 @@
                             echo "<td >{$id}</td>";  
                             echo "<td>{$name}</td>";          
                             echo "<td>{$contact}</td>";  
-                            echo "<td>{$address}</td>";          
+                            echo "<td>{$address}</td>";        
                             echo "<td>{$email}</td>";  
                             echo "<td>{$donation}</td>";
                             echo "<td><a onClick=\"javascript: return confirm('Are you sure you want to delete?');\" href='donations.php?delete={$id}'>Delete</a></td>";
