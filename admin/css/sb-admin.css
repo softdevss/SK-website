@@ -167,12 +167,12 @@ ul.alert-dropdown {
 
 /* Flot Chart Containers */
 
-.float-chart {
+.flot-chart {
     display: block;
     height: 400px;
 }
 
-.float-chart-content {
+.flot-chart-content {
     width: 100%;
     height: 100%;
 }
