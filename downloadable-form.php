@@ -68,6 +68,46 @@
         </div>
       </div>
       <div class="grid-item">
+      <div class="cards">
+        <img class="card-img" src="./assets/img/nyc.jpg" alt="Maldives" />
+        <div class="card-content">
+          <h1 class="card-header">Katipunan ng Kabataan Directories</h1>
+          
+          <button class="card-btn"><a href="https://drive.google.com/file/d/1LLQr4wRJHhF2kODgzVBEYLX77aumd9mn/view?usp=sharing" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="cards">
+        <img class="card-img" src="./assets/img/nyc.jpg" alt="Maldives" />
+        <div class="card-content">
+        <h1 class="card-header" style="font-size: 2rem;"><strong> Annual Barangay Youth Investment Program (ABYIP) Template</strong></h1>
+          
+          <button class="card-btn"><a href="https://drive.google.com/file/d/1rZBwUIvwKfqiKJZRFRt2BI9v4Vbx6vaJ/view?usp=sharing" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="cards">
+        <img class="card-img" src="./assets/img/nyc.jpg" alt="Maldives" />
+        <div class="card-content">
+        <h1 class="card-header" style="font-size: 2rem;"><strong> Comprehensive Barangay Youth Development Plan(CBYDP) Template</strong></h1>
+          
+          <button class="card-btn"><a href="https://drive.google.com/file/d/1UhlkPxb384xPoiSqQzIu9Zi0RGk4ns8A/view?usp=sharing" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item">
+      <div class="cards">
+        <img class="card-img" src="./assets/img/nyc.jpg" alt="Maldives" />
+        <div class="card-content">
+        <h1 class="card-header" style="font-size: 2rem;"><strong> Sanggunian Kabataan Local Youth Development Plan (LYDP) Template</strong></h1>
+          
+          <button class="card-btn"><a href="https://drive.google.com/file/d/1oplf07nl2pfPLJ95T6jbBz8EeJNHwHSO/view?usp=sharing" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+      <div class="grid-item">
         <div class="cards">
           <img class="card-img" src="./assets/img/ra.jpg" alt="Maldives" />
           <div class="card-content">
@@ -77,6 +117,7 @@
           </div>
         </div>
       </div>
+    
   </div>
 
 </div>
