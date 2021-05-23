@@ -1,6 +1,6 @@
 <?php include "includes/header.php" ?>
 <main>
-    <h1 class="text-center font-size:20px;">About us </h1>
+    <h1 class="text-center font-size:20px;"></h1>
     <!--? Hero Start -->
     <div class="slider-area2">
         <div class="slider-height2 d-flex align-items-center">
@@ -31,14 +31,14 @@
                         </div>
                         <p>There arge many variations ohf pacgssages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.</p>
                         <div class="about-btn1 mb-30">
-                            <a href="about.html" class="btn about-btn">Downloadable Form<i class="ti-arrow-right"></i></a>
+                            <a href="downloadable-form.php" class="btn about-btn">Downloadable Form<i class="ti-arrow-right"></i></a>
                         </div>
                         <div class="about-btn1 mb-30">
-                            <a href="about.html" class="btn about-btn2">Be a volunteer <i class="ti-arrow-right"></i></a>
+                            <a href="volunteer.php" class="btn about-btn2">Be a volunteer <i class="ti-arrow-right"></i></a>
                         </div>
-                        <div class="about-btn1 mb-30">
+                        <!-- <div class="about-btn1 mb-30">
                             <a href="about.html" class="btn about-btn2">Rewards <i class="ti-arrow-right"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12">
