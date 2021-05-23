@@ -60,7 +60,7 @@
                             <div class="main-menu f-right d-none d-lg-block">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a href="index.php">Homeless</a></li>
+                                        <li><a href="index.php">Home</a></li>
                                         <li><a href="news.php">News & Update</a></li>
                                         <li><a href="about.php">About</a>
                                         <ul class="submenu">
