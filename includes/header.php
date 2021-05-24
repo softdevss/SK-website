@@ -67,16 +67,33 @@
                                         <li><a href="#">Sangguniang Kabataan Roster</a></li>
                                             <li><a href="officials.php">SK Elected Officials</a></li>
                                             <li><a href="#">Committee Heads</a></li>
+                                            <li><a href="#">Resolution</a>
+                                            <ul class="submenu" style="margin-left:16.3rem; width:80px">
+                                                        <li><a href="downloadable-form.php">2019</a></li>
+                                                        <li><a href="volunteer.php">2020</a></li>
+                                                        <li><a href="volunteer.php">2021</a></li>
+                                                </ul>
+                                            </li>
+
                                             <li><a href="youth.php">Youth Councils</a></li></ul></li>
-                                        <li><a href="services.php">Services</a>
+                                        <li><a href="services.php">Program & Services</a>
                                             <ul class="submenu">
-                                                <li><a href="downloadable-form.php">Downloadable forms</a></li>
-                                                <li><a href="volunteer.php">Be a Volunteer</a></li>
-                                                <li><a href="helpdesk.php">Online Health Desk</a></li>
+                                            <li><a href="">Project & Achievements</a>
+                                                        <ul class="submenu" style="margin-left:16.3rem; width:80px">
+                                                        <li><a href="downloadable-form.php">2019</a></li>
+                                                        <li><a href="volunteer.php">2020</a></li>
+                                                        <li><a href="volunteer.php">2021</a></li>
+                                                </ul>
+                                                </li>
+                                                        <li><a href="downloadable-form.php">Downloadable forms</a></li>
+                                                        <li><a href="volunteer.php">Be a Volunteer</a></li>
+                                                        <li><a href="helpdesk.php">Online Health Desk</a></li>
+                                                        <li><a href="">Resolution</a></li>
+                                                        <li><a href="donation.php">Donate</a></li>
                                                 
                                             </ul>
                                         </li>
-                                        <li><a href="donation.php">Donate</a></li>
+                                        
                                         <li><a href="contact.php">Contact</a></li>
                                            <li><a href="login-modal.php">.</a></li>
                                     </ul>
