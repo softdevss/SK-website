@@ -134,7 +134,7 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
@@ -147,14 +147,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/bulacan.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
           <h2>BULACAN YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <span>RESOLUTION 003-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -188,11 +188,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/youth/no-logo.jpg" alt="" >
+        <img src="./assets/img/youth/gregoria.jpg" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> GREGORIA YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -201,14 +201,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/gregoria.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>GREGORIA YOUTH COUNCIL</h2>
+          <span>RESOLUTION 004-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -242,11 +242,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/bayabas.jpg" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> BAYABAS YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -255,14 +255,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/bayabas.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>BAYABAS YOUTH COUNCIL</h2>
+          <span>RESOLUTION 005-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -296,11 +296,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> JLE YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -309,14 +309,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/youth/no-logo.png" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>JLE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 006-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -350,11 +350,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> GITNANG BAYAN YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -363,14 +363,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/youth/no-logo.png" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>GITNANG BAYAN YOUTH COUNCIL</h2>
+          <span>RESOLUTION 007-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -404,11 +404,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> MONPORT YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -417,14 +417,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/youth/no-logo.png" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>MONPORT YOUTH COUNCIL</h2>
+          <span>RESOLUTION 008-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -458,11 +458,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> SAMPALUCAN YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -471,14 +471,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/sampalucan.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>SAMPALUCAN YOUTH COUNCIL</h2>
+          <span>RESOLUTION 009-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -512,11 +512,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/SIMONA.jpg" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> SIMONA YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -525,14 +525,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/SIMONA.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>SIMONA YOUTH COUNCIL</h2>
+          <span>RESOLUTION 010-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -566,11 +566,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> SUNRISE YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -579,14 +579,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/sunrise.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>SUNRISE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 011-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -620,11 +620,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> SAINT ANTHONY YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -633,14 +633,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/anthony.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>SAINT ANTHONY YOUTH COUNCIL</h2>
+          <span>RESOLUTION 012-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -674,11 +674,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="">
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> RIDGEMONT YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -687,14 +687,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/ridgemont.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>RIDGEMONT YOUTH COUNCIL</h2>
+          <span>RESOLUTION 013-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -728,11 +728,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> CIELITO YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -741,14 +741,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/youth/no-logo.png" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>CIELTIO YOUTH COUNCIL</h2>
+          <span>RESOLUTION 014-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -782,11 +782,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> SAINT MICHAEL YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -795,14 +795,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/youth/no-logo.png" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>SAINT MICHAEL YOUTH COUNCIL</h2>
+          <span>RESOLUTION 015-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -836,11 +836,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> TANCINCO YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -849,14 +849,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/tancinco.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>TANCINCO YOUTH COUNCIL</h2>
+          <span>RESOLUTION 016-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -890,11 +890,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> MARIA CLARA YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -903,14 +903,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/youth/no-logo.png" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>MARIA CLARA YOUTH COUNCIL</h2>
+          <span>RESOLUTION 017-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -944,11 +944,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> CRUZ COMPOUND YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -957,14 +957,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/youth/no-logo.png" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>CRUZ COMPOUND YOUTH COUNCIL</h2>
+          <span>RESOLUTION 018-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -998,11 +998,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> PALMERA 1 YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -1011,14 +1011,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/youth/no-logo.png" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>PALMERA 1 YOUTH COUNCIL</h2>
+          <span>RESOLUTION 019-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -1052,11 +1052,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> SIMONA NATIONAL HIGH SCHOOL YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -1065,14 +1065,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/SIMONANA.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>SIMONA NATIONAL HIGH SCHOOL YOUTH COUNCIL</h2>
+          <span>RESOLUTION 020-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -1106,11 +1106,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> LORD JEWELS YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -1119,14 +1119,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/youth/no-logo.png" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>LORD JEWELS YOUTH COUNCIL</h2>
+          <span>RESOLUTION 020-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -1160,11 +1160,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/stjohn.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> ST. JOHN THE BAPTIST PAROCHIAL YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -1173,14 +1173,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/stjohn.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>ST. JOHN THE BAPTIST PAROCHIAL YOUTH COUNCIL</h2>
+          <span>RESOLUTION 021-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -1214,11 +1214,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img//youth/jsmjc.jpg" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> JSMJC YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -1227,14 +1227,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/jsmjc.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>JSCJC YOUTH COUNCIL</h2>
+          <span>RESOLUTION 022-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -1268,11 +1268,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/siena.jpg" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> SIENNA COLLEGE OF TAYTAY STUDENT COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -1281,14 +1281,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/siena.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>SIENNA COLLEGE OF TAYTAY STUDENT COUNCIL</h2>
+          <span>RESOLUTION 023-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -1322,11 +1322,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/methodist.jpg" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> UNITED METHODIST CHURCH JUNIOR STUDENT COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -1335,14 +1335,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/methodist.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2> UNITED METHODIST CHURCH JUNIOR STUDENT COUNCIL</h2>
+          <span>RESOLUTION 024-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -1376,11 +1376,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/methodist.jpg" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> UNITED METHODIST CHURCH SENIOR STUDENT YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -1389,14 +1389,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/methodist.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>UNITED METHODIST CHURCH SENIOR STUDENT YOUTH COUNCIL</h2>
+          <span>RESOLUTION 025-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -1430,11 +1430,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/siena.jpg" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> SIENNA COLLEGE OF TAYTAY JUNIOR STUDENT COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -1443,14 +1443,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/siena.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2> SIENNA COLLEGE OF TAYTAY JUNIOR STUDENT COUNCIL</h2>
+          <span>RESOLUTION 026-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -1484,11 +1484,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/siena.jpg" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3>  SIENNA COLLEGE OF TAYTAY SENIOR STUDENT COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -1497,14 +1497,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/siena.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2> SIENNA COLLEGE OF TAYTAY JUNIOR STUDENT COUNCIL</h2>
+          <span>RESOLUTION 027-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -1538,11 +1538,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> NEW LIFE YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -1551,14 +1551,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/COVER/newlife.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>NEW LIFE YOUTH COUNCIL</h2>
+          <span>RESOLUTION 028-2019</span>
           </div>
           <br>
           <div class="back-content">
@@ -1592,11 +1592,11 @@
     <div class="card middle">
       <div class="front">
         <div class="front-img">
-        <img src="./assets/img/pensville.jpg" alt="" >
+        <img src="./assets/img/youth/no-logo.png" alt="" >
         </div>
        
       <div class="front-content">
-        <h3> PINESVILLE YOUTH COUNCIL</h3>
+        <h3> PAGIBIG PAGKAKISA HESUKRISTO YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
         <button class="boton">HOVER</button>
@@ -1605,14 +1605,14 @@
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/PINESVILLE.jpg" alt="">
+            <img src="./assets/img/youth/no-logo.png" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PINESVILLE YOUTH COUNCIL</h2>
-          <span>RESOLUTION 001-2019</span>
+          <h2>PAGIBIG PAGKAKISA HESUKRISTO YOUTH COUNCIL</h2>
+          <span>RESOLUTION 029-2019</span>
           </div>
           <br>
           <div class="back-content">

@@ -59,7 +59,7 @@
                                     </ul>
                                 </div>
                             </article>
-                            <article class="blog_item">
+                            <article class="blog_item" id="employment">
                                 <div class="blog_item_img">
                                     <img class="card-img rounded-0" src="assets/img/blog/single_blog_3.png" alt="">
                                     <a href="#" class="blog_item_date">
@@ -78,7 +78,7 @@
                                     </ul>
                                 </div>
                             </article>
-                            <article class="blog_item">
+                            <article class="blog_item "  >
                                 <div class="blog_item_img">
                                     <img class="card-img rounded-0" src="assets/img/blog/single_blog_4.png" alt="">
                                     <a href="#" class="blog_item_date">
@@ -97,7 +97,7 @@
                                     </ul>
                                 </div>
                             </article>
-                            <article class="blog_item">
+                            <article class="blog_item" >
                                 <div class="blog_item_img">
                                     <img class="card-img rounded-0" src="assets/img/blog/single_blog_5.png" alt="">
                                     <a href="#" class="blog_item_date">
@@ -160,7 +160,7 @@
                                 <h4 class="widget_title" style="color: #2d2d2d;">Category</h4>
                                 <ul class="list cat-list">
                                     <li>
-                                        <a href="#" class="d-flex">
+                                        <a href="#employment" class="d-flex">
                                             <p>Youth Employment</p>
                                             <p>(0)</p>
                                         </a>
@@ -197,6 +197,21 @@
                                     </li>
                                 </ul>
                             </aside>
+
+                            <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+                            <script>
+                                $(function(){
+                                    $(".list a").on('click' , function(){
+                                        $("html, body").animate({
+                                            scrollTop: $($.attr(this , 'href')).offset().top
+                                        }, 500);
+                                    });
+                                });
+
+                            </script>
+
+
                             <!--<aside class="single_sidebar_widget popular_post_widget">
                                 <h3 class="widget_title" style="color: #2d2d2d;">Recent Post</h3>
                                 <div class="media post_item">
