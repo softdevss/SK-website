@@ -1199,3 +1199,7 @@ font-size: 12px;
 .boton:active span {
   margin-left: 1.5rem;
 }
+
+.appointment{
+display: flex;
+}

@@ -40,7 +40,7 @@
                                     </strong>
                                 </h1>
                                 <!--<p data-animation="fadeInLeft" data-delay="0.1s">Paragraph.</p>-->
-                                <a href="#" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.5s">Get Appointment <i class="ti-arrow-right"></i></a>
+                                <a href="getappointment.php" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.5s">Get Appointment <i class="ti-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>

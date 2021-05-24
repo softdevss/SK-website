@@ -3,18 +3,18 @@
 <main>
     <!--? Hero Start -->
     <div class="slider-area2">
-        <div class="sliderheight2 d-flex align-items-center">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="hero-cap hero-cap2 text-center">
-
+            <div class="slider-height2 d-flex align-items-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-12">
+                            <div class="hero-cap hero-cap2 text-center">
+                                <!--<h2>Contact Us</h2>-->
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
         <div class="map-container" style="display: flex; justify-content: center; align-items: center;">
             <iframe class="map"
     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d860.024017976398!2d121.134774575286!3d14.577561893064306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397c77a9e148b63%3A0xb2e05fb8154ee03!2sSan%20Isidro%20Barangay%20Hall!5e0!3m2!1sen!2sph!4v1621399771681!5m2!1sen!2sph"

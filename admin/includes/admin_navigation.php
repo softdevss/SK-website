@@ -35,6 +35,7 @@
                         <!-- <li><a href="charts.html"><i class="fa fa-fw fa-bar-chart-o"></i>Charts</a></li> -->
                         <li ><a href="./contact.php"><i class='bx bxs-user'></i> Contacts</a></li>
                         <li><a href="./requestletter.php"><i class='bx bxs-bookmark'></i> Request letter</a></li>
+                        <li><a href="./appointment.php"><i class='bx bxs-donate-heart' ></i>Appointments</a></li>
                         <li><a href="./donations.php"><i class='bx bxs-donate-heart' ></i>Donations</a></li>
                         <li><a href="./volunteerview.php"><i class='bx bxs-user-voice'></i>Be A Volunteer</a></li>
                         <li><a href="./helpdeskview.php"><i class='bx bx-bookmark'></i>Online Help Desk</a></li>
