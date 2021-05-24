@@ -71,9 +71,9 @@
                         <div class="about-btn1 mb-30">
                             <a href="downloadable-form.php" class="btn about-btn">Downloadable Form <i class="ti-arrow-right"></i></a>
                         </div>
-                        <div class="about-btn1 mb-30">
+                        <!-- <div class="about-btn1 mb-30">
                             <a href="about.html" class="btn about-btn2">About SK San Isidro <i class="ti-arrow-right"></i></a>
-                        </div>
+                        </div> -->
                         <div class="about-btn1 mb-30">
                             <a href="volunteer.php" class="btn about-btn2">Be A Volunteer <i class="ti-arrow-right"></i></a>
                         </div>

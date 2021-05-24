@@ -1,6 +1,6 @@
 <?php include "includes/header.php" ?>
 <main>
-    <h1 class="text-center font-size:20px;">About us </h1>
+    <h1 class="text-center font-size:20px;"></h1>
     <!--? Hero Start -->
     <div class="slider-area2">
         <div class="slider-height2 d-flex align-items-center">
@@ -31,14 +31,14 @@
                         </div>
                         <p>There arge many variations ohf pacgssages of sorem gpsum ilable, but the majority have suffered alteration in some form, by ected humour, or randomised words whi.</p>
                         <div class="about-btn1 mb-30">
-                            <a href="about.html" class="btn about-btn">Downloadable Form<i class="ti-arrow-right"></i></a>
+                            <a href="downloadable-form.php" class="btn about-btn">Downloadable Form<i class="ti-arrow-right"></i></a>
                         </div>
                         <div class="about-btn1 mb-30">
-                            <a href="about.html" class="btn about-btn2">Be a volunteer <i class="ti-arrow-right"></i></a>
+                            <a href="volunteer.php" class="btn about-btn2">Be a volunteer <i class="ti-arrow-right"></i></a>
                         </div>
-                        <div class="about-btn1 mb-30">
+                        <!-- <div class="about-btn1 mb-30">
                             <a href="about.html" class="btn about-btn2">Rewards <i class="ti-arrow-right"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12">
@@ -60,29 +60,8 @@
     <div class="all-starups-area testimonial-area fix">
         <!-- left Contents -->
         <div class="starups">
-            <!--? Testimonial Start -->
-            <div class="h1-testimonial-active">
-                <!-- Single Testimonial -->
-                <div class="single-testimonial text-center">
-                    <!-- Testimonial Content -->
-                    <div class="testimonial-caption ">
-                        <div class="testimonial-top-cap">
-                            <img src="assets/img/gallery/testimonial.png" alt="">
-                            <p>“I am at an age where I just want to be fit and healthy our bodies are our responsibility! So start caring for your body and it will care for you. Eat clean it will care for yout hard.”</p>
-                        </div>
-                        <!-- founder -->
-                        <div class="testimonial-founder d-flex align-items-center justify-content-center">
-                            <div class="founder-img">
-                                <img src="assets/img/gallery/Homepage_testi.png" alt="">
-                            </div>
-                            <div class="founder-text">
-                                <span>Margaret Lawson</span>
-                                <p>Chif Photographer</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <!--? Testimonial Start -->             
+                     <img src="assets/img/gallery/startup.png" alt="">
             <!-- Testimonial End -->
         </div>
         <!--Right Contents  -->
