@@ -78,7 +78,7 @@
                                         </li>
                                         <li><a href="donation.php">Donate</a></li>
                                         <li><a href="contact.php">Contact</a></li>
-                                           <li><a href="login-modal.php">.</a></li>
+                                           <li><a href="login-modal.php">Login</a></li>
                                     </ul>
                                 </nav>
                             </div>
