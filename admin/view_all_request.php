@@ -19,18 +19,19 @@
                         <thead class="thead-dark">
                             <tr>
                                 <th>Id</th>
-                                <th>fullname</th>
-                                <th>oraganization</th>
-                                <th>contact</th>
-                                <th>request</th>
-                                <th>event</th>
-                                <th>date</th>
-                                <th>venue</th>
-                                <th>date_recieved</th>
-                                <th>date_claimed</th>
-                                <th>status</th>
-                                <th>amount</th>
+                                <th>Fullname</th>
+                                <th>Oraganization</th>
+                                <th>Contact</th>
+                                <th>Request</th>
+                                <th>Event</th>
+                                <th>Date</th>
+                                <th>Venue</th>
+                                <th>Date_Recieved</th>
+                                <th>Date_Claimed</th>
+                                <th>Status</th>
+                                <th>Amount</th>
                                 <th>Remove</th>
+                                <th>Update</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -66,7 +67,8 @@
                         echo "<td>{$dateC}</td>";          
                         echo "<td>{$status}</td>";  
                         echo "<td>{$amount}</td>";
-                        echo "<td><a onClick=\"javascript: return confirm('Are you sure you want to delete?');\" href='requestletter.php?delete={$id}'>Delete</a></td>";
+                        echo "<td><a onClick=\"javascript: return confirm('Are you sure you want to delete?');\" href='request.php?delete={$id}'>Delete</a></td>";
+                        echo "<td><a href='request.php?source=edit_request&edit_request_id={$id}'>Edit</a></td>";
                     echo "</tr>"; 
                     
                 }     
@@ -90,10 +92,10 @@
 
     $the_comment_id = $_GET['delete'];
 
-    $query  = "DELETE FROM donate WHERE id = {$the_comment_id} ";
+    $query  = "DELETE FROM request WHERE id = {$the_comment_id} ";
     $delete_query = mysqli_query($connection,$query);
 
-    header("Location: donations.php");
+    header("Location: request.php");
 
     }
 

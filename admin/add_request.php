@@ -3,7 +3,7 @@
 
 if(isset($_POST['submit'])){
 
-    $fullname = $_POST['name'];
+    $fullname = $_POST['fullname'];
     $oraganization = $_POST['organization'];
     $contact = $_POST['contact'];
     $request = $_POST['request'];
@@ -41,7 +41,7 @@ if(isset($_POST['submit'])){
      
      <div class="form-group ">
          <label for="title">full name</label>
-         <input type="text" class="form-control" name="name">
+         <input type="text" class="form-control" name="fullname">
      </div>
 
      <div class="form-group">

@@ -35,8 +35,8 @@
                       include "add_request.php";
                     break;
                        
-                    case 'edit_user':
-                       include "edit_user.php";
+                    case 'edit_request':
+                       include "edit_request.php";
                     break;
                        
                     case '344':
