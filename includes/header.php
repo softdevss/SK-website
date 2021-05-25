@@ -64,31 +64,32 @@
                                         <li><a href="news.php">News & Update</a></li>
                                         <li><a href="about.php">About</a>
                                         <ul class="submenu">
-                                        <li><a href="#">Sangguniang Kabataan Roster</a></li>
-                                            <li><a href="officials.php">SK Elected Officials</a></li>
-                                            <li><a href="#">Committee Heads</a></li>
-                                            <li><a href="#">SK Resolutions</a>
+                                        <li ><a href="#"><i class="fas fa-chevron-right"></i> Sangguniang Kabataan Roster</a></li>
+                                            <li><a href="officials.php"><i class="fas fa-chevron-right"></i> SK Elected Officials</a></li>
+                                            <li><a href="#"><i class="fas fa-chevron-right"></i> Sustainable Development Goals</a></li>
+                                            <li><a href="#"><i class="fas fa-chevron-right"></i> SK Resolutions</a>
                                             <ul class="submenu" style="margin-left:16.3rem; width:80px">
-                                                        <li><a href="downloadable-form.php">2019</a></li>
-                                                        <li><a href="volunteer.php">2020</a></li>
-                                                        <li><a href="volunteer.php">2021</a></li>
+                                                        <li><a href="#"><i class="fas fa-chevron-right"></i> 2019</a></li>
+                                                        <li><a href="#"><i class="fas fa-chevron-right"></i> 2020</a></li>
+                                                        <li><a href="#"><i class="fas fa-chevron-right"></i> 2021</a></li>
                                                 </ul>
                                             </li>
 
-                                            <li><a href="youth.php">Youth Councils</a></li></ul></li>
+                                            <li><a href="youth.php"><i class="fas fa-chevron-right"></i> Youth Councils</a></li></ul></li>
                                         <li><a href="services.php">Program & Services</a>
                                             <ul class="submenu">
-                                            <li><a href="">Project & Achievements</a>
+                                            <li><a href="index.php"><i class="fas fa-chevron-right"></i> Online Request</a></li>
+                                            <li><a href=""><i class="fas fa-chevron-right"></i> Project & Achievements</a>
                                                         <ul class="submenu" style="margin-left:16.3rem; width:80px">
-                                                        <li><a href="downloadable-form.php">2019</a></li>
-                                                        <li><a href="volunteer.php">2020</a></li>
-                                                        <li><a href="volunteer.php">2021</a></li>
+                                                        <li><a href="#"><i class="fas fa-chevron-right"></i> 2019</a></li>
+                                                        <li><a href="#"><i class="fas fa-chevron-right"></i> 2020</a></li>
+                                                        <li><a href="#"><i class="fas fa-chevron-right"></i> 2021</a></li>
                                                 </ul>
                                                 </li>
-                                                        <li><a href="downloadable-form.php">Downloadable forms</a></li>
-                                                        <li><a href="volunteer.php">Be a Volunteer</a></li>
-                                                        <li><a href="helpdesk.php">Online Health Desk</a></li>
-                                                        <li><a href="donation.php">Donate</a></li>
+                                                        <li><a href="downloadable-form.php"><i class="fas fa-chevron-right"></i> Downloadable forms</a></li>
+                                                        <li><a href="volunteer.php"><i class="fas fa-chevron-right"></i> Be a Volunteer</a></li>
+                                                        <li><a href="helpdesk.php"><i class="fas fa-chevron-right"></i> Online Health Desk</a></li>
+                                                        <li><a href="donation.php"><i class="fas fa-chevron-right"></i> Donate</a></li>
                                                 
                                             </ul>
                                         </li>
