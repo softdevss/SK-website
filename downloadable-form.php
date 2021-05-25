@@ -23,16 +23,7 @@
 
 
 <div class="grid">
-    <div class="grid-item">
-      <div class="cards">
-        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
-        <div class="card-content">
-          <h1 class="card-header">SK Operation Manual</h1>
-        
-          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
-        </div>
-      </div>
-    </div>
+
     <div class="grid-item">
       <div class="cards">
         <img
@@ -94,6 +85,17 @@
         <h1 class="card-header" style="font-size: 2rem;"><strong> Comprehensive Barangay Youth Development Plan(CBYDP) Template</strong></h1>
           
           <button class="card-btn"><a href="https://drive.google.com/file/d/1UhlkPxb384xPoiSqQzIu9Zi0RGk4ns8A/view?usp=sharing" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
+        </div>
+      </div>
+    </div>
+    <div class="grid">
+    <div class="grid-item">
+      <div class="cards">
+        <img class="card-img" src="./assets/img/sk-manual.jpg" alt="Rome" />
+        <div class="card-content">
+          <h1 class="card-header">SK Operation Manual</h1>
+        
+          <button class="card-btn"><a href="https://drive.google.com/file/d/137Lvprgxmq7gzvTVYk1vgnZFNMxkMrZ3/view" target="_blank"><i class="fas fa-arrow-circle-down"></i> Download</a></button>
         </div>
       </div>
     </div>
