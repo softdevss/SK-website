@@ -35,8 +35,8 @@
                         <!-- <li><a href="charts.html"><i class="fa fa-fw fa-bar-chart-o"></i>Charts</a></li> -->
                         <li ><a href="./contact.php"><i class='bx bxs-user'></i> Contacts</a></li>
 
-                            <li><a href="javascript:;" data-toggle="collapse" data-target="#demo1"><i
-                                        class="fa fa-fw fa-arrows-v"></i> Request <i class="fa fa-fw fa-caret-down"></i></a>
+                            <li><a href="javascript:;" data-toggle="collapse" data-target="#demo1">
+                            <i class="fa fa-fw fa-arrows-v"></i> Request <i class="fa fa-fw fa-caret-down"></i></a>
                                 <ul id="demo1" class="collapse">
                                     <li><a href="request.php"><i class='bx bx-user-circle' ></i> View Request</a></li>
                                     <li><a href="request.php?source=add_request"><i class='bx bx-user-plus' ></i> Add request</a></li>
