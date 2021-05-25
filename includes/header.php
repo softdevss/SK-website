@@ -58,8 +58,8 @@
                         <div class="menu-main d-flex align-items-center justify-content-end">
                             <!-- Main-menu -->
                             <div class="main-menu f-right d-none d-lg-block">
-                                <nav>
-                                    <ul id="navigation">
+                                <nav >
+                                    <ul id="navigation" >
                                         <li><a href="index.php">Home</a></li>
                                         <li><a href="news.php">News & Update</a></li>
                                         <li><a href="about.php">About</a>

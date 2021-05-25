@@ -430,7 +430,7 @@ h1{
   outline: none;
   padding: 1rem;
   background: none;
-  z-index: 1;
+  
 }
 .form__label{
   position: absolute;
@@ -468,7 +468,7 @@ h1{
   color: var(--first-color);
   font-size: var(--small-font-size);
   font-weight: 500;
-  z-index: 10;
+ 
 }
 
 /*Input focus sticky top label*/
@@ -477,7 +477,7 @@ h1{
   left: .8rem;
   font-size: var(--small-font-size);
   font-weight: 500;
-  z-index: 10;
+ 
 }
 
 /*Input focus*/
