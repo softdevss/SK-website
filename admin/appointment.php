@@ -54,7 +54,7 @@
                             echo "<td>{$address}</td>";
                             echo "<td>{$date}</td>";
                             echo "<td>{$purpose}</td>"; 
-                            echo "<td><a onClick=\"javascript: return confirm('Are you sure you want to delete?');\" href='contact.php?delete={$id}'>Delete</a></td>";
+                            echo "<td><a onClick=\"javascript: return confirm('Are you sure you want to delete?');\" href='appointment.php?delete={$id}'>Delete</a></td>";
                         echo "</tr>"; 
                     }       
                     ?>
