@@ -47,9 +47,10 @@
                         <li><a href="./donations.php"><i class='bx bxs-donate-heart' ></i>Donations</a></li>
                         <li><a href="./volunteerview.php"><i class='bx bxs-user-voice'></i>Be A Volunteer</a></li>
                         <li><a href="./helpdeskview.php"><i class='bx bx-bookmark'></i>Online Help Desk</a></li>
+                        <li><a href="./online-request.php"><i class='bx bx-bookmark'></i>Online Request</a></li>
 
-                        <li><a href="javascript:;" data-toggle="collapse" data-target="#demo"><i
-                                    class="fa fa-fw fa-arrows-v"></i> Users <i class="fa fa-fw fa-caret-down"></i></a>
+                        <li><a href="javascript:;" data-toggle="collapse" data-target="#demo">
+                        <i class="fa fa-fw fa-arrows-v"></i> Users <i class="fa fa-fw fa-caret-down"></i></a>
                             <ul id="demo" class="collapse">
                                 <li><a href="users.php"><i class='bx bx-user-circle' ></i> View Users</a></li>
                                 <li><a href="users.php?source=add_users"><i class='bx bx-user-plus' ></i> Add user</a></li>
