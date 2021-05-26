@@ -15,7 +15,7 @@
            <div class="col-lg-12">
                 <h1 class="page-header">
                     Welcome to Admin
-                    <small> <?php echo $_SESSION['username']; ?> </small>
+                    <Strong style="text-transform:uppercase; color:grey;"> <?php echo $_SESSION['fullname']; ?> </Strong>
                 </h1>
                 
                 <?php

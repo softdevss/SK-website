@@ -21,7 +21,7 @@ if(isset($_POST['submit'])){
      
       while($row = mysqli_fetch_array($select_user_query)){
           
-    
+         $db_fullname = $row['fullname'];
          $db_username = $row['username'];
          $db_user_password = $row['password'];
          $db_user_role = $row['role'];
@@ -36,6 +36,7 @@ if(isset($_POST['submit'])){
 
         if(password_verify($password, $db_user_password)){
 
+          $_SESSION['fullname'] = $db_fullname;
           $_SESSION['username'] = $db_username;
           $_SESSION['role'] = $db_user_role;
 

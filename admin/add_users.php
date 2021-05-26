@@ -1,6 +1,7 @@
 <?php
 if(isset($_POST['create_user'])){
     
+  $fullname = $_POST['fullname'];
   $username = $_POST['username'];
   $password = $_POST['password'];
   $role = $_POST['role'];
@@ -10,13 +11,11 @@ if(isset($_POST['create_user'])){
     
 //    move_uploaded_file($post_image_temp, "../images/$post_image" );
     
-$query = "INSERT INTO users (username, password, role ) ";
-$query .= "VALUES('{$username}','{$password}','{$role}' ) ";
+$query = "INSERT INTO users (fullname, username, password, role ) ";
+$query .= "VALUES('{$fullname}','{$username}','{$password}','{$role}' ) ";
 
     $create_user_query = mysqli_query($connection, $query);
   
-  
-    
     echo "User Created: " . " " . "<a href='users.php'>View Users</a> ";
     
 }
@@ -26,6 +25,12 @@ $query .= "VALUES('{$username}','{$password}','{$role}' ) ";
 
 
 <form action="" method="post" enctype="multipart/form-data" style="background:#ffffff;">
+
+<div class="form-group">
+         <label for="title">fullname</label>
+         <input type="text" class="form-control" name="fullname">
+     </div>
+     
      
      <div class="form-group">
          <label for="title">Username</label>
@@ -41,8 +46,8 @@ $query .= "VALUES('{$username}','{$password}','{$role}' ) ";
          
          <select name="role" id="">
              <option value="Subscriber">Select Options</option>
-             <option value="admin">Admin</option>
-             <option value="staff">Staff</option>
+             <option value="Admin">Admin</option>
+             <option value="Staff">Staff</option>
                  
          </select>
  

@@ -1,4 +1,5 @@
 <?php include "includes/admin_header.php"; ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <body style="background:#ffff;">
@@ -18,8 +19,8 @@
                     
                     <div class="col-lg-12">
                         <h1 class="page-header">
-                           WELCOME ADMIN                   
-                           <Strong style="text-transform:uppercase; color:grey;"> <?php echo $_SESSION['username']; ?> </Strong>
+                           Welcome to Admin            
+                           <Strong style="text-transform:uppercase; color:grey;"> <?php echo $_SESSION['fullname']; ?> </Strong>
                         </h1>
                         <ol class="breadcrumb">
                             <li>

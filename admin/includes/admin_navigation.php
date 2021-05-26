@@ -35,13 +35,13 @@
                         <!-- <li><a href="charts.html"><i class="fa fa-fw fa-bar-chart-o"></i>Charts</a></li> -->
                         <li ><a href="./contact.php"><i class='bx bxs-user'></i> Contacts</a></li>
 
-                            <li><a href="javascript:;" data-toggle="collapse" data-target="#demo1"><i
-                                        class="fa fa-fw fa-arrows-v"></i> Request <i class="fa fa-fw fa-caret-down"></i></a>
-                                <ul id="demo1" class="collapse">
+                        <li><a href="javascript:;" data-toggle="collapse" data-target="#demo">
+                        <i class="fa fa-fw fa-arrows-v"></i> Request <i class="fa fa-fw fa-caret-down"></i></a>
+                                <ul id="demo" class="collapse">
                                     <li><a href="request.php"><i class='bx bx-user-circle' ></i> View Request</a></li>
                                     <li><a href="request.php?source=add_request"><i class='bx bx-user-plus' ></i> Add request</a></li>
                                 </ul>
-                            </li>
+                        </li>
 
                         <li><a href="./appointment.php"><i class='bx bxs-donate-heart' ></i>Appointments</a></li>
                         <li><a href="./donations.php"><i class='bx bxs-donate-heart' ></i>Donations</a></li>
@@ -49,9 +49,9 @@
                         <li><a href="./helpdeskview.php"><i class='bx bx-bookmark'></i>Online Help Desk</a></li>
                         
 
-                        <li><a href="javascript:;" data-toggle="collapse" data-target="#demo">
+                        <li><a href="javascript:;" data-toggle="collapse" data-target="#demo2">
                         <i class="fa fa-fw fa-arrows-v"></i> Users <i class="fa fa-fw fa-caret-down"></i></a>
-                            <ul id="demo" class="collapse">
+                            <ul id="demo2" class="collapse">
                                 <li><a href="users.php"><i class='bx bx-user-circle' ></i> View Users</a></li>
                                 <li><a href="users.php?source=add_users"><i class='bx bx-user-plus' ></i> Add user</a></li>
                             </ul>

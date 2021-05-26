@@ -10,6 +10,7 @@ if(isset($_GET['edit_user'])){
     while($row = mysqli_fetch_assoc($select_users_query)){
 
         $user_id          = $row['id'];
+        $fullname          = $row['fullname'];
         $username         = $row['username'];  
         $password         = $row['password'];
         $role             = $row['role'];    
@@ -21,6 +22,7 @@ if(isset($_GET['edit_user'])){
 
 if(isset($_POST['edit_user'])){
   
+  $fullname   = $_POST['fullname'];
   $username  = $_POST['username'];
   $password  = $_POST['password'];
   $role      = $_POST['role'];
@@ -45,6 +47,7 @@ if(!empty($password)){
     }
     
       $query = "UPDATE users SET ";
+        $query .= "fullname    = '{$fullname}', ";
         $query .= "username    = '{$username}', ";
         $query .= "password     = '{$hashed_password}', ";
         $query .= "role         = '{$role}' ";
@@ -70,6 +73,11 @@ header("Location: index.php");
 ?>
       
    <form action="" method="post" enctype="multipart/form-data">
+
+   <div class="form-group">
+        <label for="title">Fullname</label>
+        <input type="text" value="<?php echo $fullname; ?>" class="form-control" name="fullname">
+    </div>
      
     <div class="form-group">
         <label for="title">username</label>
@@ -90,12 +98,12 @@ header("Location: index.php");
             
             if($role == 'admin'){
                 
-              echo  "<option value='staff'>staff</option>";
+              echo  "<option value='Staff'>staff</option>";
                 
                 
             }else{
                 
-                echo "<option value='admin'>admin</option>";
+                echo "<option value='Admin'>admin</option>";
                 
             }
 
