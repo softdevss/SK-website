@@ -37,7 +37,7 @@ include_once 'includes/db.php';
                         
                 </div>
 
-                <div class="health-form">
+                <div class="health-form" style="margin-bottom:1rem;">
                     <div class="l-form">
                         <form action="admin/uploads.php" method="POST" enctype="multipart/form-data">
                             <h1 class="form__title">Patient Info</h1>
