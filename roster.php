@@ -1,9 +1,23 @@
 
 <?php include "includes/header.php" ?> 
-<main>
+<main><!--? Hero Start -->
+    <div class="slider-area2">
+        <div class="slider-height2 d-flex align-items-center">
+            <div class="container">
+                <div class="row">
+                <div class="col-xl-12">
+                    <div class="hero-cap hero-cap2 text-center">
+                        <!--<h2>Officers</h2>-->
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Hero End -->
        <div class="donations">
            <div class="header">
-               <h3>SK ROSTER 1998</h3>
+               <h3>1st Sangguniang Kabataan 1992-1995</h3>
            </div>
        </div>
 
@@ -12,8 +26,8 @@
       <div class="cards3">
         <img class="card-img3" src="./assets/img/SK-ROSTER/1st sangguniang kabataan.jpg" alt="Rome" />
         <div class="card-content3" style="display:flex; flex-direction:column; justify-content:Center; align-items:center;">
-          <h1 class="card-header">SK CHAIRMAN</h1>
-          <p>SK CHAIRMAN</p>
+          <h1 class="card-header">HON. RAOUL RANDY "RK" PLANA</h1>
+          <p>SK CHAIRPERSON</p>
         </div>
       </div>
     </div>
@@ -21,15 +35,13 @@
       <div class="cards3" style=" padding:2rem;">
         <div class="card-content3" style="display:flex; flex-direction:column; justify-content:Center; align-items:center;">
           <h1 class="card-header"> SK KAGAWAD</h1>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
+            <strong>1. RENAND GATAPIA </strong>
+            <strong>2.</strong>
+            <strong>3.</strong>
+            <strong>4.</strong>
+            <strong>5.</strong>
+            <strong>6.</strong>
+            <strong>7.</strong>
         </div>
       </div>
     </div>   
@@ -38,7 +50,7 @@
 
 <div class="donations">
            <div class="header">
-               <h3>SK ROSTER 1998</h3>
+               <h3>2nd Sangguniang Kabataan 1996-2002</h3>
            </div>
        </div>
 
@@ -47,8 +59,8 @@
       <div class="cards3">
         <img class="card-img3" src="./assets/img/SK-ROSTER/2nd sangguniang kabataan.jpg" alt="Rome" />
         <div class="card-content3" style="display:flex; flex-direction:column; justify-content:Center; align-items:center;">
-          <h1 class="card-header">SK CHAIRMAN</h1>
-          <p>SK CHAIRMAN</p>
+          <h1 class="card-header">HON. "DINGDONG" GATAPIA</h1>
+          <p>SK CHAIRPERSON</p>
         </div>
       </div>
     </div>
@@ -56,15 +68,108 @@
       <div class="cards3" style=" padding:2rem;">
         <div class="card-content3" style="display:flex; flex-direction:column; justify-content:Center; align-items:center;">
           <h1 class="card-header"> SK KAGAWAD</h1>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
-            <strong>juan delacruz</strong>
+            <strong>1. ADRIAN REYES</strong>
+            <strong>2.</strong>
+            <strong>3.</strong>
+            <strong>4.</strong>
+            <strong>5.</strong>
+            <strong>6.</strong>
+            <strong>7.</strong>
+        </div>
+      </div>
+    </div>   
+</div>
+
+<div class="donations">
+           <div class="header">
+               <h3>3rd Sangguniang Kabataan 2002-2007</h3>
+           </div>
+       </div>
+
+       <div class="grid3" style=" padding:2rem; ">
+    <div class="grid-item3" style="flex-basis:500px; margin:1rem;">
+      <div class="cards3">
+        <img class="card-img3" src="./assets/img/hahanapin pa.jpg" alt="Rome" />
+        <div class="card-content3" style="display:flex; flex-direction:column; justify-content:Center; align-items:center;">
+          <h1 class="card-header">HON. DIANNE ELIZA ESGUERRA</h1>
+          <p>SK CHAIRPERSON</p>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item3" style="flex-basis:400px; margin:1rem;">
+      <div class="cards3" style=" padding:2rem;">
+        <div class="card-content3" style="display:flex; flex-direction:column; justify-content:Center; align-items:center;">
+          <h1 class="card-header"> SK KAGAWAD</h1>
+            <strong>1. MICHELLE "MITCH" BERMUNDO</strong>
+            <strong>2.</strong>
+            <strong>3.</strong>
+            <strong>4.</strong>
+            <strong>5.</strong>
+            <strong>6.</strong>
+            <strong>7.</strong>
+        </div>
+      </div>
+    </div>   
+</div>
+
+<div class="donations">
+           <div class="header">
+               <h3>4th Sangguniang Kabataan 2007-2010</h3>
+           </div>
+       </div>
+
+       <div class="grid3" style=" padding:2rem; ">
+    <div class="grid-item3" style="flex-basis:500px; margin:1rem;">
+      <div class="cards3">
+        <img class="card-img3" src="./assets/img/SK-ROSTER/4th sangguniang kabataan.jpg" alt="Rome" />
+        <div class="card-content3" style="display:flex; flex-direction:column; justify-content:Center; align-items:center;">
+          <h1 class="card-header">HON. JAN VICTOR "JV" CABITAC</h1>
+          <p>SK CHAIRPERSON</p>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item3" style="flex-basis:400px; margin:1rem;">
+      <div class="cards3" style=" padding:2rem;">
+        <div class="card-content3" style="display:flex; flex-direction:column; justify-content:Center; align-items:center;">
+          <h1 class="card-header"> SK KAGAWAD</h1>
+            <strong>1. MARVIN ANDRES</strong>
+            <strong>2.</strong>
+            <strong>3.</strong>
+            <strong>4.</strong>
+            <strong>5.</strong>
+            <strong>6.</strong>
+            <strong>7.</strong>
+        </div>
+      </div>
+    </div>   
+</div>
+<div class="donations">
+           <div class="header">
+               <h3>5th Sangguniang Kabataan 2010-2013</h3>
+           </div>
+       </div>
+
+       <div class="grid3" style=" padding:2rem; ">
+    <div class="grid-item3" style="flex-basis:500px; margin:1rem;">
+      <div class="cards3">
+        <img class="card-img3" src="./assets/img/SK-ROSTER/5th sangguniang kabataan.jpg" alt="Rome" />
+        <div class="card-content3" style="display:flex; flex-direction:column; justify-content:Center; align-items:center;">
+          <h1 class="card-header">HON. SOPHIA PRISCILLA "PIA" CABRAL</h1>
+          <p>SK CHAIRPERSON</p>
+        </div>
+      </div>
+    </div>
+    <div class="grid-item3" style="flex-basis:400px; margin:1rem;">
+      <div class="cards3" style=" padding:2rem;">
+        <div class="card-content3" style="display:flex; flex-direction:column; justify-content:Center; align-items:center;">
+          <h1 class="card-header"> SK KAGAWAD</h1>
+            <strong>1. SAKURA KATO</strong>
+            <strong>2.</strong>
+            <strong>3.</strong>
+            <strong>4.</strong>
+            <strong>5.</strong>
+            <strong>6.</strong>
+            <strong>7.</strong>
         </div>
       </div>
     </div>   
