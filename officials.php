@@ -39,7 +39,7 @@
                             <!-- Team social -->
                             <div class="team-social">
                                 <a href="#"><i class="fab fa-twitter"></i></a>                               
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.facebook.com/arky.manning"><i class="fab fa-facebook-f"></i></a>
                             </div>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
                             <!-- Team social -->
                             <div class="team-social">
                                 <a href="#"><i class="fab fa-twitter"></i></a>                               
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.facebook.com/johnnicolas.andaya/"><i class="fab fa-facebook-f"></i></a>
                             </div>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                             <!-- Team social -->
                             <div class="team-social">
                                 <a href="#"><i class="fab fa-twitter"></i></a>                               
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.facebook.com/monique.eva"><i class="fab fa-facebook-f"></i></a>
                             </div>
                         </div>
                     </div>
@@ -91,7 +91,7 @@
                             <!-- Team social -->
                             <div class="team-social">
                                 <a href="#"><i class="fab fa-twitter"></i></a>                               
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.facebook.com/diesta08"><i class="fab fa-facebook-f"></i></a>
                             </div>
                         </div>
                     </div>
@@ -108,7 +108,7 @@
                             <!-- Team social -->
                             <div class="team-social">
                                 <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>    
+                                <a href="https://www.facebook.com/mrksuyat"><i class="fab fa-facebook-f"></i></a>    
                             </div>
                         </div>
                     </div>
@@ -125,7 +125,7 @@
                             <!-- Team social -->
                             <div class="team-social">
                                 <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-facebook-f"></i></a> 
+                                <a href="https://www.facebook.com/alyssahjustine.legaspi.3"><i class="fab fa-facebook-f"></i></a> 
                             </div>
                         </div>
                     </div>
@@ -142,7 +142,7 @@
                             <!-- Team social -->
                             <div class="team-social">
                                 <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.facebook.com/Maryjoybarganbuo"><i class="fab fa-facebook-f"></i></a>
                             </div>
                         </div>
                     </div>
@@ -159,7 +159,7 @@
                             <!-- Team social -->
                             <div class="team-social">
                                 <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.facebook.com/tuasonashlee"><i class="fab fa-facebook-f"></i></a>
                             </div>
                         </div>
                     </div>
@@ -175,7 +175,7 @@
                             <!-- Team social -->
                             <div class="team-social">
                                 <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.facebook.com/geepauldevera"><i class="fab fa-facebook-f"></i></a>
                              
                             </div>
                         </div>

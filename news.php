@@ -15,8 +15,9 @@
             </div>
         </div>
         <!-- Hero End -->
-        <!--================Blog Area =================-->
-        <section class="blog_area section-padding">
+        
+<!--================Blog Area =================-->
+<section class="blog_area section-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 mb-5 mb-lg-0">
@@ -124,10 +125,10 @@
                                         </a>
                                     </li>
                                     <li class="page-item">
-                                        <a href="#" class="page-link">1</a>
+                                        <a href="includes/news.php" class="page-link">1</a>
                                     </li>
                                     <li class="page-item active">
-                                        <a href="#" class="page-link">2</a>
+                                        <a href="includes/newspage2.php" class="page-link">2</a>
                                     </li>
                                     <li class="page-item">
                                         <a href="#" class="page-link" aria-label="Next">
@@ -334,6 +335,8 @@
         </section>-->
         <!--================Blog Area =================-->
     </main>
+        
+
     <?php include "includes/footer.php" ?>
     <!-- Scroll Up -->
     <div id="back-top" >
