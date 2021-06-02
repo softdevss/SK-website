@@ -33,7 +33,7 @@
         <h3> PINESVILLE YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -50,24 +50,26 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>JAY VILLANO</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2>JHON REY GEBREROS</h2>
+          <span>VICE-PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2>CARMELA LASCO</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>GLEA MAGADAN </h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
+          <h2>RALPH LEANDRO JACOSALEM</h2>
+          <h2>JOVEN BIANDO</h2>
+          <h2>MARIA KRISTELLE MAE SIWALA</h2>
           <span>PRO</span>
-          </div>
-          <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
           </div>
           
           <div class="sm">
@@ -87,7 +89,7 @@
         <h3> SITIO TAGUMPAY YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -104,28 +106,32 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>GERALD VILLANUEVA</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2>JET TAMAYO</h2>
+          <span>VICE-PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2>ROSELYN BIENAN</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>STEPHANIE TAMAYO</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
+          <h2>DENISE DEL MUNDO</h2>
+          <span>AUDITOR</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>KEVIN DE GUZMAN</h2>
+          <span>PRO</span>
           </div>
           
           <div class="sm">
-            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+            <a href="https://www.facebook.com/SitioTagumpayYouthOrg"><i class="fab fa-facebook-f"> </i></a>
           </div>
         </div>
       </div>
@@ -141,7 +147,7 @@
         <h3> BULACAN YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -158,28 +164,30 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>NICOLE MARGARETTE CADA</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2>DANICA JOSUE</h2>
+          <span>VICE-PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2>CLAIRE CLADO</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>SIMON ZAPANTA</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
+          <h2>ADAM EDUARDO SAMOLDE</h2>
+          <h2>JASPER ZAPANTA</h2>
+          <span>AUDITOR</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
-          </div>
-          
-          <div class="sm">
-            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+          <h2>KARL MORO</h2>
+          <h2>DIANE TURDANES</h2>
+          <span>PRO</span>
           </div>
         </div>
       </div>
@@ -195,13 +203,13 @@
         <h3> GREGORIA YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/gregoria.jpg" alt="">
+            <img src="./assets/img/COVER/GREGORIA AND MONPERT.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
@@ -212,28 +220,33 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>JASON YIM</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2> SHERWIN PAUL DELA CRUZ</h2>
+          <span>VICE-PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2>JAMES KENNETH ALABASO</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>JOCELYN ANDAYA </h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
+          <h2>TRYSHA MAE DELA CRUZ</h2>
           <span>PRO</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
+          <h2>DENVER PATIAG</h2>
           <span>SRGT .ARMS</span>
           </div>
           
+          
           <div class="sm">
-            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+            <a href="https://www.facebook.com/gregoriayouthcouncilph/"><i class="fab fa-facebook-f"> </i></a>
           </div>
         </div>
       </div>
@@ -249,13 +262,13 @@
         <h3> BAYABAS YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/bayabas.jpg" alt="">
+            <img src="./assets/img/COVER/BAYABAS.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
@@ -266,28 +279,31 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>PRINCE MELBOY BUEZA</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2>BRIXE JADE MARISCOTES</h2>
+          <span>VICE-PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2>JAN MEI AQUINO</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>CHRISTIAN DUNEROS </h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
+          <h2>CLYDER DREXLER DIGO</h2>
+          <span>AUDITOR</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
-          </div>
-          
+          <span>P1-JUHNEL DIVIVA | P2-ANGELO BORONDIA | P3-NORMAN NIDO | P4- DAVE MARCELLANA | P5-CHRIS GARCERA | P6-ARA MINA CRUZ | P7-JEFFREY JESTRO </span>
+          <span>COORDINATORS</span>
+          </div> 
           <div class="sm">
-            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+            <a href="https://www.facebook.com/Sitio-Bayabas-Youth-Council-2089713494442976"><i class="fab fa-facebook-f"> </i></a>
           </div>
         </div>
       </div>
@@ -303,7 +319,7 @@
         <h3> JLE YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -320,25 +336,30 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>RAYMOND ESCALANTE</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2>ROMNICK GUARNES</h2>
+          <span>VICE-PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2>FRANCIS ESCALANTE</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>JEROME CRUZ</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
+          <h2>RICHMOND MANACSA</h2>
           <span>PRO</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <span>KERSLEY ZACARIAS & JOSE MARCO MENDOZA</span><br>
+          <span>BOARD OF MEMBERS</span>
           </div>
+          
           
           <div class="sm">
             <a href="#"><i class="fab fa-facebook-f"> </i></a>
@@ -357,7 +378,7 @@
         <h3> GITNANG BAYAN YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -374,24 +395,28 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
-          <span>PRESIDENT</span>
+          <h2>PAMELA DE LEON</h2>
+          <span>PULUMBARIT ST.</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
-          <span>SECRETARY</span>
+          <h2>ELENA MARIE LOPEZ</h2>
+          <span>LOYOLA ST.</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
-          <span>TREASURER</span>
+          <h2>ELEONOR LOPEZ</h2>
+          <span>J-ASILO ST.</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
+          <h2>JONAS MARCELO</h2>
+          <span>MASIGLA ST.</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>ANGELA CLAINE ANDRES</h2>
+          <span>ISAGANI ST.</span>
+          </div>
+          <div class="back-content">
+          <h2>MARK JULIAN GUADALUPE</h2>
+          <span>MASIGLA ST.</span>
           </div>
           
           <div class="sm">
@@ -408,44 +433,48 @@
         </div>
        
       <div class="front-content">
-        <h3> MONPORT YOUTH COUNCIL</h3>
+        <h3> MONPERT YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/youth/no-logo.png" alt="">
+            <img src="./assets/img/COVER/GREGORIA AND MONPERT.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>MONPORT YOUTH COUNCIL</h2>
+          <h2>MONPERT YOUTH COUNCIL</h2>
           <span>RESOLUTION 008-2019</span>
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>JOHN RANDEL ANG</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
-          <span>SECRETARY</span>
+          <h2>STEPHEN MARCUS TEJEDOR</h2>
+          <span>VICE-PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>JOMAR LEBAQUIN</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
+          <h2>CARL JOHN RAMIRO</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>JAYTRUDE RANDELL DACQUEL</h2>
           <span>PRO</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>GUILLERMO LORENZO</h2>
+          <span>ASST. PRO</span>
           </div>
           
           <div class="sm">
@@ -465,7 +494,7 @@
         <h3> SAMPALUCAN YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -482,24 +511,28 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>JANCEN PALMENCO</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
-          <span>SECRETARY</span>
+          <h2>ARIES PALMENCO</h2>
+          <span>VICE-PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>FREDIE YAEDER JR.</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
+          <h2>DEXTER OBRERO</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>JOHN KEVIN PALMENCO</h2>
           <span>PRO</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <span>PAULO LABAY | JAMES ARWIN SANTOS | WILFREDO ARENAS JR. | JUSTINE SANTOS | CHRISTIAN CELIS</span><br>
+          <span>BOARD MEMBERS</span>
           </div>
           
           <div class="sm">
@@ -519,7 +552,7 @@
         <h3> SIMONA YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -536,28 +569,32 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>ERICK LAGARDE</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
-          <span>SECRETARY</span>
+          <h2>JENNY ROSE MOTAS</h2>
+          <span>VICE-PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>MARY ROSE APOSTOL</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
+          <h2>JUSTINE MAE CABALLES</h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>JHON GERALD BELAGUIN</h2>
           <span>PRO</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <span>ERICA ANN TUSING | AVEGAIL MANLONGAT | VINCE CARLO TILAR | CONYCEL RAMIREZ </span><br>
+          <span>BOARD MEMBERS</span>
           </div>
           
           <div class="sm">
-            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+            <a href="https://www.facebook.com/Simona-Youth-Council-1056334657910685/"><i class="fab fa-facebook-f"> </i></a>
           </div>
         </div>
       </div>
@@ -573,7 +610,7 @@
         <h3> SUNRISE YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -590,24 +627,24 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>ALDRIN NOVIDA</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
-          <span>SECRETARY</span>
+          <h2>LATRELL MACARAYA</h2>
+          <span>VICE-PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>JEROME NOVIDA</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
+          <h2>KENNETH STA.ANA </h2>
+          <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>KEN CRUZ</h2>
+          <span>PRO</span>
           </div>
           
           <div class="sm">
@@ -627,7 +664,7 @@
         <h3> SAINT ANTHONY YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -644,24 +681,24 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>CHRISTINE KAYE BERSAMIN</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
-          <span>SECRETARY</span>
+          <h2>ANGELICA TURALLO</h2>
+          <span>VICE-PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>HARVEY CABOTAJE</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
+          <h2>SABRINA UMALI </h2>
+          <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>CARMEN JOY BALTAZAR</h2>
+          <span>PRO</span>
           </div>
           
           <div class="sm">
@@ -681,7 +718,7 @@
         <h3> RIDGEMONT YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -698,25 +735,26 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>ANDREW NEPOMUCENO</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
-          <span>SECRETARY</span>
+          <h2>CHARLES PILI</h2>
+          <span>VICE-PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>LUIS DE GUZMAN</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
+          <h2>CHRISTINE TAYAO </h2>
+          <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>MARK JOHN DELA CRUZ</h2>
+          <span>PRO</span>
           </div>
+      
           
           <div class="sm">
             <a href="#"><i class="fab fa-facebook-f"> </i></a>
@@ -735,7 +773,7 @@
         <h3> CIELITO YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -752,24 +790,20 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>JULIANNE MERCADO</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
-          <span>SECRETARY</span>
+          <h2>LEIGH ANN ANTONIO</h2>
+          <span>VICE-PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>EARL JOHN CRUZ</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
-          </div>
-          <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>GABRIEL KENNETH CARAMAT</h2>
+          <span>SECRETARY</span>
           </div>
           
           <div class="sm">
@@ -789,7 +823,7 @@
         <h3> SAINT MICHAEL YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -806,26 +840,14 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>JOSHUA FELIZARDO</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
-          <span>SECRETARY</span>
+          <h2>PATRICIA DELA CRUZ</h2>
+          <span>VICE-PRESIDENT</span>
           </div>
-          <div class="back-content">
-          <h2>RALPHESTILLER</h2>
-          <span>TREASURER</span>
-          </div>
-          <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
-          </div>
-          <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
-          </div>
-          
+        
           <div class="sm">
             <a href="#"><i class="fab fa-facebook-f"> </i></a>
           </div>
@@ -843,13 +865,13 @@
         <h3> TANCINCO YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/tancinco.jpg" alt="">
+            <img src="./assets/img/COVER/TANCINCO.jpg" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
@@ -860,24 +882,24 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>JOCSAN JEDD CORSINO</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2>JOHN ALBERT GOZUM</h2>
+          <span>VICE-PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2>JAVAH JARETH DIESTA</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>WENCY GOZUM</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
+          <h2>GIL BRYAN AGOR</h2>
           <span>PRO</span>
-          </div>
-          <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
           </div>
           
           <div class="sm">
@@ -897,7 +919,7 @@
         <h3> MARIA CLARA YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -914,24 +936,28 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>VINCENT SAMSON</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2>JULIENNE BERNICE VILLAROSA</h2>
+          <span>VICE-PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2>ZYRENE NAVILA</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>MARIEL TAPANG </h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
+          <h2>JENIELYN JACINTO</h2>
           <span>PRO</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>DEO PESA</h2>
+          <span>AUDITOR</span>
           </div>
           
           <div class="sm">
@@ -951,7 +977,7 @@
         <h3> CRUZ COMPOUND YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -968,25 +994,30 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>ERICA MAE MAGADIA</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2>PRINCESS IVORY DIMAANO</h2>
+          <span>VICE-PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2>JANNA KRISTRINE AQUINO</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>DEA PAULINE HERNANDEZ</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
+          <h2>LOUIE ALBERT BERING</h2>
+          <span>AUDITOR</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
+          <span>RALPH LUCAS | CHRISTIAN JOY MANALANG | PRINCESS APILADO | RONN KIRSTEN MANABAT</span><br>
           <span>SRGT .ARMS</span>
           </div>
+          
           
           <div class="sm">
             <a href="#"><i class="fab fa-facebook-f"> </i></a>
@@ -1002,10 +1033,10 @@
         </div>
        
       <div class="front-content">
-        <h3> PALMERA 1 YOUTH COUNCIL</h3>
+        <h3> PALMERA YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -1017,29 +1048,33 @@
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>PALMERA 1 YOUTH COUNCIL</h2>
+          <h2>PALMERA YOUTH COUNCIL</h2>
           <span>RESOLUTION 019-2019</span>
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>LANCE CORONEL</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2>MARK CADUGO</h2>
+          <span>VICE-PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2>MACKY VELASCO</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>RALPH VINCENT MATEO </h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
+          <h2>JONREL RAMIREZ</h2>
           <span>PRO</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>DIEGO CAMPOS</h2>
+          <span>AUDITOR</span>
           </div>
           
           <div class="sm">
@@ -1056,45 +1091,54 @@
         </div>
        
       <div class="front-content">
-        <h3> SIMONA NATIONAL HIGH SCHOOL YOUTH COUNCIL</h3>
+        <h3> SIMONA SUPREME STUDENT GOVERNMENT</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
         <div class="back-content middle">
           <div class="back-image">
-            <img src="./assets/img/COVER/SIMONANA.jpg" alt="">
+            <img src="./assets/img/youth/no-logo.png" alt="">
           </div>
           <div class="back-header">
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>SIMONA NATIONAL HIGH SCHOOL YOUTH COUNCIL</h2>
+          <h2>SIMONA SUPREME STUDENT GOVERNMENT</h2>
           <span>RESOLUTION 020-2019</span>
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>BETINA NASTASIA MURILLO</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2>GERALDINE TANDOG</h2>
+          <span>VICE-PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2>ERISSA EUNICE TUSING</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>KLYDEMAE PINPULLO </h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
+          <h2>TRACY BARILLANO</h2>
+          <span>AUDITOR</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>RAYMARK MANAS</h2>
+          <span>PIO</span>
           </div>
+          <div class="back-content">
+          <h2>RONALD DELOS REYES</h2>
+          <span>PO</span>
+          </div>
+         <br>
           
           <div class="sm">
             <a href="#"><i class="fab fa-facebook-f"> </i></a>
@@ -1113,7 +1157,7 @@
         <h3> LORD JEWELS YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -1126,32 +1170,36 @@
           </div>
           <div class="back-content">
           <h2>LORD JEWELS YOUTH COUNCIL</h2>
-          <span>RESOLUTION 020-2019</span>
+          <span>RESOLUTION 021-2019</span>
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>CHARMEE KAY SAPLALA</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2>RYAN LESTER BORGONOS</h2>
+          <span>VICE-PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2>DENISE ADRIENE PARAN</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>MARIA DIANA BELZA </h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
+          <h2>JHIAN MAUIE NAVARRO</h2>
+          <span>AMBASSADOR OF PEACE</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>JKAIZA BANAWA</h2>
+          <span>GRADE LEVEL REPRESENTATIVE</span>
           </div>
           
           <div class="sm">
-            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+            <a href="https://www.facebook.com/LordsJewelsChristianSchool"><i class="fab fa-facebook-f"> </i></a>
           </div>
         </div>
       </div>
@@ -1164,10 +1212,10 @@
         </div>
        
       <div class="front-content">
-        <h3> ST. JOHN THE BAPTIST PAROCHIAL YOUTH COUNCIL</h3>
+        <h3> ST. JOHN THE BAPTIST PAROCHIAL SCHOOL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -1179,33 +1227,37 @@
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>ST. JOHN THE BAPTIST PAROCHIAL YOUTH COUNCIL</h2>
-          <span>RESOLUTION 021-2019</span>
+          <h2>ST. JOHN THE BAPTIST PAROCHIAL SCHOOL</h2>
+          <span>RESOLUTION 022-2019</span>
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>EDUELLE JAN MACABABBAD</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
-          <span>SECRETARY</span>
+          <h2>RENZ JUSTYN OLIVEROS</h2>
+          <span>VICE-PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>HANNAH FRANCESCA ESTRELLA</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
+          <h2>JENINA ABBY PARDILLO </h2>
+          <span>SECRETARY</span>
+          </div>
+          <div class="back-content">
+          <h2>HELEINA ALEXANDRA GAHILO</h2>
           <span>PRO</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>PATRICK DAYLE ALEJANDRO</h2>
+          <span>AUDITOR</span>
           </div>
           
           <div class="sm">
-            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+            <a href="https://www.facebook.com/sjbps2003"><i class="fab fa-facebook-f"> </i></a>
           </div>
         </div>
       </div>
@@ -1218,10 +1270,10 @@
         </div>
        
       <div class="front-content">
-        <h3> JSMJC YOUTH COUNCIL</h3>
+        <h3> JSCJC SUPREME STUDENT COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -1233,33 +1285,37 @@
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>JSCJC YOUTH COUNCIL</h2>
-          <span>RESOLUTION 022-2019</span>
+          <h2>JSCJC SUPREME STUDENT COUNCIL</h2>
+          <span>RESOLUTION 023-2019</span>
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>CHERRY PIE HERNANDEZ</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2>JOHN MICHAEL DISCUTIDO</h2>
+          <span>VICE-PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2>ERICKA MAE MANALO</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>ERIKA JOYCE FRANCISCO</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
+          <h2>RAYMARK ADOPTANTE</h2>
+          <span>AUDITOR</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>AIMEE ANNE MERCADO</h2>
+          <span>PRO</span>
           </div>
           
           <div class="sm">
-            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+            <a href="https://www.facebook.com/JSMJCSupremeStudentCouncil"><i class="fab fa-facebook-f"> </i></a>
           </div>
         </div>
       </div>
@@ -1275,7 +1331,7 @@
         <h3> SIENNA COLLEGE OF TAYTAY STUDENT COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -1287,33 +1343,33 @@
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>SIENNA COLLEGE OF TAYTAY STUDENT COUNCIL</h2>
-          <span>RESOLUTION 023-2019</span>
+          <h2>SIENA COLLEGE OF TAYTAY SENIOR STUDENT COUNCIL</h2>
+          <span>RESOLUTION 024-2019</span>
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
-          <span>PRESIDENT</span>
+          <h2>SOPHIA NICOLE CURAN</h2>
+          <span>EXECUTIVE PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
-          <span>SECRETARY</span>
+          <h2>DANNADEL SUNGA</h2>
+          <span>EXECUTIVE TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
-          <span>TREASURER</span>
+          <h2>PAUL PAMADULAN</h2>
+          <span>SHS GOV.</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
+          <h2>JAN EMMANUELLE DOMINGO</h2>
+          <span>SHS V.GOV.</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>TRYSHA MAE DELA CRUZ</h2>
+          <span>SHS TREASURER</span>
           </div>
           
           <div class="sm">
-            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+            <a href="https://www.facebook.com/csc.siena"><i class="fab fa-facebook-f"> </i></a>
           </div>
         </div>
       </div>
@@ -1329,7 +1385,7 @@
         <h3> UNITED METHODIST CHURCH JUNIOR STUDENT COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -1342,32 +1398,36 @@
           </div>
           <div class="back-content">
           <h2> UNITED METHODIST CHURCH JUNIOR STUDENT COUNCIL</h2>
-          <span>RESOLUTION 024-2019</span>
+          <span>RESOLUTION 025-2019</span>
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>JEDIDIAH GABRIELLE SANTOS</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2>FAITH GIBEAH MAGNO</h2>
+          <span>VICE-PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2>KYRA KEITH CAMARA</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>REXANDER REYNALD ADIA</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
+          <h2>MICHELLE SINGH</h2>
+          <span>PIO</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
+          <h2>RICHELLE ANN LEIGH MANALANG</h2>
           <span>SRGT .ARMS</span>
           </div>
           
           <div class="sm">
-            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+            <a href="https://www.facebook.com/groups/tumcs"><i class="fab fa-facebook-f"> </i></a>
           </div>
         </div>
       </div>
@@ -1380,10 +1440,10 @@
         </div>
        
       <div class="front-content">
-        <h3> UNITED METHODIST CHURCH SENIOR STUDENT YOUTH COUNCIL</h3>
+        <h3> UNITED METHODIST CHURCH SENIOR STUDENT COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -1395,33 +1455,43 @@
             <h3></h3>
           </div>
           <div class="back-content">
-          <h2>UNITED METHODIST CHURCH SENIOR STUDENT YOUTH COUNCIL</h2>
+          <h2>UNITED METHODIST CHURCH SENIOR STUDENT  COUNCIL</h2>
           <span>RESOLUTION 025-2019</span>
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>FAITH ABIGAIL CREDO</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2>JUANCHO GARRIDO</h2>
+          <span>VICE-PRESIDENT</span>
+          </div>
+          <div class="back-content">
+          <h2>MA.FRANCHEZKA ANDRES</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>JULIANNE KIANA STA.ANA</h2>
           <span>TREASURER</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
+          <h2>SOPHIAN ALEXANDER OCAMPO</h2>
+          <span>PIO</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>JIRAH CLAUDINE GOZUM</h2>
+          <span>AUDITOR</span>
+          </div>
+          <div class="back-content">
+          <h2>LEONARD ISRAEL SAURO</h2>
+          <span>PEACE OFFICER</span>
           </div>
           
+          
+          <br>
           <div class="sm">
-            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+            <a href="https://www.facebook.com/groups/tumcs"><i class="fab fa-facebook-f"> </i></a>
           </div>
         </div>
       </div>
@@ -1437,7 +1507,7 @@
         <h3> SIENNA COLLEGE OF TAYTAY JUNIOR STUDENT COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -1454,87 +1524,38 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
-          <span>PRESIDENT</span>
+          <h2>LUIS JOSHUA MENDONES</h2>
+          <span>IBED EXEC.PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
+          <h2>AARON ALTAIR SUQUITAN</h2>
+          <span>IBED EXEC.TREASURER</span>
+          </div>
+          <div class="back-content">
+          <h2>YNDIRA MABALLO</h2>
+          <span>GOVERNOR</span>
+          </div>
+          <div class="back-content">
+          <h2>MARIE JAMES PALISOC </h2>
+          <span>VICE-GOVERNOR</span>
+          </div>
+          <div class="back-content">
+          <h2>GEOFF RAMSEY ACBANG</h2>
           <span>SECRETARY</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>KEITH BALINAGAY</h2>
           <span>TREASURER</span>
-          </div>
-          <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
-          </div>
-          <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
           </div>
           
           <div class="sm">
-            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+            <a href="https://www.facebook.com/csc.siena"><i class="fab fa-facebook-f"> </i></a>
           </div>
         </div>
       </div>
       
     </div>
-    <div class="card middle">
-      <div class="front">
-        <div class="front-img">
-        <img src="./assets/img/youth/siena.jpg" alt="" >
-        </div>
-       
-      <div class="front-content">
-        <h3>  SIENNA COLLEGE OF TAYTAY SENIOR STUDENT COUNCIL</h3>
-      </div>
-      <div class="front-btn">
-        <button class="boton">HOVER</button>
-      </div>
-      </div>
-      <div class="back">
-        <div class="back-content middle">
-          <div class="back-image">
-            <img src="./assets/img/COVER/siena.jpg" alt="">
-          </div>
-          <div class="back-header">
-            <h3></h3>
-          </div>
-          <div class="back-content">
-          <h2> SIENNA COLLEGE OF TAYTAY JUNIOR STUDENT COUNCIL</h2>
-          <span>RESOLUTION 027-2019</span>
-          </div>
-          <br>
-          <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
-          <span>PRESIDENT</span>
-          </div>
-          <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
-          <span>SECRETARY</span>
-          </div>
-          <div class="back-content">
-          <h2>RALPHESTILLER</h2>
-          <span>TREASURER</span>
-          </div>
-          <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
-          </div>
-          <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
-          </div>
-          
-          <div class="sm">
-            <a href="#"><i class="fab fa-facebook-f"> </i></a>
-          </div>
-        </div>
-      </div>
-      
-    </div>
+   
     <div class="card middle">
       <div class="front">
         <div class="front-img">
@@ -1545,7 +1566,7 @@
         <h3> NEW LIFE YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -1562,28 +1583,32 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>CHRISTINE PIGUERRA</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
-          <span>SECRETARY</span>
+          <h2> KIM DELOS ANGELES</h2>
+          <span>DEPT. HEAD</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
-          <span>TREASURER</span>
+          <h2>ANACEL ESPINOSA</h2>
+          <span>FINANCE</span>
           </div>
           <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
+          <h2>KYLYN MERCADO </h2>
+          <span>CAMPUS MINISTRY</span>
           </div>
           <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
+          <h2>MIDETH DE LEON</h2>
+          <span>DOCUMENTATION HEAD</span>
+          </div>
+          <div class="back-content">
+          <h2>KIRBY LEOPARDAS</h2>
+          <span>DANCE MINISTRY HEAD/span>
           </div>
           
           <div class="sm">
-            <a href="#"><i class="fab fa-facebook-f"> </i></a>
+            <a href="https://www.facebook.com/TNLFInc"><i class="fab fa-facebook-f"> </i></a>
           </div>
         </div>
       </div>
@@ -1599,7 +1624,7 @@
         <h3> PAGIBIG PAGKAKISA HESUKRISTO YOUTH COUNCIL</h3>
       </div>
       <div class="front-btn">
-        <button class="boton">HOVER</button>
+        <button class="boton">VIEW</button>
       </div>
       </div>
       <div class="back">
@@ -1616,25 +1641,18 @@
           </div>
           <br>
           <div class="back-content">
-          <h2>RALPH LAWRENCE</h2>
+          <h2>PAUL REMIGIO</h2>
           <span>PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2> LAWRENCE ESTILLER</h2>
-          <span>SECRETARY</span>
+          <h2>RALPH KEVIN CRUZ</h2>
+          <span>VICE-PRESIDENT</span>
           </div>
           <div class="back-content">
-          <h2>RALPHESTILLER</h2>
+          <h2>RICHARD VELASCO</h2>
           <span>TREASURER</span>
           </div>
-          <div class="back-content">
-          <h2>RALPH LAWRENCE </h2>
-          <span>PRO</span>
-          </div>
-          <div class="back-content">
-          <h2>LAWRENCE ESTILLER</h2>
-          <span>SRGT .ARMS</span>
-          </div>
+          
           
           <div class="sm">
             <a href="#"><i class="fab fa-facebook-f"> </i></a>
