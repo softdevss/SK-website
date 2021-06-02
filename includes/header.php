@@ -1,4 +1,4 @@
-
+<?php include "includes/db.php" ?>
 <!doctype html>
 <html class="no-js" lang="zxx">
 <head>
@@ -96,7 +96,7 @@
                                         </li>
                                         
                                         <li><a href="contact.php">Contact</a></li>
-                                           <li><a href="login-modal.php">Login</a></li>
+                                           <!-- <li><a href="login-modal.php">Login</a></li> -->
                                     </ul>
                                 </nav>
                             </div>

@@ -31,12 +31,12 @@
                
                switch($source){
                  
-                    case 'add_request':
-                      include "add_request.php";
+                    case 'add_event':
+                      include "add_event.php";
                     break;
                        
-                    case 'edit_request':
-                       include "edit_request.php";
+                    case 'edit_event':
+                       include "edit_event.php";
                     break;
                        
                     case '344':
@@ -48,13 +48,17 @@
                     break;
                        
                    default:   
-                       include "view_all_request.php";
+                       include "view_all_events.php";
                     break;
                        
                }
                
                
-                     ?>
+       
+               
+                 ?>
+                   
+    
            </div>
         </div>
         <!-- /.row -->

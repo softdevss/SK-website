@@ -30,7 +30,7 @@
             </ul>
             <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
                 <div class="collapse navbar-collapse navbar-ex1-collapse">
-                    <ul class="nav navbar-nav side-nav" style="background:#ffff;">
+                    <ul class="nav navbar-nav side-nav">
                         <li><a href="index.php"><i class="fa fa-home fa-fw"></i>Home</a></li>
                         <!-- <li><a href="charts.html"><i class="fa fa-fw fa-bar-chart-o"></i>Charts</a></li> -->
                         <li ><a href="./contact.php"><i class='bx bxs-user'></i> Contacts</a></li>
@@ -44,7 +44,18 @@
                         </li>
 
                         <li><a href="./appointment.php"><i class='bx bxs-donate-heart' ></i>Appointments</a></li>
+                        <li><a href="./categories.php"><i class='bx bxs-donate-heart' ></i>Categories</a></li>
                         <li><a href="./donations.php"><i class='bx bxs-donate-heart' ></i>Donations</a></li>
+
+                        
+                        <li><a href="javascript:;" data-toggle="collapse" data-target="#demo3">
+                        <i class="fa fa-fw fa-arrows-v"></i> Events <i class="fa fa-fw fa-caret-down"></i></a>
+                            <ul id="demo3" class="collapse">
+                                <li><a href="events.php"><i class='bx bx-user-circle' ></i> View Events</a></li>
+                                <li><a href="events.php?source=add_event"><i class='bx bx-user-plus' ></i> Add Events</a></li>
+                            </ul>
+                        </li>
+
                         <li><a href="./volunteerview.php"><i class='bx bxs-user-voice'></i>Be A Volunteer</a></li>
                         <li><a href="./helpdeskview.php"><i class='bx bx-bookmark'></i>Online Help Desk</a></li>
                         
