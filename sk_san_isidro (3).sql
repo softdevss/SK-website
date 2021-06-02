@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 25, 2021 at 07:40 PM
+-- Generation Time: Jun 03, 2021 at 12:07 AM
 -- Server version: 10.4.18-MariaDB
 -- PHP Version: 8.0.5
 
@@ -36,6 +36,31 @@ CREATE TABLE `appointment` (
   `date` date NOT NULL,
   `purpose` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `categories`
+--
+
+CREATE TABLE `categories` (
+  `cat_id` int(15) NOT NULL,
+  `cat_title` varchar(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Dumping data for table `categories`
+--
+
+INSERT INTO `categories` (`cat_id`, `cat_title`) VALUES
+(2, 'Health'),
+(3, 'Education'),
+(4, 'Sports Development'),
+(5, 'Gender and Equality'),
+(6, 'Drugs Abuse'),
+(7, 'Youth Employment'),
+(8, 'Disaster Risk'),
+(9, 'Other Events');
 
 -- --------------------------------------------------------
 
@@ -90,6 +115,29 @@ INSERT INTO `donate` (`id`, `name`, `contact`, `address`, `email`, `donation`) V
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `events`
+--
+
+CREATE TABLE `events` (
+  `id` int(15) NOT NULL,
+  `news_title` varchar(255) NOT NULL,
+  `event_user` varchar(255) NOT NULL,
+  `event_date` date NOT NULL,
+  `event_image` text NOT NULL,
+  `event_category` varchar(255) NOT NULL,
+  `event_status` varchar(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Dumping data for table `events`
+--
+
+INSERT INTO `events` (`id`, `news_title`, `event_user`, `event_date`, `event_image`, `event_category`, `event_status`) VALUES
+(17, 'Free taho', 'tin', '2021-06-07', 'gallery2.png', '2', 'published');
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `request`
 --
 
@@ -113,7 +161,7 @@ CREATE TABLE `request` (
 --
 
 INSERT INTO `request` (`id`, `fullname`, `organization`, `contact`, `request`, `event`, `date`, `venue`, `date_recieved`, `date_claimed`, `amount`, `status`) VALUES
-(14, 'Arlan Camacho', 'Software Devs', '09754444405', 'financial', 'Meeting for sk system', '2021-05-14', 'San isidro office', '2021-05-14', '2021-05-14', 'cash', 'claimed');
+(20, 'Justine Cusap', 'Software Developer Philippines', '094658223921', 'financial', 'For our company registration', '2021-05-25', 'SK office', '2021-05-25', '2021-05-25', '500', 'process');
 
 -- --------------------------------------------------------
 
@@ -172,6 +220,7 @@ INSERT INTO `tbl_helpdesk` (`id`, `fullname`, `address`, `contact`, `date`, `doc
 
 CREATE TABLE `users` (
   `id` int(3) NOT NULL,
+  `fullname` varchar(255) NOT NULL,
   `username` varchar(255) NOT NULL,
   `password` varchar(255) NOT NULL,
   `role` varchar(255) NOT NULL
@@ -181,9 +230,9 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `username`, `password`, `role`) VALUES
-(12, 'Jeremy', '$2y$12$RvMpb3fjgDCsy1hR6dAASe4GmTrzfQ3BAeiOn1Ygabmi1/zS1ANfu', 'admin'),
-(13, 'arlan', '$2y$12$Q6dIi94GJxMl3UtTrX6lsuf3bK2GDCXS624urLsjLg1owSYw6APAi', 'admin');
+INSERT INTO `users` (`id`, `fullname`, `username`, `password`, `role`) VALUES
+(14, 'justine cusap', 'tin', '$2y$12$U/16xDNpTrBMG4Tfs3IglOR5dvEdGEIavRwUxtNJSnLbE2EaIloyu', 'staff'),
+(17, 'Jeremy Prince Andaya', 'Jer', '$2y$10$B04kKNswGmh3Tiyn.esNk.uiMm939Nbx3in8eaFM01zPMmNJw.Dg2', 'admin');
 
 --
 -- Indexes for dumped tables
@@ -196,6 +245,12 @@ ALTER TABLE `appointment`
   ADD PRIMARY KEY (`id`);
 
 --
+-- Indexes for table `categories`
+--
+ALTER TABLE `categories`
+  ADD PRIMARY KEY (`cat_id`);
+
+--
 -- Indexes for table `contact`
 --
 ALTER TABLE `contact`
@@ -205,6 +260,12 @@ ALTER TABLE `contact`
 -- Indexes for table `donate`
 --
 ALTER TABLE `donate`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `events`
+--
+ALTER TABLE `events`
   ADD PRIMARY KEY (`id`);
 
 --
@@ -242,6 +303,12 @@ ALTER TABLE `appointment`
   MODIFY `id` int(33) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
 
 --
+-- AUTO_INCREMENT for table `categories`
+--
+ALTER TABLE `categories`
+  MODIFY `cat_id` int(15) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+
+--
 -- AUTO_INCREMENT for table `contact`
 --
 ALTER TABLE `contact`
@@ -254,10 +321,16 @@ ALTER TABLE `donate`
   MODIFY `id` int(15) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
+-- AUTO_INCREMENT for table `events`
+--
+ALTER TABLE `events`
+  MODIFY `id` int(15) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
+
+--
 -- AUTO_INCREMENT for table `request`
 --
 ALTER TABLE `request`
-  MODIFY `id` int(15) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15;
+  MODIFY `id` int(15) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=21;
 
 --
 -- AUTO_INCREMENT for table `tbl_files`
@@ -275,7 +348,7 @@ ALTER TABLE `tbl_helpdesk`
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(3) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
+  MODIFY `id` int(3) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
