@@ -1,74 +1,124 @@
-<nav  class="navbar navbar-inverse navbar-fixed-top " role="navigation" style="background:#fff; border:none;">
-    <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header" ><button style="border:none; background-color:#2d6cdf;" type="button" class="navbar-toggle" data-toggle="collapse"
-                data-target=".navbar-ex1-collapse"><span class="sr-only">Toggle navigation</span><span
-                    class="icon-bar" style="background-color:#fff;"></span><span class="icon-bar"style="background-color:#fff;"></span><span class="icon-bar" style="background-color:#fff;"></span></button><a
-                class="navbar-brand" href="../admin" style="color:#364f6b;">SK SAN ISIDRO ADMINISTRATOR</a></div>
-        <!-- Top Menu Items -->
-            <ul class="nav navbar-right top-nav"  >
-                <li><a href="../index.php"></i>Home</a></li>
-                <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i
-                            class="fa fa-user"></i>
-                           
-                            <?php
-                        if(isset( $_SESSION['username'])){
-                        
-                        echo $_SESSION['username'];
-                            
-                        }
-                        
-                        ?>
- <b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#"><i class="fa fa-fw fa-user"></i>Profile</a></li>
-                       
-                        <li class="divider"></li>
+<header class="header">
+            <div class="header__container">
+               
 
-                        <li><a href="../includes/logout.php"><i class="fa fa-fw fa-power-off"></i>Log Out</a></li>
-                    </ul>
-                </li>
-            </ul>
-            <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
-                <div class="collapse navbar-collapse navbar-ex1-collapse">
-                    <ul class="nav navbar-nav side-nav">
-                        <li><a href="index.php"><i class="fa fa-home fa-fw"></i>Home</a></li>
-                        <!-- <li><a href="charts.html"><i class="fa fa-fw fa-bar-chart-o"></i>Charts</a></li> -->
-                        <li ><a href="./contact.php"><i class='bx bxs-user'></i> Contacts</a></li>
-
-                        <li><a href="javascript:;" data-toggle="collapse" data-target="#demo">
-                        <i class="fa fa-fw fa-arrows-v"></i> Request <i class="fa fa-fw fa-caret-down"></i></a>
-                                <ul id="demo" class="collapse">
-                                    <li><a href="request.php"><i class='bx bx-user-circle' ></i> View Request</a></li>
-                                    <li><a href="request.php?source=add_request"><i class='bx bx-user-plus' ></i> Add request</a></li>
-                                </ul>
-                        </li>
-
-                        <li><a href="./appointment.php"><i class='bx bxs-donate-heart' ></i>Appointments</a></li>
-                        <li><a href="./categories.php"><i class='bx bxs-donate-heart' ></i>Categories</a></li>
-                        <li><a href="./donations.php"><i class='bx bxs-donate-heart' ></i>Donations</a></li>
-
-                        
-                        <li><a href="javascript:;" data-toggle="collapse" data-target="#demo3">
-                        <i class="fa fa-fw fa-arrows-v"></i> Events <i class="fa fa-fw fa-caret-down"></i></a>
-                            <ul id="demo3" class="collapse">
-                                <li><a href="events.php"><i class='bx bx-user-circle' ></i> View Events</a></li>
-                                <li><a href="events.php?source=add_event"><i class='bx bx-user-plus' ></i> Add Events</a></li>
-                            </ul>
-                        </li>
-
-                        <li><a href="./volunteerview.php"><i class='bx bxs-user-voice'></i>Be A Volunteer</a></li>
-                        <li><a href="./helpdeskview.php"><i class='bx bx-bookmark'></i>Online Help Desk</a></li>
-                        
-
-                        <li><a href="javascript:;" data-toggle="collapse" data-target="#demo2">
-                        <i class="fa fa-fw fa-arrows-v"></i> Users <i class="fa fa-fw fa-caret-down"></i></a>
-                            <ul id="demo2" class="collapse">
-                                <li><a href="users.php"><i class='bx bx-user-circle' ></i> View Users</a></li>
-                                <li><a href="users.php?source=add_users"><i class='bx bx-user-plus' ></i> Add user</a></li>
-                            </ul>
-                        </li>
-                       
-                    </ul>
+                <a href="#" class="header__logo"></a>
+    
+                <div class="header__search">
+                
+                 
                 </div>
-                <!-- /.navbar-collapse -->
-</nav>
+    
+                <div class="header__toggle">
+                    <i class='bx bx-menu' id="header-toggle"></i>
+                </div>
+            </div>
+        </header>
+
+        <!--========== NAV ==========-->
+        <div class="nav" id="navbar">
+            <nav class="nav__container">
+                <div>
+                    <a href="#" class="nav__link nav__logo">
+                    <i class='bx bxs-user-voice' style="font-size:2rem;"></i>
+                        <span class="nav__logo-name">SK ADMINISTRATOR</span>
+                    </a>
+    
+                    <div class="nav__list">
+                        <div class="nav__items">
+                            <h3 class="nav__subtitle"></h3>
+    
+                            <a href="index.php" class="nav__link active">
+                                <i class='bx bx-home nav__icon' ></i>
+                                <span class="nav__name">Home</span>
+                            </a>
+                            <a href="./contact.php" class="nav__link">
+                                <i class='bx bx-user-pin nav__icon' ></i>
+                                <span class="nav__name">Contacts</span>
+                            </a>
+                            
+                            <div class="nav__dropdown">
+                                <a href="#" class="nav__link">
+                                    <i class='bx bx-notification nav__icon' ></i>
+                                    <span class="nav__name">Request</span>
+                                    <i class='bx bx-chevron-down nav__icon nav__dropdown-icon'></i>
+                                </a>
+
+                                <div class="nav__dropdown-collapse">
+                                    <div class="nav__dropdown-content">
+                                        <a href="request.php?source=add_request" class="nav__dropdown-item">Add Request</a>
+                                        <a href="request.php" class="nav__dropdown-item">View Request</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <a href="./appointment.php" class="nav__link">
+                                <i class='bx bx-calendar nav__icon' ></i>
+                                <span class="nav__name">Appointment</span>
+                            </a>
+                            <a href="./categories.php" class="nav__link">
+                                <i class='bx bxs-spreadsheet nav__icon' ></i>
+                                <span class="nav__name">Categories</span>
+                            </a>
+                        </div>
+    
+                        <div class="nav__items">
+                            <h3 class="nav__subtitle">Menu</h3>
+                            <a href="./donations.php" class="nav__link">
+                                <i class='bx bx-coin-stack nav__icon' ></i>
+                                <span class="nav__name">Donations</span>
+                            </a>
+    
+                            <div class="nav__dropdown">
+                                <a href="#" class="nav__link">
+                                    <i class='bx bx-calendar-event nav__icon' ></i>
+                                    <span class="nav__name">Event</span>
+                                    <i class='bx bx-chevron-down nav__icon nav__dropdown-icon'></i>
+                                </a>
+
+                                <div class="nav__dropdown-collapse">
+                                    <div class="nav__dropdown-content">
+                                        <a href="#" class="nav__dropdown-item">View</a>
+                                        <a href="#" class="nav__dropdown-item">Add event</a>
+                                      
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <a href="#" class="nav__link">
+                                <i class='bx bx-compass nav__icon' ></i>
+                                <span class="nav__name">Be a Volunteer</span>
+                            </a>
+                            <a href="#" class="nav__link">
+                                <i class='bx bx-bookmark nav__icon' ></i>
+                                <span class="nav__name">Health desk </span>
+                            </a>
+                            <div class="nav__dropdown">
+                                <a href="#" class="nav__link">
+                                    <i class='bx bxs-user-circle nav__icon' ></i>
+                                    <span class="nav__name">Users</span>
+                                    <i class='bx bx-chevron-down nav__icon nav__dropdown-icon'></i>
+                                </a>
+
+                                <div class="nav__dropdown-collapse">
+                                    <div class="nav__dropdown-content">
+                                        <a href="#" class="nav__dropdown-item">View</a>
+                                        <a href="#" class="nav__dropdown-item">Add User</a>
+                                      
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <a href="#" class="nav__link nav__logout">
+                    <i class='bx bx-log-out nav__icon' ></i>
+                    <span class="nav__name">Log Out</span>
+                </a>
+            </nav>
+        </div>
+
+        

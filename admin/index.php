@@ -4,13 +4,13 @@
 <html lang="en">
 <body style="background:#ffff;">
 
-    <div id="wrapper">
+    <div id="">
 
         <!-- Navigation -->
         <?php include "includes/admin_navigation.php"; ?>
         
 
-        <div id="page-wrapper">
+        <div id="">
 
             <div class="container-fluid">
 
