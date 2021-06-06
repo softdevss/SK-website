@@ -78,19 +78,19 @@
 
                                 <div class="nav__dropdown-collapse">
                                     <div class="nav__dropdown-content">
-                                        <a href="#" class="nav__dropdown-item">View</a>
-                                        <a href="#" class="nav__dropdown-item">Add event</a>
+                                    <a href="events.php" class="nav__dropdown-item">View All events</a>
+                                        <a href="events.php?source=add_event" class="nav__dropdown-item">Add Events</a>
                                       
                                     </div>
                                 </div>
 
                             </div>
 
-                            <a href="#" class="nav__link">
+                            <a href="./volunteerview.php"" class="nav__link">
                                 <i class='bx bx-compass nav__icon' ></i>
                                 <span class="nav__name">Be a Volunteer</span>
                             </a>
-                            <a href="#" class="nav__link">
+                            <a href="./helpdeskview.php" class="nav__link">
                                 <i class='bx bx-bookmark nav__icon' ></i>
                                 <span class="nav__name">Health desk </span>
                             </a>
@@ -103,8 +103,8 @@
 
                                 <div class="nav__dropdown-collapse">
                                     <div class="nav__dropdown-content">
-                                        <a href="#" class="nav__dropdown-item">View</a>
-                                        <a href="#" class="nav__dropdown-item">Add User</a>
+                                        <a href="users.php" class="nav__dropdown-item">View All Users</a>
+                                        <a href="users.php?source=add_user" class="nav__dropdown-item">Add User</a>
                                       
                                     </div>
                                 </div>
@@ -114,7 +114,7 @@
                     </div>
                 </div>
 
-                <a href="#" class="nav__link nav__logout">
+                <a href="../includes/logout.php" class="nav__link nav__logout">
                     <i class='bx bx-log-out nav__icon' ></i>
                     <span class="nav__name">Log Out</span>
                 </a>
