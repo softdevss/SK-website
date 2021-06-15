@@ -64,9 +64,15 @@
                             <div class="main-menu f-right d-none d-lg-block">
                                 <nav >
                                     <ul id="navigation" >
+<<<<<<< HEAD
                                         <li><a class="text-decoration-none" href="index.php">Home</a></li>
                                         <li><a class="text-decoration-none" href="news.php">News & Update</a></li>
                                         <li><a class="text-decoration-none" href="#">About</a>
+=======
+                                        <li><a href="index.php">Home</a></li>
+                                        <!-- <li><a href="news.php">News & Update</a></li> -->
+                                        <li><a href="#">About</a>
+>>>>>>> c7aa06f3938037b216637465bd4bf114198f8233
                                         <ul class="submenu">
                                         <li ><a class="text-decoration-none" href="roster.php"><i class="fas fa-chevron-right"></i> Sangguniang Kabataan Roster</a></li>
                                             <li><a class="text-decoration-none" href="officials.php"><i class="fas fa-chevron-right"></i> SK Elected Officials</a></li>

@@ -28,7 +28,7 @@
                         <div class="nav__items">
                             <h3 class="nav__subtitle"></h3>
     
-                            <a href="index.php" class="nav__link active">
+                            <a href="../index.php" class="nav__link active">
                                 <i class='bx bx-home nav__icon' ></i>
                                 <span class="nav__name">Home</span>
                             </a>
