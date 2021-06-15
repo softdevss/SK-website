@@ -1,7 +1,16 @@
 <?php include "includes/header.php" ?>
 
 <main>
-    <!--? slider Area Start-->
+
+<!-- for carousel -->
+<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active max-wid">
     <div class="slider-area position-relative">
         <div class="slider-active">
             <!-- Single Slider -->
@@ -11,30 +20,31 @@
                         <div class="col-xl-7 col-lg-9 col-md-8 col-sm-9">
                             <div class="hero__caption">
                                 <!--<span>Committed to success</span>-->
-                                <h1 class="cd-headline letters scale">Committed to Success Youth 
+                                <h1 class="cd-headline letters scale " data-animation="fadeInLeft" data-delay="0.3s">Committed to Success Youth 
                                     <strong class="cd-words-wrapper">
-                                        <b class="is-visible">Representation</b>
+                                        <b class="">Representation</b>
                                         <b>Empowerment</b>
                                         <b>Participation</b>
                                     </strong>
                                 </h1>
                                 <!--<p data-animation="fadeInLeft" data-delay="0.1s">Paragraph.</p>-->
-                                <a href="getappointment.php" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.5s">Get Appointment <i class="ti-arrow-right"></i></a>
+                                <a href="getappointment.php" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.3s">Get Appointment <i class="ti-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>          
             </div>
             <!-- Single Slider -->
+            
             <div class="single-slider slider-height d-flex align-items-center">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-7 col-lg-9 col-md-8 col-sm-9">
                             <div class="hero__caption">
                                 <!--<span>Committed to success</span>-->
-                                <h1 class="cd-headline letters scale">Committed to success Youth
+                                <h1 class="cd-headline letters scale" data-animation="fadeInLeft" data-delay="0.3s">Committed to success Youth
                                     <strong class="cd-words-wrapper">
-                                        <b class="is-visible">Representation</b>
+                                        <b class="">Representation</b>
                                         <b>Empowerment</b>
                                         <b>Participation</b>
                                     </strong>
@@ -48,14 +58,42 @@
             </div>
         </div>
     </div>
+    </div>
+    <div class="carousel-item max-wid">
+      <img src="assets/img/COVER/bulacan.jpg" class="w-100 max-wid img-fluid" alt="...">
+      <div class="carousel-caption d-none d-md-block text-left font-weight-bold">
+        <h5>Second slide label</h5>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+    <div class="carousel-item max-wid" >
+      <img src="assets/img/COVER/ridgemont.jpg" class=" w-100 max-wid img-fluid" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Third slide label</h5>
+        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+    <!--? slider Area Start-->
+    
     <!-- slider Area End-->
-    <!--? About Start-->
-    <div class="about-area section-padding2">
+
+  <!--  <div class="about-area section-padding2">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-10">
                     <div class="about-caption mb-50">
-                        <!-- Section Tittle -->
+                     
                         <div class="section-tittle section-tittle2 mb-35">
                             <span>About Sangguniang Kabaatan</span>
                             <h2>Welcome</h2><br>
@@ -71,16 +109,16 @@
                         <div class="about-btn1 mb-30">
                             <a href="downloadable-form.php" class="btn about-btn">Downloadable Form <i class="ti-arrow-right"></i></a>
                         </div>
-                        <!-- <div class="about-btn1 mb-30">
+                        <div class="about-btn1 mb-30">
                             <a href="about.html" class="btn about-btn2">About SK San Isidro <i class="ti-arrow-right"></i></a>
-                        </div> -->
+                        </div> 
                         <div class="about-btn1 mb-30">
                             <a href="volunteer.php" class="btn about-btn2">Be A Volunteer <i class="ti-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12">
-                    <!-- about-img -->
+                  
                     <div class="about-img ">
                         <div class="about-font-img d-none d-lg-block">
                             <img src="assets/img/gallery/about2.png" alt="">
@@ -92,99 +130,20 @@
                 </div>
             </div>
         </div>
-    </div>
-    <!-- About  End-->
-    <!--? department_area_start  -->
-    
-     <!--? Gallery Area Start -->
+    </div> -->
     
         <div class="container">
             <!-- Section Tittle -->
             <div class="row justify-content-center">
                 <div class="col-lg-6">
-                    <div class="section-tittle text-center mb-100">
-                        <span>Accomplishment</span>
-                        <p><h2>SK Accomplishment Report for the 1st Semester of Year 2021</h2></p>
+                    <div class="section-tittle text-center">
+                      
+                        <p><h2>Get in touch</h2></p>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <!-- Left -->
-                <div class="col-lg-6">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="single-gallery mb-30">
-                                <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery1.png);"></div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <div class="single-gallery mb-30">
-                                <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery2.png);"></div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <div class="single-gallery mb-30">
-                                <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery3.png);"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Right -->
-                <div class="col-lg-6">
-                    <div class="row">
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <div class="single-gallery mb-30">
-                                <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery4.png);"></div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <div class="single-gallery mb-30">
-                                <div class="gallery-img small-img" style="background-image: url(assets/img/gallery/gallery5.png);"></div>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="single-gallery mb-30">
-                                <div class="gallery-img big-img" style="background-image: url(assets/img/gallery/gallery6.png);"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </>
-    <!-- Gallery Area End -->
-    <!--? All startups Start -->
-    <div class="all-starups-area testimonial-area fix">
-        <!-- left Contents -->
-        <div class="starups">
-            <!--? Testimonial Start -->
-            <div class="h1-testimonial-active">
-                <!-- Single Testimonial -->
-                <div class="single-testimonial text-center">
-                    <!-- Testimonial Content -->
-                    <div class="testimonial-caption ">
-                        <div class="testimonial-top-cap">
-                            <img src="assets/img/gallery/testimonial.png" alt="">
-                            <!--<p>“I am at an age where I just want to be fit and healthy our bodies are our responsibility! So start caring for your body and it will care for you. Eat clean it will care for yout hard.”</p>-->
-                        </div>
-                        <!-- founder -->
-                        <div class="testimonial-founder d-flex align-items-center justify-content-center">
-                            <div class="founder-img">
-                                <!--<img src="assets/img/gallery/Homepage_testi.png" alt="">-->
-                            </div>
-                            <div class="founder-text">
-                                <!--<span>Margaret Lawson</span>-->
-                                <!--<p>Chif Photographer</p>-->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Testimonial End -->
-        </div>
-        <!--Right Contents  -->
-        <div class="starups-img"></div>
-    </div>
+          
+    
     <!--All startups End -->
      <!--? Team Start -->
      
@@ -194,7 +153,7 @@
         <!-- contact left Img-->
  
     <!-- Contact form End -->
-    <!--? gallery Products Start -->
+    <!--?
     <div class="gallery-area fix">
         <div class="container-fluid p-0">
             <div class="row no-gutters">
@@ -243,14 +202,14 @@
             </div>
         </div>
     </div>
-    <!-- gallery Products End -->
-    <!--? Blog start -->
-    <div class="home_blog-area section-padding30">
+   
+   Blog start -->
+    <div class="home_blog-area section-padding10">
         <div class="container">
             <div class="row justify-content-sm-center">
                 <div class="cl-xl-7 col-lg-8 col-md-10">
                     <!-- Section Tittle -->
-                    <div class="section-tittle text-center mb-70">
+                    <div class="section-tittle text-center">
                         <!--<span>News</span>-->
                         <h2>News</h2>
                     </div> 

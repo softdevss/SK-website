@@ -27,6 +27,10 @@
     <link rel="stylesheet" href="assets/css/donations.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/css/swiper.css">
+
+  <link rel="stylesheet" type="text/css" href="boot5/css/style.css">
+
+
 </head>
 
 <body>
@@ -60,42 +64,42 @@
                             <div class="main-menu f-right d-none d-lg-block">
                                 <nav >
                                     <ul id="navigation" >
-                                        <li><a href="index.php">Home</a></li>
-                                        <li><a href="news.php">News & Update</a></li>
-                                        <li><a href="#">About</a>
+                                        <li><a class="text-decoration-none" href="index.php">Home</a></li>
+                                        <li><a class="text-decoration-none" href="news.php">News & Update</a></li>
+                                        <li><a class="text-decoration-none" href="#">About</a>
                                         <ul class="submenu">
-                                        <li ><a href="roster.php"><i class="fas fa-chevron-right"></i> Sangguniang Kabataan Roster</a></li>
-                                            <li><a href="officials.php"><i class="fas fa-chevron-right"></i> SK Elected Officials</a></li>
-                                            <li><a href="sdg.php"><i class="fas fa-chevron-right"></i> Sustainable Development Goals</a></li>
-                                            <li><a href="#"><i class="fas fa-chevron-right"></i> SK Resolutions</a>
+                                        <li ><a class="text-decoration-none" href="roster.php"><i class="fas fa-chevron-right"></i> Sangguniang Kabataan Roster</a></li>
+                                            <li><a class="text-decoration-none" href="officials.php"><i class="fas fa-chevron-right"></i> SK Elected Officials</a></li>
+                                            <li><a class="text-decoration-none" href="sdg.php"><i class="fas fa-chevron-right"></i> Sustainable Development Goals</a></li>
+                                            <li><a class="text-decoration-none" href="#"><i class="fas fa-chevron-right"></i> SK Resolutions</a>
                                             <ul class="submenu" style="margin-left:16.3rem; width:80px">
-                                                        <li><a href="#"><i class="fas fa-chevron-right"></i> 2019</a></li>
-                                                        <li><a href="#"><i class="fas fa-chevron-right"></i> 2020</a></li>
-                                                        <li><a href="#"><i class="fas fa-chevron-right"></i> 2021</a></li>
+                                                        <li><a class="text-decoration-none" href="#"><i class="fas fa-chevron-right"></i> 2019</a></li>
+                                                        <li><a class="text-decoration-none" href="#"><i class="fas fa-chevron-right"></i> 2020</a></li>
+                                                        <li><a class="text-decoration-none" href="#"><i class="fas fa-chevron-right"></i> 2021</a></li>
                                                 </ul>
                                             </li>
 
-                                            <li><a href="youth.php"><i class="fas fa-chevron-right"></i> Youth Councils</a></li></ul></li>
-                                        <li><a href="services.php">Program & Services</a>
+                                            <li><a class="text-decoration-none" href="youth.php"><i class="fas fa-chevron-right"></i> Youth Councils</a></li></ul></li>
+                                        <li><a class="text-decoration-none" href="services.php">Program & Services</a>
                                             <ul class="submenu">
-                                            <li><a href="online-request.php"><i class="fas fa-chevron-right"></i> Online Request</a></li>
-                                            <li><a href=""><i class="fas fa-chevron-right"></i> Project & Achievements</a>
+                                            <li><a class="text-decoration-none" href="online-request.php"><i class="fas fa-chevron-right"></i> Online Request</a></li>
+                                            <li><a class="text-decoration-none" href=""><i class="fas fa-chevron-right"></i> Project & Achievements</a>
                                                         <ul class="submenu" style="margin-left:16.3rem; width:80px">
-                                                        <li><a href="#"><i class="fas fa-chevron-right"></i> 2019</a></li>
-                                                        <li><a href="#"><i class="fas fa-chevron-right"></i> 2020</a></li>
-                                                        <li><a href="#"><i class="fas fa-chevron-right"></i> 2021</a></li>
+                                                        <li><a class="text-decoration-none" href="#"><i class="fas fa-chevron-right"></i> 2019</a></li>
+                                                        <li><a class="text-decoration-none" href="#"><i class="fas fa-chevron-right"></i> 2020</a></li>
+                                                        <li><a class="text-decoration-none" href="#"><i class="fas fa-chevron-right"></i> 2021</a></li>
                                                 </ul>
                                                 </li>
-                                                        <li><a href="downloadable-form.php"><i class="fas fa-chevron-right"></i> Downloadable forms</a></li>
-                                                        <li><a href="volunteer.php"><i class="fas fa-chevron-right"></i> Be a Volunteer</a></li>
-                                                        <li><a href="helpdesk.php"><i class="fas fa-chevron-right"></i> Online Health Desk</a></li>
-                                                        <li><a href="donation.php"><i class="fas fa-chevron-right"></i> Donate</a></li>
+                                                        <li><a class="text-decoration-none" href="downloadable-form.php"><i class="fas fa-chevron-right"></i> Downloadable forms</a></li>
+                                                        <li><a class="text-decoration-none" href="volunteer.php"><i class="fas fa-chevron-right"></i> Be a Volunteer</a></li>
+                                                        <li><a class="text-decoration-none" href="helpdesk.php"><i class="fas fa-chevron-right"></i> Online Health Desk</a></li>
+                                                        <li><a class="text-decoration-none" href="donation.php"><i class="fas fa-chevron-right"></i> Donate</a></li>
                     
                                                 
                                             </ul>
                                         </li>
                                         
-                                        <li><a href="contact.php">Contact</a></li>
+                                        <li><a class="text-decoration-none" href="contact.php">Contact</a></li>
                                            <!-- <li><a href="login-modal.php">Login</a></li> -->
                                     </ul>
                                 </nav>
