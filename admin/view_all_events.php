@@ -56,7 +56,7 @@
                     echo "<td>{$event_status}</td>";          
 
                     echo "<td><a onClick=\"javascript: return confirm('Are you sure you want to delete?');\" href='events.php?delete={$id}'>Delete</a></td>";
-                    echo "<td><a href='request.php?source=edit_request&edit_event_id={$id}'>Edit</a></td>";
+                    echo "<td><a href='events.php?source=edit_event&edit_event_id={$id}'>Edit</a></td>";
                 echo "</tr>"; 
                 
             }     

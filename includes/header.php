@@ -61,7 +61,7 @@
                                 <nav >
                                     <ul id="navigation" >
                                         <li><a href="index.php">Home</a></li>
-                                        <li><a href="news.php">News & Update</a></li>
+                                        <!-- <li><a href="news.php">News & Update</a></li> -->
                                         <li><a href="#">About</a>
                                         <ul class="submenu">
                                         <li ><a href="roster.php"><i class="fas fa-chevron-right"></i> Sangguniang Kabataan Roster</a></li>
