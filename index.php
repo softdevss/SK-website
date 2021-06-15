@@ -20,24 +20,15 @@
                         <div class="col-xl-7 col-lg-9 col-md-8 col-sm-9">
                             <div class="hero__caption">
                                 <!--<span>Committed to success</span>-->
-<<<<<<< HEAD
                                 <h1 class="cd-headline letters scale " data-animation="fadeInLeft" data-delay="0.3s">Committed to Success Youth 
-=======
-                                <h1 class="cd-headline letters scale">Committed to Success Youth
->>>>>>> c7aa06f3938037b216637465bd4bf114198f8233
-                                    <strong class="cd-words-wrapper">
-                                        <b class="">Representation</b>
-                                        <b>Empowerment</b>
-                                        <b>Participation</b>
+                                    <strong class="cd-words-wrapper ">
+                                        <b class="is-visible color-blue">Representation</b>
+                                        <b  class="color-orange">Empowerment</b>
+                                        <b class="color-red">Participation</b>
                                     </strong>
                                 </h1>
                                 <!--<p data-animation="fadeInLeft" data-delay="0.1s">Paragraph.</p>-->
-<<<<<<< HEAD
                                 <a href="getappointment.php" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.3s">Get Appointment <i class="ti-arrow-right"></i></a>
-=======
-                                <a href="getappointment.php" class="btn hero-btn" data-animation="fadeInLeft"
-                                    data-delay="0.5s">Get Appointment <i class="ti-arrow-right"></i></a>
->>>>>>> c7aa06f3938037b216637465bd4bf114198f8233
                             </div>
                         </div>
                     </div>
@@ -51,16 +42,15 @@
                         <div class="col-xl-7 col-lg-9 col-md-8 col-sm-9">
                             <div class="hero__caption">
                                 <!--<span>Committed to success</span>-->
-                                <h1 class="cd-headline letters scale" data-animation="fadeInLeft" data-delay="0.3s">Committed to success Youth
+                                <h1 class="cd-headline letters scale " data-animation="fadeInLeft" data-delay="0.3s">Committed to success Youth
                                     <strong class="cd-words-wrapper">
-                                        <b class="">Representation</b>
-                                        <b>Empowerment</b>
-                                        <b>Participation</b>
+                                        <b class="is-visible color-blue">Representation</b>
+                                        <b class="color-orange">Empowerment</b> 
+                                        <b class="color-red">Participation</b>
                                     </strong>
                                 </h1>
                                 <!--<p data-animation="fadeInLeft" data-delay="0.1s">Paragraph.</p>-->
-<<<<<<< HEAD
-                                <a href="getappointment.php" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.5s">Get Appointment <i class="ti-arrow-right"></i></a>
+                                <a href="getappointment.php" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.3s">Get Appointment <i class="ti-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -70,17 +60,16 @@
     </div>
     </div>
     <div class="carousel-item max-wid">
-      <img src="assets/img/COVER/bulacan.jpg" class="w-100 max-wid img-fluid" alt="...">
-      <div class="carousel-caption d-none d-md-block text-left font-weight-bold">
-        <h5>Second slide label</h5>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <img src="assets/img/gallery/gallery4.png" class="w-100 max-wid img-fluid max-wid" alt="...">
+      <div class="carousel-caption d-none d-md-block text-left font-weight-bold mb-50 ">
+      <div class="drk"></div>
+          <h1 class="hero-title"></h1>
       </div>
     </div>
     <div class="carousel-item max-wid" >
-      <img src="assets/img/COVER/ridgemont.jpg" class=" w-100 max-wid img-fluid" alt="...">
+      <img src="assets/img/COVER/sunrise.jpg" class=" w-100 max-wid img-fluid max-wid" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+       
       </div>
     </div>
   </div>
@@ -266,9 +255,7 @@
                             <div class="date-info">
                                 <span>Award</span>
                                 <p>Apr 26, 2021</p>
-=======
-                                <a href="getappointment.php" class="btn hero-btn" data-animation="fadeInLeft"
-                                    data-delay="0.5s">Get Appointment <i class="ti-arrow-right"></i></a>
+                                
                             </div>
                         </div>s
                     </div>
@@ -319,7 +306,6 @@
                                         <?php echo $day; ?></h3>
                                     <h3><?php echo date("Y"); ?></h3>
                                 </a>
->>>>>>> c7aa06f3938037b216637465bd4bf114198f8233
                             </div>
 
                             <div class="blog_details">
