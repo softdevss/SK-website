@@ -21,9 +21,11 @@
                             <th>Id</th>
                             <th>Event category</th>
                             <th>Event Title</th>
+                            <th>Event Content</th>
                             <th>Event User</th>
                             <th>Event date</th>
                             <th>Event Image</th>
+                            <th>Event Links</th>
                             <th>Event Status</th>
                             <th>Remove</th>
                             <th>Update </th>
@@ -39,20 +41,26 @@
                     while($row = mysqli_fetch_assoc($select_request)){
                     $id             = $row['id'];
                     $event_title    = $row['news_title'];
+                    $event_content  = $row['event_content'];
                     $event_user     = $row['event_user'];
                     $event_date     = $row['event_date'];
                     $event_image    = $row['event_image'];
-                    $event_category = $row['event_category'];
                     $event_status   = $row['event_status'];
+                    $event_link     = $row['event_link'];
+                    $event_category = $row['event_category'];
+                   
                                
                                     
                 echo "<tr>";   
                     echo "<td>{$id}</td>";  
                     echo "<td>{$event_category}</td>";
-                    echo "<td>{$event_title}</td>";          
+                    echo "<td>{$event_title}</td>";
+                    echo "<td>{$event_content}</td>";            
                     echo "<td>{$event_user}</td>";  
-                    echo "<td>{$event_date}</td>";          
-                    echo "<td><img width='50' src='../image/$event_image' alt='image'></td>"; 
+                    echo "<td>{$event_date}</td>"; 
+                              
+                    echo "<td><img width='50' src='../image/$event_image' alt='image'></td>";
+                    echo "<td>{$event_link}</td>";  
                     echo "<td>{$event_status}</td>";          
 
                     echo "<td><a onClick=\"javascript: return confirm('Are you sure you want to delete?');\" href='events.php?delete={$id}'>Delete</a></td>";

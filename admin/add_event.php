@@ -9,14 +9,17 @@ if(isset($_POST['create_event'])){
     
   $event_image        = $_FILES['event_image'] ['name'];
   $event_image_temp   = $_FILES['event_image'] ['tmp_name'];
+
+  $event_content = $_POST['event_content'];
+  $event_link = $_POST['event_link'];
     
  
   $event_date         = $_POST['date'];
     
 move_uploaded_file($event_image_temp, "../image/$event_image" );
     
-$query = "INSERT INTO events (event_category, news_title, event_user, event_date, event_image, event_status) ";
-$query .= "VALUES({$event_category_id},'{$event_title}','{$event_user}','{$event_date}','{$event_image}','{$event_status}' ) ";
+$query = "INSERT INTO events (event_category, news_title, event_user, event_date, event_image, event_status, event_content, event_link) ";
+$query .= "VALUES({$event_category_id},'{$event_title}','{$event_user}','{$event_date}','{$event_image}','{$event_status}', '{$event_content}', '{$event_link}' ) ";
 
     $create_post_query = mysqli_query($connection, $query);
 
@@ -33,6 +36,12 @@ $query .= "VALUES({$event_category_id},'{$event_title}','{$event_user}','{$event
     <div class="form-group">
         <label for="title">Post Title</label>
         <input type="text" class="form-control" name="title">
+    </div>
+
+    <div class="form-group">
+    <label for="">Post Content</label>
+        <textarea class="form-control" name="event_content" id="" cols="30" rows="5"></textarea>
+        
     </div>
     
     <div class="form-group">
@@ -81,6 +90,12 @@ $query .= "VALUES({$event_category_id},'{$event_title}','{$event_user}','{$event
         </select>
 
     </div>
+
+    <div class="form-group">
+        <label for="link">Post Link</label>
+        <input type="text" class="form-control" name="event_link">
+    </div>
+    
      
     <div class="form-group">
     <label for="">Event Status</label>

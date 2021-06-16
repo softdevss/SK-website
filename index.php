@@ -83,187 +83,6 @@
   </a>
 </div>
 
-    <!--? slider Area Start-->
-    
-    <!-- slider Area End-->
-
-  <!--  <div class="about-area section-padding2">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-10">
-                    <div class="about-caption mb-50">
-                     
-                        <div class="section-tittle section-tittle2 mb-35">
-                            <span>About Sangguniang Kabaatan</span>
-                            <h2>Welcome</h2><br>
-                            <h2>What is the SK</h2>
-                        </div>
-                        <p>SK and Katipunan ng Kabataan     (KK) were created through the Local Government Code of 1991 Republic Act 7160) that provides opportunity for young people to directly participate in local governance; Composed of all youth aged 15 to 21-year-olds;</p>
-                            
-                        <p>In December 4, 1992, the first SK leaders were elected in nearly 42,000 barangays;</p>
-                            
-                        <p>In 1995, with the passage of R.A. 8044, that created the National Youth Commission, the secretariat functions of SK were transferred to the NYC which in effect replaced PCYA;</p>
-                            
-                        <p>In 2002, the age bracket for KK membership was changed, through R.A. 9164, from 15 to 21-year-olds to 15 to 17-year-olds;</p>
-                        <div class="about-btn1 mb-30">
-                            <a href="downloadable-form.php" class="btn about-btn">Downloadable Form <i class="ti-arrow-right"></i></a>
-                        </div>
-                        <div class="about-btn1 mb-30">
-                            <a href="about.html" class="btn about-btn2">About SK San Isidro <i class="ti-arrow-right"></i></a>
-                        </div> 
-                        <div class="about-btn1 mb-30">
-                            <a href="volunteer.php" class="btn about-btn2">Be A Volunteer <i class="ti-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-12">
-                  
-                    <div class="about-img ">
-                        <div class="about-font-img d-none d-lg-block">
-                            <img src="assets/img/gallery/about2.png" alt="">
-                        </div>
-                        <div class="about-back-img ">
-                            <img src="assets/img/gallery/about1.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    
-        <div class="container">
-            <!-- Section Tittle -->
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="section-tittle text-center">
-                      
-                        <p><h2>Get in touch</h2></p>
-                    </div>
-                </div>
-            </div>
-          
-    
-    <!--All startups End -->
-     <!--? Team Start -->
-     
-    <!-- Team End -->
-     <!--? Contact form Start -->
-     
-        <!-- contact left Img-->
- 
-    <!-- Contact form End -->
-    <!--?
-    <div class="gallery-area fix">
-        <div class="container-fluid p-0">
-            <div class="row no-gutters">
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                    <div class="gallery-box">
-                        <div class="single-gallery">
-                            <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery1.png);"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                    <div class="gallery-box">
-                        <div class="single-gallery">
-                            <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery2.png);"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="gallery-box">
-                        <div class="single-gallery">
-                            <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery3.png);"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <div class="gallery-box">
-                        <div class="single-gallery">
-                            <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery4.png);"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                    <div class="gallery-box">
-                        <div class="single-gallery">
-                             <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery5.png);"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                    <div class="gallery-box">
-                        <div class="single-gallery">
-                            <div class="gallery-img " style="background-image: url(assets/img/gallery/gallery6.png);"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-   
-   Blog start -->
-    <div class="home_blog-area section-padding10">
-        <div class="container">
-            <div class="row justify-content-sm-center">
-                <div class="cl-xl-7 col-lg-8 col-md-10">
-                    <!-- Section Tittle -->
-                    <div class="section-tittle text-center">
-                        <!--<span>News</span>-->
-                        <h2>News</h2>
-                    </div> 
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="single-blogs mb-30">
-                        <div class="blog-img">
-                            <img src="assets/img/gallery/blog1.png" alt="">
-                        </div>
-                        <div class="blogs-cap">
-                            <div class="date-info">
-                                <span>IAYSP</span>
-                                <p>Apr 28, 2021</p>
-                            </div>
-                            <h4><a href="https://www.facebook.com/iaysppilipinas/photos/a.127446531263145/731812384159887/">YOUTH HEROES AWARD l VIRTUAL AWARDING CEREMONY </h4>
-                                </a></h4>
-                            <a href="https://www.facebook.com/iaysppilipinas/photos/a.127446531263145/731812384159887/" class="read-more1">Read more</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="single-blogs mb-30">
-                        <div class="blog-img">
-                            <img src="assets/img/gallery/blog2.png" alt="">
-                        </div>
-                        <div class="blogs-cap">
-                            <div class="date-info">
-                                <span>Health</span>
-                                <p>Apr 27, 2021</p>
-                            </div>
-                            <h4><a href="https://www.facebook.com/manningarky/photos/a.793029717544224/1728931967287323/">TAYTAY HEALTH PANTRY IS NOW OPEN! | Libreng Gamot, Vitamins at PPEs</a></h4>
-                            <a href="https://www.facebook.com/manningarky/photos/a.793029717544224/1728931967287323/" class="read-more1">Read more</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="single-blogs mb-30">
-                        <div class="blog-img">
-                            <img src="assets/img/gallery/blog3.png" alt="">
-                        </div>
-                        <div class="blogs-cap">
-                            <div class="date-info">
-                                <span>Award</span>
-                                <p>Apr 26, 2021</p>
-                                
-                            </div>
-                        </div>s
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
      <div class="container">
         <div class="section-tittle text-center mb-70 mt-30">
             <h2>News</h2>
@@ -275,11 +94,12 @@
     $query = "SELECT * FROM events ";
     $select_all_events_query = mysqli_query($connection, $query);
 
-
     while ($row = mysqli_fetch_assoc($select_all_events_query)) {
 
         $id = $row['id'];
         $event_title = $row['news_title'];
+        $event_content = $row['event_content'];
+        $event_link = $row['event_link'];
         $post_author = $row['event_user'];
         $event_date = $row['event_date'];
         $event_image = $row['event_image'];
@@ -310,9 +130,14 @@
 
                             <div class="blog_details">
                                 <h2>
-                                    <a href="event.php?id=<?php echo $id; ?>"><?php echo $event_title ?></a>
+                                    <a href="<?php echo $event_link?>"><?php echo $event_title?>
+                                    
+                                    </a>
+                                        
                                 </h2>
-                              
+                                    <h4>
+                                <?php echo $event_content; ?>
+                              </h4>
                             </div>
                         <?php } ?>
                         </article>

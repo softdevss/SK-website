@@ -11,7 +11,9 @@
             while($row = mysqli_fetch_assoc($select_post_id)){
                 $event_id           = $row['id'];
                 $event_user          = $row['event_user'];  
-                $event_title         = $row['news_title'];     
+                $event_link         = $row['event_link'];  
+                $event_title         = $row['news_title'];
+                $event_content         = $row['event_content'];         
                 $event_category     = $row['event_category'];     
                 $event_status        = $row['event_status'];     
                 $event_image         = $row['event_image'];   
@@ -23,26 +25,33 @@
             if(isset($_POST['edit_event'])){
                 
                 $event_user          = $_POST['event_user'];  
-                $event_title         = $_POST['event_title'];     
+                $event_title         = $_POST['event_title'];  
+                $event_content       = $_POST['event_content']; 
                 $event_category      = $_POST['event_category'];     
-                $event_status        = $_POST['event_status'];     
+                $event_status        = $_POST['event_status'];  
+                
+                 $event_link         = $_POST['event_link'];
                
                 $event_date          = $_POST['event_date']; 
 
                 $event_image        = $_FILES['event_image'] ['name'];
                 $event_image_temp   = $_FILES['event_image'] ['tmp_name'];
+
+               
                 
                 
                 move_uploaded_file($event_image_temp,"../image/$event_image");
 
                 $query = "UPDATE events SET ";
                 $query .= "news_title       = '{$event_title}', ";
+                $query .= "event_content     = '{$event_content}', ";
                 $query .= "event_category   = '{$event_category}', ";
                 $query .= "event_date        = '{$event_date}', ";
                 $query .= "event_user        = '{$event_user}', ";
                 $query .= "event_status      = '{$event_status}', ";
               
-                $query .= "event_image       = '{$event_image}' ";
+                $query .= "event_image       = '{$event_image}', ";
+                $query .= "event_link       = '{$event_link}' ";
                 $query .= "WHERE id    = {$the_event_id} ";
                 
                 $update_post = mysqli_query($connection, $query);
@@ -62,6 +71,11 @@
     <div class="form-group">
         <label for="title">Post Title</label>
         <input type="text" value="<?php echo $event_title; ?>" class="form-control" name="event_title">
+    </div>
+
+    <div class="form-group">
+        <label for="post_content">Post Content</label>
+        <textarea class="form-control" name="event_content" id="" cols="30" rows="10"><?php echo $event_content; ?></textarea>
     </div>
     
     <div class="form-group">
@@ -109,6 +123,11 @@
                 
         </select>
 
+    </div>
+
+    <div class="form-group">
+        <label for="title">Post Link</label>
+        <input type="text" value="<?php echo $event_link; ?>" class="form-control" name="event_link">
     </div>
      
     <div class="form-group">
