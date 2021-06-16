@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 03, 2021 at 12:07 AM
+-- Generation Time: Jun 16, 2021 at 08:48 AM
 -- Server version: 10.4.18-MariaDB
 -- PHP Version: 8.0.5
 
@@ -36,6 +36,13 @@ CREATE TABLE `appointment` (
   `date` date NOT NULL,
   `purpose` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Dumping data for table `appointment`
+--
+
+INSERT INTO `appointment` (`id`, `name`, `email`, `contact`, `address`, `date`, `purpose`) VALUES
+(13, 'ROnnie \"lodi\" Rosal', 'rons@yahoo.com', '09348489358932', 'Angono Rizal', '2021-06-06', 'I meet sk jeremy');
 
 -- --------------------------------------------------------
 
@@ -87,7 +94,10 @@ INSERT INTO `contact` (`id`, `fullname`, `email`, `address`, `contact`, `message
 (41, 'Arlan Camacho', 'arlancamacho03@yahoo.com.ph', 'puregold taytay ', '09754444405', 'We make a children'),
 (42, 'Justine Cusap', 'justine03@yahoo.com', 'Pasig City', '09754444406', 'Justine bakbakero'),
 (43, 'Jeremy Prince Andaya', 'jeremyprinceandaya07@gmail.com', 'jeremyprinceandaya07@gmail.com', '09666235316', 'Hello'),
-(44, 'kahitano', 'kahitano@yahoo.com', 'taytay', '094658223921', 'naiisipkolangto');
+(44, 'kahitano', 'kahitano@yahoo.com', 'taytay', '094658223921', 'naiisipkolangto'),
+(45, 'justine cusap', 'justinecuusap@gmail.com', 'Blk:3 Lot 4 bagumbayan Antipolo City', '094658223921', 'Sample'),
+(46, 'arlan camacho', 'arlan@yahoo.com', 'Pasig city', '09754444405', 'This is sample work'),
+(47, 'ron', 'ron@yahoo.com', 'Romblon city', '094658223921', 'asjd;laksjdlkasd');
 
 -- --------------------------------------------------------
 
@@ -125,15 +135,17 @@ CREATE TABLE `events` (
   `event_date` date NOT NULL,
   `event_image` text NOT NULL,
   `event_category` varchar(255) NOT NULL,
-  `event_status` varchar(255) NOT NULL
+  `event_status` varchar(255) NOT NULL,
+  `event_content` varchar(255) NOT NULL,
+  `event_link` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Dumping data for table `events`
 --
 
-INSERT INTO `events` (`id`, `news_title`, `event_user`, `event_date`, `event_image`, `event_category`, `event_status`) VALUES
-(17, 'Free taho', 'tin', '2021-06-07', 'gallery2.png', '2', 'published');
+INSERT INTO `events` (`id`, `news_title`, `event_user`, `event_date`, `event_image`, `event_category`, `event_status`, `event_content`, `event_link`) VALUES
+(23, 'Nasakit po ulo ko', 'Jer', '2021-06-10', 'blog2.png', '2', 'published', 'Tangalin na ba natin?', 'https://www.youtube.com/watch?v=BZsXcc_tC-o&ab_channel=WeTheKingsWeTheKingsOfficialArtistChannel');
 
 -- --------------------------------------------------------
 
@@ -300,19 +312,19 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `appointment`
 --
 ALTER TABLE `appointment`
-  MODIFY `id` int(33) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
+  MODIFY `id` int(33) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
 
 --
 -- AUTO_INCREMENT for table `categories`
 --
 ALTER TABLE `categories`
-  MODIFY `cat_id` int(15) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+  MODIFY `cat_id` int(15) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
 
 --
 -- AUTO_INCREMENT for table `contact`
 --
 ALTER TABLE `contact`
-  MODIFY `id` int(3) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=45;
+  MODIFY `id` int(3) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=48;
 
 --
 -- AUTO_INCREMENT for table `donate`
@@ -324,7 +336,7 @@ ALTER TABLE `donate`
 -- AUTO_INCREMENT for table `events`
 --
 ALTER TABLE `events`
-  MODIFY `id` int(15) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
+  MODIFY `id` int(15) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=24;
 
 --
 -- AUTO_INCREMENT for table `request`
