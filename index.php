@@ -99,37 +99,42 @@
   <div class="cards">
     <img
       class="card-img"
-      src="./assets/img/downloadable-image/partner.jpg"
+      src="./assets/img/bl"
       alt="Grand Canyon"
     />
     <div class="card-content ">
-      <h6 class="card-header" >  BE A PARTNER </h6>
+      <h6 class="card-header" >  Online Request </h6>
 
-      <button class="card-btn background-grid"><a href="https://drive.google.com/file/d/1X-3ib_s_fJZEBKl3NiNR6bn0xPvnsoK_/view" target="_blank"><i class="fas fa-angle-right"></i> Get sstarted</a></button>
+      <button class="card-btn background-grid"><a href="online-request.phponline-request.php" target="_blank"><i class="fas fa-angle-right"></i> Get started</a></button>
     </div>
   </div>
 </div>
 <div class="grid-item" style="width:350px">
   <div class="cards">
-    <img class="card-img" src="./assets/img/downloadable-image/donating.jpg" alt="Maldives" />
+    <img class="card-img" src="./assets/img/165899291_1710008445846342_4653169932694819731_n.jpg" alt="Maldives" />
     <div class="card-content">
-      <h1 class="card-header">In kind donations</h1>
+      <h1 class="card-header"> Donate </h1>
       
-      <button class="card-btn background-grid"><a href="https://drive.google.com/file/d/1-bcpK311oSb78IfwAX5RnTx3LzWxCwhW/view" target="_blank"><i class="fas fa-angle-right"></i> Get started</a></button>
+      <button class="card-btn background-grid"><a href="donation.php" target="_blank"><i class="fas fa-angle-right"></i> Get started</a></button>
     </div>
   </div>
 </div>
 <div class="grid-item" style="width:350px">
     <div class="cards">
-      <img class="card-img" src="./assets/img/downloadable-image/point.jpg" alt="Maldives" />
+      <img class="card-img" src="./assets/img/hero/h1_hero.png" alt="Maldives" />
       <div class="card-content">
         <h1 class="card-header" > Appointment</h1>
         
-        <button class="card-btn background-grid"><a href="https://drive.google.com/file/d/1Dr0FPQMS4NgeRMYvuk-5ZMztK9Nz6ecX/view" target="_blank"><i class="fas fa-angle-right"></i> Get started</a></button>
+        <button class="card-btn background-grid"><a href="getappointment.php" target="_blank"><i class="fas fa-angle-right"></i> Get started</a></button>
       </div>
     </div>
   </div>
   
+</div>
+
+<div class="section-tittle text-center">
+
+<p><h2 class="text-center"> Achievements</h2></p>
 </div>
 
     <?php
@@ -159,8 +164,8 @@
         <div class="row">
             <div class="col ">
                         <article class="blog_item ">
-                            <div class="blog_item_img col-sm-4">
-                                <img class="img-responsive w-150" style="max-width: 100%;"
+                            <div class="blog_item_img col-sm-4 mb-5">
+                                <img class="img-responsive w20" style="max-width: 100%;"
                                     src="image/<?php echo $event_image; ?>" alt="">
 
                                 <a href="#" class="blog_item_date">
@@ -171,17 +176,15 @@
                                 </a>
                             </div>
 
-                            <div class="blog_details">
-                                <h2>
-                                    <a href="<?php echo $event_link?>"><?php echo $event_title?>
-                                    
-                                    </a>
-                                        
-                                </h2>
-                                    <h4>
-                                <?php echo $event_content; ?>
-                              </h4>
-                            </div>
+                            <div class="blog_item_img col-sm-4">
+                            <h3>
+                                <a href="<?php echo $event_link?>"><?php echo $event_title?>
+                                </a>       
+                            </h3>
+                            <p>
+                            <?php echo $event_content; ?>
+                          </p>
+                        </div>
                         <?php } ?>
                         </article>
              </div>

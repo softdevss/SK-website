@@ -70,18 +70,30 @@
                                         <li ><a class="text-decoration-none" href="roster.php"><i class="fas fa-chevron-right"></i> Sangguniang Kabataan Roster</a></li>
                                             <li><a class="text-decoration-none" href="officials.php"><i class="fas fa-chevron-right"></i> SK Elected Officials</a></li>
                                             <!-- <li><a class="text-decoration-none" href="sdg.php"><i class="fas fa-chevron-right"></i> Sustainable Development Goals</a></li> -->
-                                            <li><a class="text-decoration-none" href="#"><i class="fas fa-chevron-right"></i> SK Resolutions</a>
+                                            <!-- <li><a class="text-decoration-none" href="#"><i class="fas fa-chevron-right"></i> SK Resolutions</a>
                                             <ul class="submenu" style="margin-left:16.3rem; width:80px">
                                                         <li><a class="text-decoration-none" href="#"><i class="fas fa-chevron-right"></i> 2019</a></li>
                                                         <li><a class="text-decoration-none" href="#"><i class="fas fa-chevron-right"></i> 2020</a></li>
                                                         <li><a class="text-decoration-none" href="#"><i class="fas fa-chevron-right"></i> 2021</a></li>
                                                 </ul>
-                                            </li>
+                                            </li> -->
 
-                                            <li><a class="text-decoration-none" href="youth.php"><i class="fas fa-chevron-right"></i> Youth Councils</a></li></ul></li>
+                                            <!--  -->
+                                            
+                                            
+                                            </ul></li>
+
+                                            <li><a class="text-decoration-none" href="#">Be A Partner</a>
+                                        <ul class="submenu">
+                                        <li><a class="text-decoration-none" href="volunteer.php"><i class="fas fa-chevron-right"></i> Be a Volunteer</a></li>
+                                        <li><a class="text-decoration-none" href="donation.php"><i class="fas fa-chevron-right"></i> Donate</a></li>
+                                        <li><a class="text-decoration-none" href="youth.php"><i class="fas fa-chevron-right"></i> Youth Councils</a></li>
+                                            
+                                            
+                                            </ul></li>
                                         <li><a class="text-decoration-none" href="services.php">Program & Services</a>
                                             <ul class="submenu">
-                                            <li><a class="text-decoration-none" href="online-request.php"><i class="fas fa-chevron-right"></i> Online Request</a></li>
+                                           
                                             <li><a class="text-decoration-none" href=""><i class="fas fa-chevron-right"></i> Project & Achievements</a>
                                                         <ul class="submenu" style="margin-left:16.3rem; width:80px">
                                                         <li><a class="text-decoration-none" href="#"><i class="fas fa-chevron-right"></i> 2019</a></li>
@@ -90,9 +102,9 @@
                                                 </ul>
                                                 </li>
                                                         <li><a class="text-decoration-none" href="downloadable-form.php"><i class="fas fa-chevron-right"></i> Downloadable forms</a></li>
-                                                        <li><a class="text-decoration-none" href="volunteer.php"><i class="fas fa-chevron-right"></i> Be a Volunteer</a></li>
-                                                        <li><a class="text-decoration-none" href="helpdesk.php"><i class="fas fa-chevron-right"></i> Online Health Desk</a></li>
-                                                        <li><a class="text-decoration-none" href="donation.php"><i class="fas fa-chevron-right"></i> Donate</a></li>
+                                                        
+                                                        <!-- <li><a class="text-decoration-none" href="helpdesk.php"><i class="fas fa-chevron-right"></i> Online Health Desk</a></li> -->
+                                                        
                     
                                                 
                                             </ul>
