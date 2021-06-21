@@ -69,7 +69,7 @@
                                         <ul class="submenu">
                                         <li ><a class="text-decoration-none" href="roster.php"><i class="fas fa-chevron-right"></i> Sangguniang Kabataan Roster</a></li>
                                             <li><a class="text-decoration-none" href="officials.php"><i class="fas fa-chevron-right"></i> SK Elected Officials</a></li>
-                                            <li><a class="text-decoration-none" href="sdg.php"><i class="fas fa-chevron-right"></i> Sustainable Development Goals</a></li>
+                                            <!-- <li><a class="text-decoration-none" href="sdg.php"><i class="fas fa-chevron-right"></i> Sustainable Development Goals</a></li> -->
                                             <li><a class="text-decoration-none" href="#"><i class="fas fa-chevron-right"></i> SK Resolutions</a>
                                             <ul class="submenu" style="margin-left:16.3rem; width:80px">
                                                         <li><a class="text-decoration-none" href="#"><i class="fas fa-chevron-right"></i> 2019</a></li>
