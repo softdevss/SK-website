@@ -62,8 +62,8 @@
     <div class="carousel-item max-wid">
       <img src="assets/img/gallery/gallery4.png" class="w-100 max-wid img-fluid max-wid" alt="...">
       <div class="carousel-caption d-none d-md-block text-left font-weight-bold mb-50 ">
-      <div class="drk"></div>
-          <h1 class="hero-title"></h1>
+      
+        
       </div>
     </div>
     <div class="carousel-item max-wid" >
@@ -83,11 +83,54 @@
   </a>
 </div>
 
-     <div class="container">
-        <div class="section-tittle text-center mb-70 mt-30">
-            <h2>News</h2>
-        </div>
+<div class="container">
+            <!-- Section Tittle -->
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="section-tittle text-center">
+                      
+                        <p><h2 class="text-center"> Get in touch</h2></p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid">
+
+<div class="grid-item" style="width:350px">
+  <div class="cards">
+    <img
+      class="card-img"
+      src="./assets/img/downloadable-image/partner.jpg"
+      alt="Grand Canyon"
+    />
+    <div class="card-content ">
+      <h6 class="card-header" >  BE A PARTNER </h6>
+
+      <button class="card-btn background-grid"><a href="https://drive.google.com/file/d/1X-3ib_s_fJZEBKl3NiNR6bn0xPvnsoK_/view" target="_blank"><i class="fas fa-angle-right"></i> Get sstarted</a></button>
     </div>
+  </div>
+</div>
+<div class="grid-item" style="width:350px">
+  <div class="cards">
+    <img class="card-img" src="./assets/img/downloadable-image/donating.jpg" alt="Maldives" />
+    <div class="card-content">
+      <h1 class="card-header">In kind donations</h1>
+      
+      <button class="card-btn background-grid"><a href="https://drive.google.com/file/d/1-bcpK311oSb78IfwAX5RnTx3LzWxCwhW/view" target="_blank"><i class="fas fa-angle-right"></i> Get started</a></button>
+    </div>
+  </div>
+</div>
+<div class="grid-item" style="width:350px">
+    <div class="cards">
+      <img class="card-img" src="./assets/img/downloadable-image/point.jpg" alt="Maldives" />
+      <div class="card-content">
+        <h1 class="card-header" > Appointment</h1>
+        
+        <button class="card-btn background-grid"><a href="https://drive.google.com/file/d/1Dr0FPQMS4NgeRMYvuk-5ZMztK9Nz6ecX/view" target="_blank"><i class="fas fa-angle-right"></i> Get started</a></button>
+      </div>
+    </div>
+  </div>
+  
+</div>
 
     <?php
 
@@ -112,11 +155,11 @@
         $day = date("d", strtotime($event_date));
     ?>
     
-    <div class="container">
+    <div class="container-fluid ">
         <div class="row">
-            <div class="col">
-                        <article class="blog_item">
-                            <div class="blog_item_img">
+            <div class="col ">
+                        <article class="blog_item ">
+                            <div class="blog_item_img col-sm-4">
                                 <img class="img-responsive w-150" style="max-width: 100%;"
                                     src="image/<?php echo $event_image; ?>" alt="">
 

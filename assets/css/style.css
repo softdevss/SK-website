@@ -2858,7 +2858,12 @@ hr {
     border: 2px solid #fff;
     
 }
-
+.background-grid{
+    border: 1px solid #0078ff;
+    background-color: #fff;
+    color: #fff;
+    
+}
 
 .slider-area .hero__caption span {
     font-size: 18px;
@@ -7124,3 +7129,8 @@ header nav ul li a :hover {
     text-decoration: none;
 }
 
+.flex-container{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
