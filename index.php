@@ -99,7 +99,7 @@
   <div class="cards">
     <img
       class="card-img"
-      src="./assets/img/bl"
+      src="./assets/img/blog/single_blog_1.png"
       alt="Grand Canyon"
     />
     <div class="card-content ">
@@ -137,6 +137,7 @@
 <p><h2 class="text-center"> Achievements</h2></p>
 </div>
 
+<div class="container">    
     <?php
 
     $query = "SELECT * FROM events ";
@@ -148,7 +149,7 @@
         $event_title = $row['news_title'];
         $event_content = $row['event_content'];
         $event_link = $row['event_link'];
-        $post_author = $row['event_user'];
+        $event_author = $row['event_user'];
         $event_date = $row['event_date'];
         $event_image = $row['event_image'];
 
@@ -158,38 +159,38 @@
         $monthName = date("F", mktime($monthNum));
 
         $day = date("d", strtotime($event_date));
-    ?>
-    
-    <div class="container-fluid ">
-        <div class="row">
-            <div class="col ">
-                        <article class="blog_item ">
-                            <div class="blog_item_img col-sm-4 mb-5">
-                                <img class="img-responsive w20" style="max-width: 100%;"
-                                    src="image/<?php echo $event_image; ?>" alt="">
+                   
+       ?>
+                
 
-                                <a href="#" class="blog_item_date">
-                                    <p>Date</p>
-                                    <h3><?php echo $monthName; ?>
-                                        <?php echo $day; ?></h3>
-                                    <h3><?php echo date("Y"); ?></h3>
-                                </a>
-                            </div>
+                <!-- First Blog Post -->
+            <div class="col-sm-4">
+            
+                <a href="post.php?p_id=<?php echo $id;?>">
+                <img class="img-responsive w-50" src="image/<?php echo $event_image;?>" alt="">
+                </a>
+                    
+                <h2>
+                    <a href="post.php?p_id=<?php echo $id;?>"><?php echo $event_title ?></a>
+                </h2>
+              
+                <p class="lead">
+                <h1>
+                    by <a style="color:black" href=""><?php echo $event_author; ?></a>
+                </h1>
+                </p>
+                <p>
+                <span class="glyphicon glyphicon-time"></span><?php echo $event_date; ?>
+                </p>
+                <hr>
+                <p><?php echo $event_content; ?></p>
+         
+                   
+                 
+            <?php  }  ?>
+            </div>
+        </div>  
 
-                            <div class="blog_item_img col-sm-4">
-                            <h3>
-                                <a href="<?php echo $event_link?>"><?php echo $event_title?>
-                                </a>       
-                            </h3>
-                            <p>
-                            <?php echo $event_content; ?>
-                          </p>
-                        </div>
-                        <?php } ?>
-                        </article>
-             </div>
-        </div>
-    </div>
 </main>
 <?php include "includes/footer.php" ?>
 <!-- Scroll Up -->
