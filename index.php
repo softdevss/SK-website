@@ -164,7 +164,7 @@
                 
 
                 <!-- First Blog Post -->
-            <div class="col-sm-4">
+            <div class="d-flex">
             
                 <a href="post.php?p_id=<?php echo $id;?>">
                 <img class="img-responsive w-50" src="image/<?php echo $event_image;?>" alt="">
