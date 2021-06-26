@@ -99,7 +99,7 @@
   <div class="cards">
     <img
       class="card-img"
-      src="./assets/img/bl"
+      src="./assets/img/blog/single_blog_1.png"
       alt="Grand Canyon"
     />
     <div class="card-content ">
@@ -136,7 +136,7 @@
 
 <p><h2 class="text-center"> Achievements</h2></p>
 </div>
-
+<div class="grid">
     <?php
 
     $query = "SELECT * FROM events ";
@@ -148,7 +148,7 @@
         $event_title = $row['news_title'];
         $event_content = $row['event_content'];
         $event_link = $row['event_link'];
-        $post_author = $row['event_user'];
+        $event_author = $row['event_user'];
         $event_date = $row['event_date'];
         $event_image = $row['event_image'];
 
@@ -158,9 +158,35 @@
         $monthName = date("F", mktime($monthNum));
 
         $day = date("d", strtotime($event_date));
+<<<<<<< HEAD
     ?>
     
     
+=======
+                   
+       ?>
+               
+
+
+           
+
+<div class="grid-item" style="width:350px">
+    <div class="cards">
+      <img class="card-img" src="image/<?php echo $event_image; ?>" alt="Maldives" />
+      <div class="card-content">
+        <h1 class="card-header" ><?php echo $event_title ?></h1>
+        <p>By : <?php echo $event_author; ?></p>
+        <p><?php echo $event_date; ?></p>
+        <p><?php echo $event_content; ?></p>
+        <button class="card-btn background-grid"><a href="getappointment.php" target="_blank"><i class="fas fa-angle-right"></i> Get started</a></button>
+      </div>
+    </div>
+  </div>
+  <?php  }  ?> 
+</div>
+
+             
+>>>>>>> 057568ca61bb3438ecb913f7bd577255e1617bd0
 </main>
 <?php include "includes/footer.php" ?>
 <!-- Scroll Up -->

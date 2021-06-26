@@ -1369,6 +1369,7 @@ display: flex;
  
  
 }
+<<<<<<< HEAD
 .galley{
   background-color: #5e6a72 !important;
   display: flex;
@@ -1385,5 +1386,19 @@ display: flex;
 .gallery-card{
  width: 300px;
  margin: 1rem;
+=======
+
+.dflex{
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100vw;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.one{
+ flex: 1;
+ width: 00px;
+>>>>>>> 057568ca61bb3438ecb913f7bd577255e1617bd0
 }
 
