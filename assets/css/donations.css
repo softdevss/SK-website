@@ -1369,5 +1369,21 @@ display: flex;
  
  
 }
-
+.galley{
+  background-color: #5e6a72 !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width:100vw !important;
+  max-width: 100%;
+}
+.galley-container{
+ flex-basis: 300px;
+  width: 300px !important;
+}
+.gallery-card{
+ width: 300px;
+ margin: 1rem;
+}
 

@@ -160,36 +160,7 @@
         $day = date("d", strtotime($event_date));
     ?>
     
-    <div class="container-fluid ">
-        <div class="row">
-            <div class="col ">
-                        <article class="blog_item ">
-                            <div class="blog_item_img col-sm-4 mb-5">
-                                <img class="img-responsive w20" style="max-width: 100%;"
-                                    src="image/<?php echo $event_image; ?>" alt="">
-
-                                <a href="#" class="blog_item_date">
-                                    <p>Date</p>
-                                    <h3><?php echo $monthName; ?>
-                                        <?php echo $day; ?></h3>
-                                    <h3><?php echo date("Y"); ?></h3>
-                                </a>
-                            </div>
-
-                            <div class="blog_item_img col-sm-4">
-                            <h3>
-                                <a href="<?php echo $event_link?>"><?php echo $event_title?>
-                                </a>       
-                            </h3>
-                            <p>
-                            <?php echo $event_content; ?>
-                          </p>
-                        </div>
-                        <?php } ?>
-                        </article>
-             </div>
-        </div>
-    </div>
+    
 </main>
 <?php include "includes/footer.php" ?>
 <!-- Scroll Up -->
