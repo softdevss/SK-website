@@ -83,7 +83,7 @@
   </a>
 </div>
 
-<div class="container">
+
             <!-- Section Tittle -->
             <div class="row justify-content-center">
                 <div class="col-lg-6">
@@ -136,7 +136,7 @@
 
 <p><h2 class="text-center"> Achievements</h2></p>
 </div>
-<div class="container">
+<div class="container big-box">
 <div class="row slidess">
     <?php
 
@@ -166,15 +166,13 @@
 
            
 
-<div class="col-md-12">
-    <div class="cards">
-      <img class="card-img" src="image/<?php echo $event_image; ?>" alt="Maldives" />
+<div class="col-md-12 ">
+    <div class="cards article-image article-card">
+      <img class="card-img " src="image/<?php echo $event_image; ?>" alt="Maldives" />
       <div class="card-content">
-        <h1 class="card-header" ><?php echo $event_title ?></h1>
-        <p>By : <?php echo $event_author; ?></p>
-        <p><?php echo $event_date; ?></p>
-        <p><?php echo $event_content; ?></p>
-        <button class="card-btn background-grid"><a href="getappointment.php" target="_blank"><i class="fas fa-angle-right"></i> Get started</a></button>
+        <h1 class="  card-title" ><?php echo $event_title ?></h1>
+        <p class="card-category"><?php echo $event_date; ?></p>
+        <p class="card-excerpt"><?php echo $event_content; ?></p>
       </div>
     </div>
   </div>
