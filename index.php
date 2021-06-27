@@ -136,7 +136,8 @@
 
 <p><h2 class="text-center"> Achievements</h2></p>
 </div>
-<div class="grid">
+<div class="container">
+<div class="row slidess">
     <?php
 
     $query = "SELECT * FROM events ";
@@ -158,11 +159,6 @@
         $monthName = date("F", mktime($monthNum));
 
         $day = date("d", strtotime($event_date));
-<<<<<<< HEAD
-    ?>
-    
-    
-=======
                    
        ?>
                
@@ -170,7 +166,7 @@
 
            
 
-<div class="grid-item" style="width:350px">
+<div class="col-md-12">
     <div class="cards">
       <img class="card-img" src="image/<?php echo $event_image; ?>" alt="Maldives" />
       <div class="card-content">
@@ -182,12 +178,15 @@
       </div>
     </div>
   </div>
-  <?php  }  ?> 
+  <?php  }  ?>
+</div>
+
 </div>
 
              
->>>>>>> 057568ca61bb3438ecb913f7bd577255e1617bd0
 </main>
+
+
 <?php include "includes/footer.php" ?>
 <!-- Scroll Up -->
 <div id="back-top">
@@ -232,6 +231,50 @@
 <!-- Jquery Plugins, main Jquery -->
 <script src="./assets/js/plugins.js"></script>
 <script src="./assets/js/main.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+$('.slidess').slick({
+  dots: true,
+  infinite: false,
+  speed: 300,
+  slidesToShow: 3,
+  slidesToScroll: 1,
+  arrows: true ,
+  responsive: [
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        infinite: true,
+        dots: true
+      }
+    },
+    {
+      breakpoint: 600,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
+      }
+    }
+    // You can unslick at a given breakpoint now by adding:
+    // settings: "unslick"
+    // instead of a settings object
+  ]
+});
+
+</script>
+
+
 
 </body>
 
