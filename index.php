@@ -137,7 +137,7 @@
 <p><h2 class="text-center"> Achievements</h2></p>
 </div>
 
-<div class="container">    
+<div class="grid">    
     <?php
 
     $query = "SELECT * FROM events ";
@@ -162,34 +162,20 @@
                    
        ?>
                 
-
-                <!-- First Blog Post -->
-            <div class="d-flex">
-            
-                <a href="post.php?p_id=<?php echo $id;?>">
-                <img class="img-responsive w-50" src="image/<?php echo $event_image;?>" alt="">
-                </a>
-                    
-                <h2>
-                    <a href="post.php?p_id=<?php echo $id;?>"><?php echo $event_title ?></a>
-                </h2>
-              
-                <p class="lead">
-                <h1>
-                    by <a style="color:black" href=""><?php echo $event_author; ?></a>
-                </h1>
-                </p>
-                <p>
-                <span class="glyphicon glyphicon-time"></span><?php echo $event_date; ?>
-                </p>
-                <hr>
-                <p><?php echo $event_content; ?></p>
-         
-                   
-                 
-            <?php  }  ?>
-            </div>
-        </div>  
+                <div class="grid-item" style="width:350px">
+    <div class="cards">
+      <img class="card-img" src="image/<?php echo $event_image; ?>" alt="Maldives" />
+      <div class="card-content">
+        <h1 class="card-header" ><?php echo $event_title ?></h1>
+        <p>By : <?php echo $event_author; ?></p>
+        <p><?php echo $event_date; ?></p>
+        <p><?php echo $event_content; ?></p>
+        <button class="card-btn background-grid"><a href="getappointment.php" target="_blank"><i class="fas fa-angle-right"></i> Get started</a></button>
+      </div>
+    </div>
+  </div>
+  <?php  }  ?> 
+</div>
 
 </main>
 <?php include "includes/footer.php" ?>
