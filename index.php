@@ -95,7 +95,7 @@
             </div>
             <div class="grid">
 
-<div class="grid-item" style="width:350px">
+<div class="grid-item" style="width:300px">
   <div class="cards">
     <img
       class="card-img"
@@ -109,7 +109,7 @@
     </div>
   </div>
 </div>
-<div class="grid-item" style="width:350px">
+<div class="grid-item" style="width:300px">
   <div class="cards">
     <img class="card-img" src="./assets/img/165899291_1710008445846342_4653169932694819731_n.jpg" alt="Maldives" />
     <div class="card-content">
@@ -119,7 +119,7 @@
     </div>
   </div>
 </div>
-<div class="grid-item" style="width:350px">
+<div class="grid-item" style="width:300px">
     <div class="cards">
       <img class="card-img" src="./assets/img/hero/h1_hero.png" alt="Maldives" />
       <div class="card-content">
@@ -131,10 +131,34 @@
   </div>
   
 </div>
+<div class="section-tittle text-center">
+
+<p><h2 class="text-center container "> Achievements</h2></p>
+</div>  
+    <div class="container-blog">
+      <div class="blog-post">
+          <div class="blog-post___image">
+              <img src="./assets/img/hero/h1_hero.png" alt="">
+          </div>
+          <div class="blog-post_info">
+              <div class="blog-post___Date">
+                  <span>Sunday</span>
+                  <span>October 27 2019</span>
+              </div>
+              <h1 class="blog-post_title">
+                  SK AWARDING
+              </h1>
+              <p class="blog-post_text">
+                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod, delectus ratione nam cum maxime reiciendis.
+              </p>
+              <a href="" class="blog-post-cta"> Read more</a>
+          </div>
+      </div>
+      </div>
 
 <div class="section-tittle text-center">
 
-<p><h2 class="text-center"> Achievements</h2></p>
+<p><h2 class="text-center"> NEWS AND UPDATE</h2></p>
 </div>
 <div class="container big-box">
 <div class="row slidess">
@@ -237,14 +261,14 @@ $('.slidess').slick({
   dots: true,
   infinite: false,
   speed: 300,
-  slidesToShow: 3,
+  slidesToShow: 2,
   slidesToScroll: 1,
   arrows: true ,
   responsive: [
     {
       breakpoint: 1024,
       settings: {
-        slidesToShow: 3,
+        slidesToShow: 2,
         slidesToScroll: 3,
         infinite: true,
         dots: true
@@ -253,7 +277,7 @@ $('.slidess').slick({
     {
       breakpoint: 600,
       settings: {
-        slidesToShow: 2,
+        slidesToShow: 2 ,
         slidesToScroll: 2
       }
     },
