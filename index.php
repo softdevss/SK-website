@@ -83,7 +83,7 @@
   </a>
 </div>
 
-<div class="container">
+
             <!-- Section Tittle -->
             <div class="row justify-content-center">
                 <div class="col-lg-6">
@@ -134,10 +134,36 @@
 
 <div class="section-tittle text-center">
 
-<p><h2 class="text-center"> Achievements</h2></p>
+<p><h2 class="text-center">News & Updates</h2></p>
 </div>
 
-<div class="grid">    
+<?php 
+
+$query = "SELECT * FROM categories";
+
+    $select_all_categories_query = mysqli_query($connection,$query);
+                    
+    while($row = mysqli_fetch_assoc($select_all_categories_query)){
+        
+       $cat_title = $row['cat_title'];
+        
+ 
+
+<nav class="navbar navbar-light bg-light">
+  
+echo "<li><a href='#'>{$cat_title}</a></li>";
+</nav>
+
+
+       
+        
+ }
+
+?>  
+
+
+<div class="container big-box">
+<div class="row slidess">
     <?php
 
     $query = "SELECT * FROM events ";
@@ -161,23 +187,28 @@
         $day = date("d", strtotime($event_date));
                    
        ?>
-                
-                <div class="grid-item" style="width:350px">
-    <div class="cards">
-      <img class="card-img" src="image/<?php echo $event_image; ?>" alt="Maldives" />
+                 
+
+<div class="col-md-12 ">
+    <div class="cards article-image article-card">
+      <img class="card-img " src="image/<?php echo $event_image; ?>" alt="Maldives" />
       <div class="card-content">
-        <h1 class="card-header" ><?php echo $event_title ?></h1>
-        <p>By : <?php echo $event_author; ?></p>
-        <p><?php echo $event_date; ?></p>
-        <p><?php echo $event_content; ?></p>
-        <button class="card-btn background-grid"><a href="getappointment.php" target="_blank"><i class="fas fa-angle-right"></i> Get started</a></button>
+        <h1 class="  card-title" ><?php echo $event_title ?></h1>
+        <p class="card-category"><?php echo $event_date; ?></p>
+        <p class="card-excerpt"><?php echo $event_content; ?></p>
       </div>
     </div>
   </div>
-  <?php  }  ?> 
+  <?php  }  ?>
 </div>
 
+</div>
+
+
+
 </main>
+
+
 <?php include "includes/footer.php" ?>
 <!-- Scroll Up -->
 <div id="back-top">
@@ -222,6 +253,50 @@
 <!-- Jquery Plugins, main Jquery -->
 <script src="./assets/js/plugins.js"></script>
 <script src="./assets/js/main.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+$('.slidess').slick({
+  dots: true,
+  infinite: false,
+  speed: 300,
+  slidesToShow: 3,
+  slidesToScroll: 1,
+  arrows: true ,
+  responsive: [
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        infinite: true,
+        dots: true
+      }
+    },
+    {
+      breakpoint: 600,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
+      }
+    }
+    // You can unslick at a given breakpoint now by adding:
+    // settings: "unslick"
+    // instead of a settings object
+  ]
+});
+
+</script>
+
+
 
 </body>
 

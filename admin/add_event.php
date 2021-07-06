@@ -66,6 +66,8 @@ $query .= "VALUES({$event_category_id},'{$event_title}','{$event_user}','{$event
         </select>
 
     </div>
+
+    
     
     
     <div class="form-group">
