@@ -133,7 +133,7 @@
 </div>
 <div class="section-tittle text-center">
 
-<p><h2 class="text-center container "> Achievements</h2></p>
+<p><h2 class="text-center container m-md-5"> Achievements</h2></p>
 </div>  
     <div class="container-blog">
       <div class="blog-post">
@@ -156,13 +156,24 @@
       </div>
       </div>
 
-<div class="section-tittle text-center">
+<div class="section-tittle text-center m-md-5">
 
 <p><h2 class="text-center"> NEWS AND UPDATE</h2></p>
 </div>
-<div class="container big-box">
-<div class="row slidess">
-    <?php
+
+<div class="category">
+    <nav aria-label="...">
+      <ul class="pagination pagination-sm">
+        <li class="page-item"><a class="page-link" href="#!">Sports</a></li>
+        <li class="page-item"><a class="page-link" href="#!">Occupation</a></li>
+        <li class="page-item"><a class="page-link" href="#!">Health</a></li>
+      
+      </ul>
+    </nav>
+  </div>
+    <div class="container big-box">
+    <div class="row slidess">
+        <?php
 
     $query = "SELECT * FROM events ";
     $select_all_events_query = mysqli_query($connection, $query);
@@ -192,7 +203,7 @@
 
 <div class="col-md-12 ">
     <div class="cards article-image article-card">
-      <img class="card-img " src="image/<?php echo $event_image; ?>" alt="Maldives" />
+      <img class="card-img " src="image/<?php echo $event_image; ?>" alt="" />
       <div class="card-content">
         <h1 class="  card-title" ><?php echo $event_title ?></h1>
         <p class="card-category"><?php echo $event_date; ?></p>
