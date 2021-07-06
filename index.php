@@ -142,7 +142,6 @@
           </div>
           <div class="blog-post_info">
               <div class="blog-post___Date">
-                  <span>Sunday</span>
                   <span>October 27 2019</span>
               </div>
               <h1 class="blog-post_title">
@@ -156,6 +155,45 @@
       </div>
       </div>
 
+      <div class="container-blog">
+      <div class="blog-post">
+          <div class="blog-post___image">
+              <img src="./assets/img/hero/h1_hero.png" alt="">
+          </div>
+          <div class="blog-post_info">
+              <div class="blog-post___Date">
+                  <span>October 27 2019</span>
+              </div>
+              <h1 class="blog-post_title">
+                  SK AWARDING
+              </h1>
+              <p class="blog-post_text">
+                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod, delectus ratione nam cum maxime reiciendis.
+              </p>
+              <a href="" class="blog-post-cta"> Read more</a>
+          </div>
+      </div>
+      </div>
+
+      <div class="container-blog">
+      <div class="blog-post">
+          <div class="blog-post___image">
+              <img src="./assets/img/hero/h1_hero.png" alt="">
+          </div>
+          <div class="blog-post_info">
+              <div class="blog-post___Date">
+                  <span>October 27 2019</span>
+              </div>
+              <h1 class="blog-post_title">
+                  SK AWARDING
+              </h1>
+              <p class="blog-post_text">
+                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod, delectus ratione nam cum maxime reiciendis.
+              </p>
+              <a href="" class="blog-post-cta"> Read more</a>
+          </div>
+      </div>
+      </div>
 <div class="section-tittle text-center m-md-5">
 
 <p><h2 class="text-center"> NEWS AND UPDATE</h2></p>
