@@ -95,7 +95,7 @@
             </div>
             <div class="grid">
 
-<div class="grid-item" style="width:350px">
+<div class="grid-item" style="width:300px">
   <div class="cards">
     <img
       class="card-img"
@@ -109,7 +109,7 @@
     </div>
   </div>
 </div>
-<div class="grid-item" style="width:350px">
+<div class="grid-item" style="width:300px">
   <div class="cards">
     <img class="card-img" src="./assets/img/165899291_1710008445846342_4653169932694819731_n.jpg" alt="Maldives" />
     <div class="card-content">
@@ -119,7 +119,7 @@
     </div>
   </div>
 </div>
-<div class="grid-item" style="width:350px">
+<div class="grid-item" style="width:300px">
     <div class="cards">
       <img class="card-img" src="./assets/img/hero/h1_hero.png" alt="Maldives" />
       <div class="card-content">
@@ -131,40 +131,122 @@
   </div>
   
 </div>
-
 <div class="section-tittle text-center">
 
-<p><h2 class="text-center">News & Updates</h2></p>
+<p><h2 class="text-center container m-md-5"> Achievements</h2></p>
+</div>  
+    <div class="container-blog">
+      <div class="blog-post">
+          <div class="blog-post___image">
+              <img src="./assets/img/hero/h1_hero.png" alt="">
+          </div>
+          <div class="blog-post_info">
+              <div class="blog-post___Date">
+                  <span>October 27 2019</span>
+              </div>
+              <h1 class="blog-post_title">
+                  SK AWARDING
+              </h1>
+              <p class="blog-post_text">
+                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod, delectus ratione nam cum maxime reiciendis.
+              </p>
+              <a href="" class="blog-post-cta"> Read more</a>
+          </div>
+      </div>
+      </div>
+
+      <div class="container-blog">
+      <div class="blog-post">
+          <div class="blog-post___image">
+              <img src="./assets/img/hero/h1_hero.png" alt="">
+          </div>
+          <div class="blog-post_info">
+              <div class="blog-post___Date">
+                  <span>October 27 2019</span>
+              </div>
+              <h1 class="blog-post_title">
+                  SK AWARDING
+              </h1>
+              <p class="blog-post_text">
+                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod, delectus ratione nam cum maxime reiciendis.
+              </p>
+              <a href="" class="blog-post-cta"> Read more</a>
+          </div>
+      </div>
+      </div>
+
+      <div class="container-blog">
+      <div class="blog-post">
+          <div class="blog-post___image">
+              <img src="./assets/img/hero/h1_hero.png" alt="">
+          </div>
+          <div class="blog-post_info">
+              <div class="blog-post___Date">
+                  <span>October 27 2019</span>
+              </div>
+              <h1 class="blog-post_title">
+                  SK AWARDING
+              </h1>
+              <p class="blog-post_text">
+                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod, delectus ratione nam cum maxime reiciendis.
+              </p>
+              <a href="" class="blog-post-cta"> Read more</a>
+          </div>
+      </div>
+      </div>
+<div class="section-tittle text-center m-md-5">
+
+<p><h2 class="text-center"> NEWS AND UPDATE</h2></p>
 </div>
 
-<?php 
+<div class="category">
 
-$query = "SELECT * FROM categories";
-
-    $select_all_categories_query = mysqli_query($connection,$query);
-                    
-    while($row = mysqli_fetch_assoc($select_all_categories_query)){
-        
-       $cat_title = $row['cat_title'];
-        
- 
-
-<nav class="navbar navbar-light bg-light">
+<div class="well">
+                   
+                  <?php   
+                      
+                      $query = "SELECT * FROM categories";
   
-echo "<li><a href='#'>{$cat_title}</a></li>";
-</nav>
+                      $select_categories_sidebar = mysqli_query($connection,$query);
+                  ?>            
+  
+                      <h4>Blog Categories</h4>
+                      <div class="row">
+                          <div class="col-lg-12">                  
+                              <ul class="list-unstyled">
+                                
+                               
+                                                              
+                              </ul>
+                          </div>
+                      </div>
+                      <!-- /.row -->
+                  </div>
 
 
-       
-        
- }
+    <nav aria-label="...">
+      <ul class="pagination pagination-sm mb-3">
 
-?>  
+          <?php
+                                  
+          while($row = mysqli_fetch_assoc($select_categories_sidebar)){
+
+          $cat_title = $row['cat_title'];
+          $cat_id = $row['cat_id'];
 
 
-<div class="container big-box">
-<div class="row slidess">
-    <?php
+          echo "";
+          echo "<li class='page-item'><a class='page-link' href='category.php?category=$cat_id'>{$cat_title}</a></li></br>";   
+
+          }
+
+          ?>
+      </ul>
+    </nav>
+  </div>
+    <div class="container big-box">
+    <div class="row slidess">
+        <?php
 
     $query = "SELECT * FROM events ";
     $select_all_events_query = mysqli_query($connection, $query);
@@ -191,7 +273,9 @@ echo "<li><a href='#'>{$cat_title}</a></li>";
 
 <div class="col-md-12 ">
     <div class="cards article-image article-card">
-      <img class="card-img " src="image/<?php echo $event_image; ?>" alt="Maldives" />
+    <a href="<?php echo $event_link; ?>"> 
+      <img class="card-img " src="image/<?php echo $event_image; ?>" alt="" />
+      </a>
       <div class="card-content">
         <h1 class="  card-title" ><?php echo $event_title ?></h1>
         <p class="card-category"><?php echo $event_date; ?></p>
@@ -261,14 +345,14 @@ $('.slidess').slick({
   dots: true,
   infinite: false,
   speed: 300,
-  slidesToShow: 3,
+  slidesToShow: 2,
   slidesToScroll: 1,
   arrows: true ,
   responsive: [
     {
       breakpoint: 1024,
       settings: {
-        slidesToShow: 3,
+        slidesToShow: 2,
         slidesToScroll: 3,
         infinite: true,
         dots: true
@@ -277,7 +361,7 @@ $('.slidess').slick({
     {
       breakpoint: 600,
       settings: {
-        slidesToShow: 2,
+        slidesToShow: 2 ,
         slidesToScroll: 2
       }
     },
