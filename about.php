@@ -6,7 +6,7 @@
                     </video>
 
                     <div class="video-content">
-                            <h1>SK WEBSITE KING INA</h1>
+                            <h1>SK WEBSITE DEMO</h1>
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim, repudiandae.</p>
                     </div>
             </div>
