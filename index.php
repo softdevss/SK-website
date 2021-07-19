@@ -28,7 +28,7 @@
                                     </strong>
                                 </h1>
                                 <!--<p data-animation="fadeInLeft" data-delay="0.1s">Paragraph.</p>-->
-                                <a href="getappointment.php" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.3s">Get Appointment <i class="ti-arrow-right"></i></a>
+                                <!--<a href="getappointment.php" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.3s">Get Appointment <i class="ti-arrow-right"></i></a>-->
                             </div>
                         </div>
                     </div>
@@ -60,7 +60,7 @@
     </div>
     </div>
     <div class="carousel-item max-wid">
-      <img src="assets/img/gallery/gallery4.png" class="w-100 max-wid img-fluid max-wid" alt="...">
+      <img src="assets/img/gallery/h3_hero.jpg" class="w-100 max-wid img-fluid max-wid" alt="...">
       <div class="carousel-caption d-none d-md-block text-left font-weight-bold mb-50 ">
       
         
@@ -89,7 +89,7 @@
                 <div class="col-lg-6">
                     <div class="section-tittle text-center">
                       
-                        <p><h2 class="text-center"> Get in touch</h2></p>
+                        <p><h2 class="text-center"> GET IN TOUCH</h2></p>
                     </div>
                 </div>
             </div>
@@ -103,7 +103,7 @@
       alt="Grand Canyon"
     />
     <div class="card-content ">
-      <h6 class="card-header" >  Online Request </h6>
+      <h6 class="card-header" >  ONLINE REQUEST </h6>
 
       <button class="card-btn background-grid"><a href="online-request.phponline-request.php" target="_blank"><i class="fas fa-angle-right"></i> Get started</a></button>
     </div>
@@ -113,7 +113,7 @@
   <div class="cards">
     <img class="card-img" src="./assets/img/165899291_1710008445846342_4653169932694819731_n.jpg" alt="Maldives" />
     <div class="card-content">
-      <h1 class="card-header"> Donate </h1>
+      <h1 class="card-header"> DONATE </h1>
       
       <button class="card-btn background-grid"><a href="donation.php" target="_blank"><i class="fas fa-angle-right"></i> Get started</a></button>
     </div>
@@ -123,7 +123,7 @@
     <div class="cards">
       <img class="card-img" src="./assets/img/hero/h1_hero.png" alt="Maldives" />
       <div class="card-content">
-        <h1 class="card-header" > Appointment</h1>
+        <h1 class="card-header" > APPOINTMENT </h1>
         
         <button class="card-btn background-grid"><a href="getappointment.php" target="_blank"><i class="fas fa-angle-right"></i> Get started</a></button>
       </div>
@@ -133,22 +133,22 @@
 </div>
 <div class="section-tittle text-center">
 
-<p><h2 class="text-center container m-md-5"> Achievements</h2></p>
+<p><h2 class="text-center container m-md-5"> ACHIEVEMENTS</h2></p>
 </div>  
     <div class="container-blog">
       <div class="blog-post">
           <div class="blog-post___image">
-              <img src="./assets/img/hero/h1_hero.png" alt="">
+              <img src="./assets/img/hero/h3_hero.jpg" alt="">
           </div>
           <div class="blog-post_info">
               <div class="blog-post___Date">
-                  <span>October 27 2019</span>
+                  <span>AUGUST 23 2019</span>
               </div>
               <h1 class="blog-post_title">
-                  SK AWARDING
+                  MOST OUTSTANDING SK PROJECT OF THE PHILIPPINES
               </h1>
               <p class="blog-post_text">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod, delectus ratione nam cum maxime reiciendis.
+              Team SK San Isidro’s MANNINGning Sunday as the Grand Champion of the Most Oustanding SK Project in the Philippines
               </p>
               <a href="" class="blog-post-cta"> Read more</a>
           </div>
