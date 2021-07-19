@@ -67,7 +67,7 @@
                                 <nav >
                                     <ul id="navigation" >
                                         <li><a class="text-decoration-none" href="index.php">Home</a></li>
-                                        <li><a class="text-decoration-none" href="#">About</a>
+                                        <li><a class="text-decoration-none" href="about.php">About</a>
                                         <ul class="submenu">
                                         <li ><a class="text-decoration-none" href="roster.php"><i class="fas fa-chevron-right"></i> Sangguniang Kabataan Roster</a></li>
                                             <li><a class="text-decoration-none" href="officials.php"><i class="fas fa-chevron-right"></i> SK Elected Officials</a></li>
