@@ -1,5 +1,8 @@
 <?php include "includes/db.php" ?>
 <?php include "includes/header.php" ?>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 <main>
     <!--? Hero Start -->
     <div class="slider-area2">
@@ -28,6 +31,10 @@
                 <?php 
 
                         if(isset($_POST['submit'])){
+
+                    echo '<script type="text/javascript">
+  					swal("", "Successfully Submitted", "success");
+  					</script>';
 
                         $fullname  = $_POST['fullname'];
                         $email     = $_POST['email'];  
