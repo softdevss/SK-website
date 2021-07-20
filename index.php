@@ -99,7 +99,7 @@
   <div class="cards">
     <img
       class="card-img"
-      src="./assets/img/blog/single_blog_1.png"
+      src="./assets/img/request.png"
       alt="Grand Canyon"
     />
     <div class="card-content ">
@@ -111,7 +111,7 @@
 </div>
 <div class="grid-item" style="width:300px">
   <div class="cards">
-    <img class="card-img" src="./assets/img/165899291_1710008445846342_4653169932694819731_n.jpg" alt="Maldives" />
+    <img class="card-img" src="./assets/img/appointment.png" alt="Maldives" />
     <div class="card-content">
       <h1 class="card-header"> DONATE </h1>
       
@@ -121,7 +121,7 @@
 </div>
 <div class="grid-item" style="width:300px">
     <div class="cards">
-      <img class="card-img" src="./assets/img/hero/h1_hero.png" alt="Maldives" />
+      <img class="card-img" src="./assets/img/donation.png" alt="Maldives" />
       <div class="card-content">
         <h1 class="card-header" > APPOINTMENT </h1>
         
