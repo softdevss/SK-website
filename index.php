@@ -111,7 +111,7 @@
 </div>
 <div class="grid-item" style="width:300px">
   <div class="cards">
-    <img class="card-img" src="./assets/img/appointment.png" alt="Maldives" />
+    <img class="card-img" src="./assets/img/donation.png" alt="Maldives" />
     <div class="card-content">
       <h1 class="card-header"> DONATE </h1>
       
@@ -121,7 +121,7 @@
 </div>
 <div class="grid-item" style="width:300px">
     <div class="cards">
-      <img class="card-img" src="./assets/img/donation.png" alt="Maldives" />
+      <img class="card-img" src="./assets/img/appointments.png" alt="Maldives" />
       <div class="card-content">
         <h1 class="card-header" > APPOINTMENT </h1>
         
@@ -131,10 +131,14 @@
   </div>
   
 </div>
-<div class="section-tittle text-center">
-
-<p><h2 class="text-center container m-md-5"> ACHIEVEMENTS</h2></p>
-</div>  
+<div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="section-tittle text-center">
+                      
+                        <p><h2 class="text-center"> ACHIEVEMENTS</h2></p>
+                    </div>
+                </div>
+            </div>
     <div class="container-blog">
       <div class="blog-post">
           <div class="blog-post___image">
@@ -153,46 +157,63 @@
               <a href="" class="blog-post-cta"> Read more</a>
           </div>
       </div>
-      </div>
-
-      <div class="container-blog">
+      
       <div class="blog-post">
           <div class="blog-post___image">
-              <img src="./assets/img/hero/h1_hero.png" alt="">
+              <img src="./assets/img/hero/h3_hero.jpg" alt="">
           </div>
           <div class="blog-post_info">
               <div class="blog-post___Date">
-                  <span>October 27 2019</span>
+                  <span>AUGUST 23 2019</span>
               </div>
               <h1 class="blog-post_title">
-                  SK AWARDING
+                  MOST OUTSTANDING SK PROJECT OF THE PHILIPPINES
               </h1>
               <p class="blog-post_text">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod, delectus ratione nam cum maxime reiciendis.
+              Team SK San Isidro’s MANNINGning Sunday as the Grand Champion of the Most Oustanding SK Project in the Philippines
               </p>
               <a href="" class="blog-post-cta"> Read more</a>
           </div>
       </div>
-      </div>
 
-      <div class="container-blog">
       <div class="blog-post">
           <div class="blog-post___image">
-              <img src="./assets/img/hero/h1_hero.png" alt="">
+              <img src="./assets/img/hero/h3_hero.jpg" alt="">
           </div>
           <div class="blog-post_info">
               <div class="blog-post___Date">
-                  <span>October 27 2019</span>
+                  <span>AUGUST 23 2019</span>
               </div>
               <h1 class="blog-post_title">
-                  SK AWARDING
+                  MOST OUTSTANDING SK PROJECT OF THE PHILIPPINES
               </h1>
               <p class="blog-post_text">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod, delectus ratione nam cum maxime reiciendis.
+              Team SK San Isidro’s MANNINGning Sunday as the Grand Champion of the Most Oustanding SK Project in the Philippines
               </p>
               <a href="" class="blog-post-cta"> Read more</a>
           </div>
       </div>
+
+      <div class="blog-post">
+          <div class="blog-post___image">
+              <img src="./assets/img/hero/h3_hero.jpg" alt="">
+          </div>
+          <div class="blog-post_info">
+              <div class="blog-post___Date">
+                  <span>AUGUST 23 2019</span>
+              </div>
+              <h1 class="blog-post_title">
+                  MOST OUTSTANDING SK PROJECT OF THE PHILIPPINES
+              </h1>
+              <p class="blog-post_text">
+              Team SK San Isidro’s MANNINGning Sunday as the Grand Champion of the Most Oustanding SK Project in the Philippines
+              </p>
+              <a href="" class="blog-post-cta"> Read more</a>
+          </div>
+      </div>
+
+   
+    
       </div>
 <div class="section-tittle text-center m-md-5">
 
@@ -348,8 +369,13 @@ $('.slidess').slick({
   slidesToShow: 2,
   slidesToScroll: 1,
   arrows: true ,
+  loop: true,
+   autoplay: true,
+    autoplayTimeout: 2000, //2000ms = 2s;
+    autoplayHoverPause: true,
   responsive: [
     {
+      
       breakpoint: 1024,
       settings: {
         slidesToShow: 2,
